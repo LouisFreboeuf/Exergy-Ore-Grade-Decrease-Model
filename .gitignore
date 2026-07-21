@@ -2,12 +2,51 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+*.egg-info/
+dist/
+build/
 venv/
 .env
+.env.local
+.env.*.local
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*.ipynb_*
+
+# --- Data and Results ---
+# Cache and temporary data files
+*.cache
+*.tmp
+*.temp
+
+# Local data that can be regenerated
+data/*.cache
+data/*.tmp
 
 # --- VS Code stuff ---
 .vscode/
+*.code-workspace
 
 # --- System files ---
 .DS_Store
+Thumbs.db
+
+# --- IDE ---
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Logs ---
+*.log
+logs/
+
+# --- OS generated files ---
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
