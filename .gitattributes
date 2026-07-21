@@ -1,0 +1,22 @@
+# Handle line endings automatically
+* text=auto
+
+# CSV files should use LF line endings
+*.csv text eol=lf
+
+# Jupyter notebooks
+*.ipynb text eol=lf
+
+# Python files
+*.py text eol=lf
+
+# Markdown files
+*.md text eol=lf
+
+# Excel files - binary
+*.xlsx binary
+
+# Image files - binary
+*.png binary
+*.jpg binary
+*.drawio binary
