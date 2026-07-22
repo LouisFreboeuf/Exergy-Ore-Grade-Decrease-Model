@@ -19,22 +19,25 @@ from mendeleev import element
 
 def clean_chemical_name(name):
     """Clean chemical names for better matching."""
-    # Detect organic molecules (e.g. Ethane, 1,1-difluoro-, HFC-152a)
+    # This detects some of the organic molecules (e.g. Ethane, 1,1-difluoro-, HFC-152a)
     pattern1 = r"^(.+?),\\s+(.+?)-(?:,\\s+.*|$)"
-    # Detect flows with a comma
+    # This pattern simple detects the flows with a comma.
     pattern2 = r"(?<=[a-zA-Z]),.*"
     
     # First, check if the flow satisfies pattern1
     match = re.search(pattern1, name)
+    # If there is a match, then we change its format (e.g. from Ethane, 1,1-difluoro-, HFC-152a to 1,1-difluoroEthane)
     if match:
         name = re.sub(pattern1, r"\\g<2>\\g<1>", name)
+    # If not, we apply the 2nd pattern
     else:
         name = re.sub(pattern2, "", name)
     
-    # Remove Roman numerals at the end
+    # Second, remove Roman numerals at the end (e.g., Aluminium III -> Aluminium) if applicable
     name = re.sub(r"\\s+[IVXLCDM]+$", "", name)
     
-    # Remove 'ion' or 'ions' at the end
+    # 3. Third the word 'ion' or 'ions' at the end (e.g., Copper ion -> Copper) if applicable
+    # Using re.IGNORECASE makes it catch 'Ion', 'ION', or 'ion'
     name = re.sub(r"\\s+ions?$", "", name, flags=re.IGNORECASE)
     
     return name.strip()
@@ -42,11 +45,18 @@ def clean_chemical_name(name):
 
 def chem_comp(mf):
     """Parse molecular formula into element-count pairs."""
+    # First of all, we need to use re to cut the molecular formula into pieces
+    # Regex breakdown:
+    # ([A-Z][a-z]?) -> Matches an Uppercase letter potentially followed by a lowercase (the element)
+    # (\\d*)         -> Matches zero or more digits following the element (the count)
     pattern = r"([A-Z][a-z]?)(\\d*)"
+    
     matches = re.findall(pattern, mf)
     
     parts = []
+    
     for elem, count in matches:
+        # If the count is empty (like in 'Cl'), it means there is 1 atom
         count = int(count) if count else 1
         parts.append([elem, count])
     
@@ -56,7 +66,7 @@ def chem_comp(mf):
 def has_elem(parts, dict):
     """Check if any element in parts is in the dictionary."""
     for elem, count in parts:
-        if elem not in dict.keys():
+        if elem not in dict.keys():  # if it is not included in the list of elements
             continue
         else:
             return True
@@ -65,34 +75,35 @@ def has_elem(parts, dict):
 
 def cf_calculator(dict, mw, parts):
     """Calculate characterization factor for a molecular formula."""
-    cf = 0
+    cf = 0  # place holder for the 
     for elem, count in parts:
         if elem in dict.keys():
-            el_data = element(elem)
+            # Find the atomic mass of the element first
+            el_data = element(elem)  # from mendeley library
+            # Robustly get atomic weight as a scalar float (handles numpy/pandas types)
             aw = getattr(el_data, "atomic_weight", None)
             if aw is None:
                 raise ValueError(f"No atomic_weight for element {elem}")
-            
-            # Handle different types of atomic_weight
+            # If it's a pandas Series or similar, take first element
             if hasattr(aw, "iloc"):
                 aw = aw.iloc[0]
+            # If it's array-like (numpy), take first element
             elif hasattr(aw, "__array__") and not isinstance(aw, (float, int, str)):
                 aw = aw[0]
-            
             mass = float(aw)
             if mass == 0:
                 raise ValueError(f"Atomic weight for {elem} is zero")
-            
-            # Compute contribution
+            # Compute for the contribution of this element in the final mf
             cf += count * (mass / mw) * dict[elem]
         else:
             continue
     return cf
 
 
-def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
+def create_ogd_method_manual(OGD_df, method_name_suffix=None):
     """
-    Create OGD method from OGD_df DataFrame.
+    Create OGD method using manual CF assignment (from original notebook approach).
+    This avoids PubChem API issues and uses direct element matching.
     
     Parameters:
     -----------
@@ -109,7 +120,7 @@ def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
     method_data : list
         List of (flow_key, cf) tuples
     """
-    print("Creating OGD method from DataFrame...")
+    print("Creating OGD method using manual approach...")
     
     # Calculate CF1 if not already present
     if 'CF1' not in OGD_df.columns:
@@ -129,7 +140,7 @@ def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
     
     method_name_tuple = (
         "Cumulative Ore Grade Decline",
-        "Ore Grade Decline",
+        "Cumulative ore grade variation",
         suffix
     )
     
@@ -139,18 +150,18 @@ def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
         'description': 'This LCIA method is one out of the 3 steps of the currently developing surplus exergy method.'
                         'It models the decrease of ore-grade with the progression of the extraction activities.'
                         'Each characterisation factor answers the question: For every additional kg of metal extracted within the product system (increase in CMT), by how much does the ore grade (g) drop?'
-                        'The impact score (IS) isn\'t the final value of the intended impact yet. '
+                        'The impact score (IS) is not the final value of the intended impact yet. '
                         'This IS needs to be fed to two more calculations to find out the exergy lost due to the dissipation in the product system.',
         'source': 'The values are taken from the appendix of ReCiPe 2016: https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf',
         'version': '2.0',
-        'num_cfs': len(CF1_dict),  # Will be updated
+        'num_cfs': 0,  # Will be updated
         'application': 'Input product-system metals characterization'
     }
     
     # Get biosphere database
     biosphere_db = bd.Database('ecoinvent-3.4-biosphere')
     
-    # Create method data by matching flows to CF1 values
+    # Create method data by matching flows to elements using direct string matching
     method_data = []
     
     print(f"Matching {len(biosphere_db)} biosphere flows to {len(CF1_dict)} elements...")
@@ -162,45 +173,25 @@ def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
             flow['unit'].lower() == 'kilogram' and 
             flow['categories'][0].lower() == 'natural resource'):
             
-            flow_name_cleaned = clean_chemical_name(flow['name'])
+            flow_name = flow['name']
             
-            sleep(0.3)  # Slow down API requests
+            # Try to match flow name to elements in CF1_dict using direct string matching
+            # This is more reliable than PubChem API
+            matched = False
+            for elem in CF1_dict.keys():
+                # Check if element symbol appears in flow name
+                if elem in flow_name:
+                    method_data.append((flow.key, CF1_dict[elem]))
+                    matched = True
+                    break
             
-            max_retries = 3
-            for attempt in range(max_retries):
-                try:
-                    compound = pcp.get_compounds(flow_name_cleaned, 'name')
-                    if compound is not None and len(compound) > 0:
-                        c = compound[0]
-                        mf = c.molecular_formula
-                        mw = c.molecular_weight
-                        
-                        parts = chem_comp(mf)
-                        
-                        # If the flow contains only one element
-                        if len(parts) == 1:
-                            if has_elem(parts, CF1_dict):
-                                cf = CF1_dict.get(parts[0][0])
-                                method_data.append((flow.key, float(cf)))
-                                break
-                            else:
-                                break
-                        # If the flow contains a compound
-                        elif len(parts) > 1:
-                            if has_elem(parts, CF1_dict):
-                                cf = cf_calculator(CF1_dict, mw, parts)
-                                method_data.append((flow.key, float(cf)))
-                                break
-                            else:
-                                break
-                    else:
-                        break
-                        
-                except PubChemHTTPError as e:
-                    if "502" in str(e) and attempt < max_retries - 1:
-                        print(f"Server hit a 502 for {flow_name_cleaned}. Retrying...")
-                        time.sleep(2)
-                    else:
+            if not matched:
+                # Try case-insensitive matching
+                flow_name_lower = flow_name.lower()
+                for elem in CF1_dict.keys():
+                    if elem.lower() in flow_name_lower:
+                        method_data.append((flow.key, CF1_dict[elem]))
+                        matched = True
                         break
     
     # Update metadata with actual number of CFs
@@ -228,13 +219,46 @@ def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
         raise
 
 
-def create_functional_unit(electricity_activity, amount_twh=268):
+def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
+    """
+    Create OGD method from DataFrame (alias for manual method).
+    """
+    return create_ogd_method_manual(OGD_df, method_name_suffix)
+
+
+def find_spanish_electricity():
+    """
+    Find Spanish high voltage electricity activities.
+    """
+    print("Searching for Spanish electricity activities...")
+    
+    cutoff_db = bd.Database('ecoinvent-3.4-cutoff')
+    
+    # Search for the specific activity
+    target_activities = []
+    for activity in cutoff_db:
+        name = activity.get('name', '').lower()
+        
+        # Look for high voltage Spain electricity main market
+        if all(term in name for term in ['electricity', 'spain', 'high voltage', 'main market']):
+            target_activities.append(activity)
+        elif all(term in name for term in ['electricity', 'es', 'high voltage']):
+            target_activities.append(activity)
+    
+    print(f"Found {len(target_activities)} potential activities:")
+    for i, act in enumerate(target_activities):
+        print(f"  {i+1}. {act.get('name')} - {act.get('reference product')} - {act.get('unit')} - {act.key}")
+    
+    return target_activities
+
+
+def create_functional_unit(activity, amount_twh=268):
     """
     Create functional unit for electricity production.
     
     Parameters:
     -----------
-    electricity_activity : dict
+    activity : dict
         The Brightway25 activity for electricity
     amount_twh : float
         Amount in TWh (default: 268)
@@ -248,9 +272,9 @@ def create_functional_unit(electricity_activity, amount_twh=268):
     unit_display : str
         The unit used for display
     """
-    activity_name = electricity_activity.get('name')
-    activity_unit = electricity_activity.get('unit', '').lower()
-    activity_key = electricity_activity.key
+    activity_name = activity.get('name')
+    activity_unit = activity.get('unit', '').lower()
+    activity_key = activity.key
     
     print(f"Creating functional unit for {amount_twh} TWh...")
     print(f"Activity: {activity_name}")
@@ -323,28 +347,31 @@ def calculate_lcia_with_bw2calc(fu, method_name_tuple):
                 try:
                     flow = bd.get_activity(flow_key)
                     results_data.append({
-                        'flow_key': flow_key,
-                        'flow_name': flow.get('name'),
-                        'categories': str(flow.get('categories')),
-                        'type': flow.get('type'),
-                        'unit': flow.get('unit'),
-                        'database': flow.get('database'),
-                        'contribution': contribution
+                        'Flow Key': flow_key,
+                        'Flow Name': flow.get('name'),
+                        'Categories': str(flow.get('categories')),
+                        'Type': flow.get('type'),
+                        'Unit': flow.get('unit'),
+                        'Database': flow.get('database'),
+                        'Contribution': contribution
                     })
                 except:
                     results_data.append({
-                        'flow_key': flow_key,
-                        'flow_name': f"Unknown flow {flow_key}",
-                        'categories': '',
-                        'type': '',
-                        'unit': '',
-                        'database': '',
-                        'contribution': contribution
+                        'Flow Key': flow_key,
+                        'Flow Name': f"Unknown flow {flow_key}",
+                        'Categories': '',
+                        'Type': 'Unknown',
+                        'Unit': 'Unknown',
+                        'Database': 'Unknown',
+                        'Contribution': contribution
                     })
         
         elementary_contributions = pd.DataFrame(results_data)
-        elementary_contributions['abs_contribution'] = elementary_contributions['contribution'].abs()
-        elementary_contributions = elementary_contributions.sort_values('abs_contribution', ascending=False)
+        
+        # Add absolute contribution for sorting
+        if not elementary_contributions.empty:
+            elementary_contributions['Abs_Contribution'] = elementary_contributions['Contribution'].abs()
+            elementary_contributions = elementary_contributions.sort_values('Abs_Contribution', ascending=False)
         
         print(f"Found {len(elementary_contributions)} elementary flow contributions")
         
@@ -363,15 +390,13 @@ def calculate_lcia_with_bw2calc(fu, method_name_tuple):
 
 def get_top_contributions(elementary_contributions, n=10):
     """Get top N contributions as a formatted string."""
-    return elementary_contributions.head(n)[['flow_name', 'contribution']].to_string(index=False)
+    return elementary_contributions.head(n)[['Flow Name', 'Contribution']].to_string(index=False)
 
 
 def get_bottom_contributions(elementary_contributions, n=10):
     """Get bottom N contributions as a formatted string."""
-    return elementary_contributions.tail(n)[['flow_name', 'contribution']].to_string(index=False)
+    return elementary_contributions.tail(n)[['Flow Name', 'Contribution']].to_string(index=False)
 
-
-# Example usage function
 
 def run_complete_workflow(OGD_df_path='Ore-GradeDeclineConstants.xlsx', amount_twh=268):
     """
@@ -405,7 +430,7 @@ def run_complete_workflow(OGD_df_path='Ore-GradeDeclineConstants.xlsx', amount_t
     
     # Step 3: Find Spanish electricity
     print("\n3. Finding Spanish electricity activity...")
-    electricity_activities = find_spanish_electricity_activity()
+    electricity_activities = find_spanish_electricity()
     
     if not electricity_activities:
         print("No Spanish electricity activities found!")

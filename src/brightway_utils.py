@@ -92,6 +92,52 @@ def search_activities(name=None, location=None, database=None, reference_product
     
     return matching_activities
 
+
+def find_spanish_electricity():
+    """
+    Find Spanish high voltage electricity activities.
+    
+    Returns:
+    --------
+    list : List of matching Spanish electricity activities
+    """
+    print("Searching for Spanish electricity activities...")
+    
+    # Search for electricity activities in Spain
+    electricity_activities = search_activities(
+        name='electricity',
+        location='spain',
+        limit=20
+    )
+    
+    # If no results, try with 'es' location
+    if not electricity_activities:
+        electricity_activities = search_activities(
+            name='electricity',
+            location='es',
+            limit=20
+        )
+    
+    # Filter for high voltage and main market
+    high_voltage_activities = []
+    for activity in electricity_activities:
+        activity_name = activity.get('name', '').lower()
+        if ('high voltage' in activity_name and 'main market' in activity_name) or \
+           ('high voltage' in activity_name and 'market' in activity_name):
+            high_voltage_activities.append(activity)
+    
+    if high_voltage_activities:
+        print(f"Found {len(high_voltage_activities)} high voltage Spanish electricity activities")
+        for i, act in enumerate(high_voltage_activities):
+            print(f"  {i+1}. {act.get('name')} - {act.get('reference product')} - {act.get('unit')} - {act.key}")
+    else:
+        print(f"Found {len(electricity_activities)} Spanish electricity activities (not all high voltage):")
+        for i, act in enumerate(electricity_activities[:10]):  # Show first 10
+            print(f"  {i+1}. {act.get('name')} - {act.get('reference product')} - {act.get('unit')} - {act.key}")
+    
+    return high_voltage_activities or electricity_activities
+
+
 def get_activity_by_name_and_location(name, location, database=None):
     """
     Get a specific activity by name and location.
@@ -270,96 +316,55 @@ def get_elementary_flow_contributions(fu_dict, method_name_tuple):
         return pd.DataFrame(), 0.0
 
 
-def create_functional_unit(activity, amount, unit=None):
+def create_functional_unit(activity, amount_twh=268):
     """
-    Create a functional unit dictionary.
+    Create functional unit for electricity production.
     
     Parameters:
     -----------
     activity : dict
-        Brightway25 activity
-    amount : float
-        Amount for the functional unit
-    unit : str, optional
-        Target unit (if different from activity unit)
+        The Brightway25 activity for electricity
+    amount_twh : float
+        Amount in TWh (default: 268)
     
     Returns:
     --------
-    fu_dict : dict
+    fu : dict
         Functional unit dictionary {activity_key: amount}
+    amount : float
+        The converted amount in the activity's units
+    unit_display : str
+        The unit used for display
     """
-    activity_key = activity.key
+    activity_name = activity.get('name')
     activity_unit = activity.get('unit', '').lower()
+    activity_key = activity.key
     
-    # If target unit is specified and different from activity unit, convert
-    if unit and unit.lower() != activity_unit:
-        # Simple unit conversion (extend as needed)
-        if 'kilowatt hour' in activity_unit and 'megajoule' in unit.lower():
-            amount = amount * 3600  # kWh to MJ
-        elif 'megajoule' in activity_unit and 'kilowatt hour' in unit.lower():
-            amount = amount / 3600  # MJ to kWh
-        elif 'gigajoule' in activity_unit and 'kilowatt hour' in unit.lower():
-            amount = amount * 1000 * 3600  # GJ to kWh
-        elif 'kilowatt hour' in activity_unit and 'gigajoule' in unit.lower():
-            amount = amount / (1000 * 3600)  # kWh to GJ
-        elif 'kilowatt hour' in activity_unit and 'terawatt hour' in unit.lower():
-            amount = amount * 10**9  # kWh to TWh
+    print(f"Creating functional unit for {amount_twh} TWh...")
+    print(f"Activity: {activity_name}")
+    print(f"Activity unit: {activity_unit}")
     
-    return {activity_key: amount}
-
-
-# Example usage function
-
-def example_usage():
-    """Example of how to use these functions in your notebook."""
+    # Convert TWh to the appropriate unit
+    # 1 TWh = 10^9 kWh = 3.6 * 10^12 MJ = 3.6 * 10^9 GJ
     
-    print("=" * 80)
-    print("BRIGHTWAY UTILS EXAMPLE USAGE")
-    print("=" * 80)
+    if 'kwh' in activity_unit:
+        amount = amount_twh * 10**9  # TWh to kWh
+        unit_display = "kWh"
+    elif 'mj' in activity_unit:
+        amount = amount_twh * 10**9 * 3600  # TWh to MJ
+        unit_display = "MJ"
+    elif 'gj' in activity_unit:
+        amount = amount_twh * 10**9 * 3.6  # TWh to GJ
+        unit_display = "GJ"
+    else:
+        # Default to kWh
+        amount = amount_twh * 10**9
+        unit_display = "kWh"
+        print(f"Warning: Unknown unit '{activity_unit}', defaulting to kWh")
     
-    # Set up project
-    project_name = "SurplusEx"
-    if project_name not in bd.projects:
-        bd.projects.create(project_name)
-    bd.projects.set_current(project_name)
+    print(f"Functional unit: {amount} {unit_display} of {activity_name}")
     
-    # Example 1: Search for activities
-    print("\n1. Search for activities by name and location:")
-    activities = search_activities(name='electricity', location='spain', limit=5)
-    for i, act in enumerate(activities):
-        print(f"  {i+1}. {act.get('name')} - {act.get('location')} - {act.get('reference product')}")
+    # Create functional unit dictionary
+    fu = {activity_key: amount}
     
-    # Example 2: Find Spanish electricity
-    print("\n2. Find Spanish electricity activities:")
-    spanish_electricity = find_spanish_electricity()
-    if spanish_electricity:
-        print(f"  Found: {spanish_electricity[0].get('name')}")
-    
-    # Example 3: Get inventory flows
-    print("\n3. Get inventory flows:")
-    if spanish_electricity:
-        # Create functional unit for 268 TWh
-        fu = create_functional_unit(spanish_electricity[0], amount=268 * 10**9)  # 268 TWh = 268 * 10^9 kWh
-        
-        # Get inventory flows
-        inventory_df = get_inventory_flows(fu)
-        if not inventory_df.empty:
-            print(f"  Found {len(inventory_df)} inventory flows")
-            print("  Top 5 flows:")
-            print(inventory_df.head()[['Flow Name', 'Amount', 'Unit']].to_string(index=False))
-    
-    # Example 4: Get elementary flow contributions
-    print("\n4. Get elementary flow contributions:")
-    if spanish_electricity:
-        # You would need to have a method created first
-        # For now, just show the function signature
-        print("  Function: get_elementary_flow_contributions(fu_dict, method_name_tuple)")
-        print("  Example: contributions_df, total_score = get_elementary_flow_contributions(fu, method_tuple)")
-    
-    print("\n" + "=" * 80)
-    print("EXAMPLE COMPLETED")
-    print("=" * 80)
-
-
-if __name__ == "__main__":
-    example_usage()
+    return fu, amount, unit_display

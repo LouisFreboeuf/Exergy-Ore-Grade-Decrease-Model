@@ -16,6 +16,7 @@ from .ogd_functions import (
     has_elem,
     cf_calculator,
     create_ogd_method_from_dataframe,
+    create_ogd_method_manual,
     run_complete_workflow
 )
 
@@ -34,5 +35,6 @@ __all__ = [
     'has_elem',
     'cf_calculator',
     'create_ogd_method_from_dataframe',
+    'create_ogd_method_manual',
     'run_complete_workflow'
 ]
