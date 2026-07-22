@@ -92,52 +92,6 @@ def search_activities(name=None, location=None, database=None, reference_product
     
     return matching_activities
 
-
-def find_spanish_electricity():
-    """
-    Find Spanish high voltage electricity activities.
-    
-    Returns:
-    --------
-    list : List of matching Spanish electricity activities
-    """
-    print("Searching for Spanish electricity activities...")
-    
-    # Search for electricity activities in Spain
-    electricity_activities = search_activities(
-        name='electricity',
-        location='spain',
-        limit=20
-    )
-    
-    # If no results, try with 'es' location
-    if not electricity_activities:
-        electricity_activities = search_activities(
-            name='electricity',
-            location='es',
-            limit=20
-        )
-    
-    # Filter for high voltage and main market
-    high_voltage_activities = []
-    for activity in electricity_activities:
-        activity_name = activity.get('name', '').lower()
-        if ('high voltage' in activity_name and 'main market' in activity_name) or \
-           ('high voltage' in activity_name and 'market' in activity_name):
-            high_voltage_activities.append(activity)
-    
-    if high_voltage_activities:
-        print(f"Found {len(high_voltage_activities)} high voltage Spanish electricity activities")
-        for i, act in enumerate(high_voltage_activities):
-            print(f"  {i+1}. {act.get('name')} - {act.get('reference product')} - {act.get('unit')} - {act.key}")
-    else:
-        print(f"Found {len(electricity_activities)} Spanish electricity activities (not all high voltage):")
-        for i, act in enumerate(electricity_activities[:10]):  # Show first 10
-            print(f"  {i+1}. {act.get('name')} - {act.get('reference product')} - {act.get('unit')} - {act.key}")
-    
-    return high_voltage_activities or electricity_activities
-
-
 def get_activity_by_name_and_location(name, location, database=None):
     """
     Get a specific activity by name and location.
@@ -340,14 +294,16 @@ def create_functional_unit(activity, amount, unit=None):
     # If target unit is specified and different from activity unit, convert
     if unit and unit.lower() != activity_unit:
         # Simple unit conversion (extend as needed)
-        if 'kwh' in activity_unit and 'mj' in unit.lower():
+        if 'kilowatt hour' in activity_unit and 'megajoule' in unit.lower():
             amount = amount * 3600  # kWh to MJ
-        elif 'mj' in activity_unit and 'kwh' in unit.lower():
+        elif 'megajoule' in activity_unit and 'kilowatt hour' in unit.lower():
             amount = amount / 3600  # MJ to kWh
-        elif 'gj' in activity_unit and 'kwh' in unit.lower():
+        elif 'gigajoule' in activity_unit and 'kilowatt hour' in unit.lower():
             amount = amount * 1000 * 3600  # GJ to kWh
-        elif 'kwh' in activity_unit and 'gj' in unit.lower():
+        elif 'kilowatt hour' in activity_unit and 'gigajoule' in unit.lower():
             amount = amount / (1000 * 3600)  # kWh to GJ
+        elif 'kilowatt hour' in activity_unit and 'terawatt hour' in unit.lower():
+            amount = amount * 10**9  # kWh to TWh
     
     return {activity_key: amount}
 

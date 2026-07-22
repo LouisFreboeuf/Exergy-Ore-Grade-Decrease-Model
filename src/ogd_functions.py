@@ -129,7 +129,7 @@ def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
     
     method_name_tuple = (
         "Cumulative Ore Grade Decline",
-        "Cumulative ore grade variation",
+        "Ore Grade Decline",
         suffix
     )
     
@@ -143,7 +143,7 @@ def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
                         'This IS needs to be fed to two more calculations to find out the exergy lost due to the dissipation in the product system.',
         'source': 'The values are taken from the appendix of ReCiPe 2016: https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf',
         'version': '2.0',
-        'num_cfs': 0,  # Will be updated
+        'num_cfs': len(CF1_dict),  # Will be updated
         'application': 'Input product-system metals characterization'
     }
     
@@ -226,36 +226,6 @@ def create_ogd_method_from_dataframe(OGD_df, method_name_suffix=None):
     except Exception as e:
         print(f"❌ Failed to write method: {str(e)}")
         raise
-
-
-def find_spanish_electricity_activity():
-    """
-    Find high voltage Spain electricity main market activity.
-    
-    Returns:
-    --------
-    list : List of matching activities
-    """
-    print("Searching for Spanish electricity activity...")
-    
-    cutoff_db = bd.Database('ecoinvent-3.4-cutoff')
-    
-    # Search for the specific activity
-    target_activities = []
-    for activity in cutoff_db:
-        name = activity.get('name', '').lower()
-        
-        # Look for high voltage Spain electricity main market
-        if all(term in name for term in ['electricity', 'spain', 'high voltage', 'main market']):
-            target_activities.append(activity)
-        elif all(term in name for term in ['electricity', 'es', 'high voltage']):
-            target_activities.append(activity)
-    
-    print(f"Found {len(target_activities)} potential activities:")
-    for i, act in enumerate(target_activities):
-        print(f"  {i+1}. {act.get('name')} - {act.get('reference product')} - {act.get('unit')} - {act.key}")
-    
-    return target_activities
 
 
 def create_functional_unit(electricity_activity, amount_twh=268):
