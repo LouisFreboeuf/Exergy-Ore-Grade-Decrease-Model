@@ -1,6 +1,6 @@
 # Core dependencies for Exergy Ore Grade Decrease Model
 # Brightway2.5 LCA framework
-brightway25>=2.5.0
+
 bw2io>=0.8.0
 bw2calc>=1.7.0
 bw2data>=4.0.0

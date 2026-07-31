@@ -65,7 +65,7 @@ configs = [
 
 def modify_notebook(original_path, output_path, params):
     """Modify a Jupyter notebook to inject parameters."""
-    with open(original_path, 'r') as f:
+    with open(original_path, 'r', encoding='utf-8') as f:
         nb = json.load(f)
     
     # Update parameter values in the notebook cells
@@ -101,29 +101,29 @@ def modify_notebook(original_path, output_path, params):
                 ]
     
     # Write the modified notebook
-    with open(output_path, 'w') as f:
+    with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(nb, f, indent=1)
 
 def execute_notebook(notebook_path, output_path, timeout=1800):
     """Execute a Jupyter notebook and save the output."""
     cmd = [
-        'jupyter', 'nbconvert',
+        sys.executable, '-m', 'nbconvert',
         '--to', 'notebook',
         '--execute', notebook_path,
         '--output', output_path,
         '--ExecutePreprocessor.timeout=' + str(timeout),
         '--ExecutePreprocessor.allow_errors=False'
     ]
-    
+
     print(f"Executing: {' '.join(cmd)}")
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 60)
-    
+    result = subprocess.run(cmd, capture_output=True, text=True)
+
     if result.returncode != 0:
         print(f"Error executing notebook:")
         print(f"STDOUT: {result.stdout}")
         print(f"STDERR: {result.stderr}")
         return False
-    
+
     return True
 
 def main():
