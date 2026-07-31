@@ -1,0 +1,124 @@
+name: Run SurplusEx Notebook for All Configurations
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "SurplusEx.ipynb"
+      - ".github/workflows/run_surplus_ex.yml"
+      - "requirements.txt"
+      - "inputs/*.csv"
+
+jobs:
+  run_notebook:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 2
+      fail-fast: false
+      matrix:
+        config:
+          - name: all_vieira_natural_resources
+            viera_csv_input_data: inputs/sop-vieira-constants_all.csv
+            input_for_xi: inputs/sop-vieira-constants_all.csv
+            focus: natural_resource
+          - name: all_vieira_dissipation
+            viera_csv_input_data: inputs/sop-vieira-constants_all.csv
+            input_for_xi: inputs/sop-vieira-constants_all.csv
+            focus: dissipation
+          - name: all_valero_natural
+            viera_csv_input_data: inputs/sop-vieira-constants_all.csv
+            input_for_xi: inputs/valero-constants_with_xm.csv
+            focus: natural_resource
+          - name: all_valero_dissipation
+            viera_csv_input_data: inputs/sop-vieira-constants_all.csv
+            input_for_xi: inputs/valero-constants_with_xm.csv
+            focus: dissipation
+          - name: updatedFe_vieira_natural_resources
+            viera_csv_input_data: inputs/sop-vieira-constants_updatedFe.csv
+            input_for_xi: inputs/sop-vieira-constants_updatedFe.csv
+            focus: natural_resource
+          - name: updatedFe_vieira_dissipation
+            viera_csv_input_data: inputs/sop-vieira-constants_updatedFe.csv
+            input_for_xi: inputs/sop-vieira-constants_updatedFe.csv
+            focus: dissipation
+          - name: updatedFe_valero_natural
+            viera_csv_input_data: inputs/sop-vieira-constants_updatedFe.csv
+            input_for_xi: inputs/valero-constants_with_xm.csv
+            focus: natural_resource
+          - name: updatedFe_valero_dissipation
+            viera_csv_input_data: inputs/sop-vieira-constants_updatedFe.csv
+            input_for_xi: inputs/valero-constants_with_xm.csv
+            focus: dissipation
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Validate input files
+        run: |
+          echo "Validating input files..."
+          for file in inputs/sop-vieira-constants_all.csv inputs/sop-vieira-constants_updatedFe.csv inputs/valero-constants_with_xm.csv inputs/valero-constant.csv
+          do
+            if [ ! -f "$file" ]
+            then
+              echo "Error: Missing input file: $file"
+              exit 1
+            fi
+          done
+          echo "All input files validated successfully."
+
+      - name: Install dependencies
+        run: |
+          echo "Installing dependencies from requirements.txt..."
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install nbconvert papermill
+          echo "Dependencies installed successfully."
+
+      - name: Restore Brightway project
+        run: |
+          pip install bw2io
+          python -c "
+          import bw2io as bi
+          bi.backup.restore_project_directory('CERC_backup.tar.gz', 'CERC', switch=True)
+          "
+
+      - name: Run notebook with configuration
+        run: |
+          echo "Starting notebook execution for ${{ matrix.config.name }}..."
+          mkdir -p results
+          jupyter nbconvert --to notebook --execute SurplusEx.ipynb \
+            --output "SurplusEx_${{ matrix.config.name }}.ipynb" \
+            --ExecutePreprocessor.timeout=1800 \
+            --ExecutePreprocessor.allow_errors=False \
+            --var viera_csv_input_data="${{ matrix.config.viera_csv_input_data }}" \
+            --var input_for_xi="${{ matrix.config.input_for_xi }}" \
+            --var focus="${{ matrix.config.focus }}" || {
+              echo "Error: Notebook execution failed for ${{ matrix.config.name }}"
+              exit 1
+            }
+          mv "SurplusEx_${{ matrix.config.name }}.ipynb" "results/"
+          if [ -f "all_results.json" ]; then
+            mv "all_results.json" "results/all_results_${{ matrix.config.name }}.json"
+          fi
+          echo "Notebook execution completed successfully for ${{ matrix.config.name }}."
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: results-${{ matrix.config.name }}
+          path: results/
+          retention-days: 30
