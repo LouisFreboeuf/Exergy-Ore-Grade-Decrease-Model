@@ -41,15 +41,14 @@ for config in "${configs[@]}"; do
     echo "  focus: $focus"
     echo "=========================================="
 
-    # Run the notebook with the current configuration
+    # Run the notebook with the current configuration using papermill
     echo "Executing notebook..."
-    jupyter nbconvert --to notebook --execute SurplusEx.ipynb \
-        --output "results/SurplusEx_${config_name}.ipynb" \
-        --ExecutePreprocessor.timeout=1800 \
-        --ExecutePreprocessor.allow_errors=False \
-        --var viera_csv_input_data="$viera_csv_input_data" \
-        --var input_for_xi="$input_for_xi" \
-        --var focus="$focus"
+    papermill SurplusEx.ipynb "results/SurplusEx_${config_name}.ipynb" \
+        -p viera_csv_input_data "$viera_csv_input_data" \
+        -p input_for_xi "$input_for_xi" \
+        -p focus "$focus" \
+        --timeout 1800 \
+        --log-level ERROR
 
     # Check if execution was successful
     if [ $? -eq 0 ]; then
