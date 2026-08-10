@@ -1,0 +1,165 @@
+flow,amount,categories,unit
+Aluminium,115105.73238272479,"('water', 'ground-, long-term')",kilogram
+"Iron, ion",7279.329342370369,"('water', 'ground-, long-term')",kilogram
+Aluminium,2873.6679343063624,"('air',)",kilogram
+Molybdenum,425.3195215600261,"('water', 'ground-, long-term')",kilogram
+"Iron, ion",241.1668540521813,"('water', 'ground-')",kilogram
+"Nickel, ion",211.71773934423442,"('water', 'ground-, long-term')",kilogram
+Molybdenum,189.50020929506778,"('water', 'surface water')",kilogram
+Aluminium,165.24058610000668,"('water', 'surface water')",kilogram
+"Silver, ion",52.413306607558134,"('water',)",kilogram
+Iron,50.52000077194304,"('soil',)",kilogram
+Aluminium,44.88859911444394,"('water', 'ground-')",kilogram
+"Copper, ion",40.902548445304774,"('water', 'ground-, long-term')",kilogram
+Aluminium,27.120107418606,"('air', 'urban air close to ground')",kilogram
+Manganese,25.768180468443585,"('water', 'ground-, long-term')",kilogram
+"Silver, ion",23.174099925802516,"('water', 'ground-, long-term')",kilogram
+Aluminium,13.981448185684416,"('air', 'low population density, long-term')",kilogram
+"Zinc, ion",11.46801123354584,"('water', 'ground-, long-term')",kilogram
+Molybdenum,9.768122951295593,"('water', 'ground-')",kilogram
+Aluminium,9.091508721578382,"('water',)",kilogram
+Aluminium,8.993331741537308,"('soil', 'industrial')",kilogram
+"Iron, ion",5.315527203950015,"('water',)",kilogram
+"Silver, ion",3.4630073881903782,"('water', 'ground-')",kilogram
+Iron,3.072965694616519,"('soil', 'industrial')",kilogram
+Iron,2.5975339870101997,"('air', 'low population density, long-term')",kilogram
+Chromium VI,2.581297383448251,"('water', 'ground-, long-term')",kilogram
+Aluminium,2.28248090528847,"('soil', 'agricultural')",kilogram
+Molybdenum,2.1878462952696602,"('air', 'non-urban air or from high stacks')",kilogram
+Iron,1.9846304168177795,"('air', 'urban air close to ground')",kilogram
+Aluminium,1.6876393857236924,"('water', 'ocean')",kilogram
+"Iron, ion",1.3279490447821858,"('water', 'surface water')",kilogram
+Nickel,1.1185576203429948,"('air', 'non-urban air or from high stacks')",kilogram
+Molybdenum,1.0843186078307265,"('air',)",kilogram
+Uranium,1.0352821184432224,"('air', 'urban air close to ground')",kilogram
+Iron,1.02027620647884,"('air',)",kilogram
+"Nickel, ion",0.795901983957437,"('water', 'ground-')",kilogram
+Iron,0.6081314748291419,"('soil', 'agricultural')",kilogram
+"Silver, ion",0.5154791581682475,"('water', 'surface water')",kilogram
+Copper,0.5008479111935412,"('air', 'non-urban air or from high stacks')",kilogram
+Manganese,0.2610834873002715,"('water', 'ground-')",kilogram
+Chromium VI,0.24730183566335184,"('water', 'surface water')",kilogram
+Lead,0.1575324734769556,"('water', 'ground-, long-term')",kilogram
+Copper,0.15135497559005204,"('air',)",kilogram
+Molybdenum,0.14094662083270676,"('air', 'urban air close to ground')",kilogram
+Silver,0.10625240340487979,"('air', 'low population density, long-term')",kilogram
+Molybdenum,0.10296583469853564,"('air', 'low population density, long-term')",kilogram
+Zinc,0.08858693312666399,"('air', 'non-urban air or from high stacks')",kilogram
+Nickel,0.08559799280492525,"('air', 'urban air close to ground')",kilogram
+Lead,0.08293620908913527,"('air', 'non-urban air or from high stacks')",kilogram
+Chromium,0.07780590106897291,"('air', 'non-urban air or from high stacks')",kilogram
+"Copper, ion",0.061676794796963794,"('water', 'ground-')",kilogram
+Molybdenum,0.04790081323138329,"('water',)",kilogram
+Aluminium,0.047645889036792226,"('soil',)",kilogram
+Iron,0.04303989201084655,"('water', 'ground-')",kilogram
+"Zinc, ion",0.04128082820572544,"('water', 'ground-')",kilogram
+"Nickel, ion",0.040262312523277055,"('water', 'surface water')",kilogram
+Aluminium,0.031150522661985394,"('air', 'non-urban air or from high stacks')",kilogram
+Manganese,0.02508963778478085,"('air', 'non-urban air or from high stacks')",kilogram
+"Nickel, ion",0.022840314266661,"('water',)",kilogram
+Copper,0.019626757989187595,"('air', 'urban air close to ground')",kilogram
+"Tin, ion",0.01783246480769506,"('water', 'ground-, long-term')",kilogram
+"Silver, ion",0.01730977621131428,"('water', 'ocean')",kilogram
+"Copper, ion",0.016396625352022114,"('water',)",kilogram
+Copper,0.012624655188464297,"('air', 'low population density, long-term')",kilogram
+"Iron, ion",0.012439160388763953,"('water', 'ocean')",kilogram
+"Copper, ion",0.011616345352212697,"('water', 'surface water')",kilogram
+Chromium VI,0.010487932281584499,"('water', 'ground-')",kilogram
+Iron,0.010116562830318402,"('air', 'non-urban air or from high stacks')",kilogram
+"Zinc, ion",0.00963166939942871,"('water', 'ocean')",kilogram
+Copper,0.009038319316043032,"('soil',)",kilogram
+Chromium VI,0.007367158740113852,"('air', 'non-urban air or from high stacks')",kilogram
+Zinc,0.006227516764127677,"('air',)",kilogram
+Nickel,0.005901491371586308,"('air',)",kilogram
+"Zinc, ion",0.005722464817214223,"('water', 'surface water')",kilogram
+Zinc,0.005029913669464772,"('soil',)",kilogram
+Molybdenum,0.003924191825883976,"('water', 'ocean')",kilogram
+"Chromium, ion",0.0033097130612466975,"('water',)",kilogram
+Manganese,0.003216558272029218,"('soil', 'agricultural')",kilogram
+Nickel,0.0026766502387717715,"('air', 'low population density, long-term')",kilogram
+Manganese,0.002624139670680396,"('water', 'surface water')",kilogram
+Lead,0.002497107119770652,"('air',)",kilogram
+Copper,0.002165317135894669,"('soil', 'agricultural')",kilogram
+"Zinc, ion",0.001980435420757995,"('water',)",kilogram
+Molybdenum,0.001855778547672029,"('soil', 'agricultural')",kilogram
+Molybdenum,0.0017457251212199055,"('soil',)",kilogram
+Lead,0.0016129527303872112,"('air', 'urban air close to ground')",kilogram
+Lead,0.0015308832466726541,"('water', 'surface water')",kilogram
+Zinc,0.001355721072059352,"('air', 'urban air close to ground')",kilogram
+Lead,0.0010623908763408858,"('water',)",kilogram
+Chromium VI,0.000976906344216023,"('soil',)",kilogram
+Chromium,0.0009073212935118952,"('air', 'urban air close to ground')",kilogram
+Chromium,0.0008968565995504805,"('air',)",kilogram
+Manganese,0.0008748292163173777,"('water',)",kilogram
+Zinc,0.0008518023989337644,"('soil', 'agricultural')",kilogram
+Silver,0.0008398760005945517,"('air', 'urban air close to ground')",kilogram
+"Copper, ion",0.0007592483321357264,"('water', 'ocean')",kilogram
+Silver,0.0007477312578394132,"('soil',)",kilogram
+Nickel,0.0006916835418125554,"('soil', 'agricultural')",kilogram
+Zinc,0.0006490729548681205,"('soil', 'industrial')",kilogram
+Lead,0.0006035169521918777,"('air', 'low population density, long-term')",kilogram
+Manganese,0.0005677801587447595,"('soil', 'industrial')",kilogram
+Silver,0.0005480405198509935,"('air',)",kilogram
+Manganese,0.00049621570425256,"('air', 'low population density, long-term')",kilogram
+"Chromium, ion",0.0004827756844153629,"('water', 'surface water')",kilogram
+Chromium,0.00046407998282049654,"('soil', 'industrial')",kilogram
+Nickel,0.0004608694839958299,"('soil',)",kilogram
+Silver,0.00042195027535005014,"('air', 'non-urban air or from high stacks')",kilogram
+Zinc,0.00041057060802240176,"('air', 'low population density, long-term')",kilogram
+Tin,0.0003481710803835585,"('air',)",kilogram
+"Nickel, ion",0.00028985236758777153,"('water', 'ocean')",kilogram
+Manganese,0.0002654180628975663,"('air', 'urban air close to ground')",kilogram
+Lead,0.00025200040263003256,"('water', 'ground-')",kilogram
+Manganese,0.00024428596786850004,"('air',)",kilogram
+"Chromium, ion",0.00022854348477003157,"('water', 'ocean')",kilogram
+Chromium,0.00021390215192751056,"('soil', 'agricultural')",kilogram
+Uranium,0.00017298121475788257,"('air', 'non-urban air or from high stacks')",kilogram
+Lead,0.00016004107166037475,"('water', 'ocean')",kilogram
+Tin,0.00012586503794056065,"('air', 'non-urban air or from high stacks')",kilogram
+Lead,0.00012517379971718493,"('soil',)",kilogram
+Copper,0.00012094759137165159,"('soil', 'industrial')",kilogram
+Nickel,0.00010979942804328353,"('soil', 'industrial')",kilogram
+"Tin, ion",0.00010150351396303945,"('water',)",kilogram
+Chromium VI,0.00010040591109168235,"('water',)",kilogram
+Chromium VI,9.304334006804691e-05,"('air', 'low population density, long-term')",kilogram
+"Chromium, ion",9.018007116691263e-05,"('water', 'ground-')",kilogram
+Chromium VI,7.917335366231536e-05,"('air', 'urban air close to ground')",kilogram
+Manganese,6.580086418379031e-05,"('water', 'ocean')",kilogram
+Mancozeb,6.3072347897127e-05,"('soil', 'agricultural')",kilogram
+Lead,3.83553992304051e-05,"('soil', 'agricultural')",kilogram
+Chromium,3.625162218085011e-05,"('soil',)",kilogram
+Uranium,2.6566099690231625e-05,"('air',)",kilogram
+"Tin, ion",2.2119904619325008e-05,"('water', 'ground-')",kilogram
+"Tin, ion",2.1695594202670877e-05,"('water', 'surface water')",kilogram
+Lead,1.5183342541807947e-05,"('soil', 'industrial')",kilogram
+Dichromate,1.395104877922207e-05,"('water',)",kilogram
+Manganese,1.1842035076163046e-05,"('soil',)",kilogram
+"Lithium, ion",6.681059659546185e-06,"('water',)",kilogram
+Tin,5.459068233850779e-06,"('air', 'low population density, long-term')",kilogram
+Tin,3.079161298084294e-06,"('air', 'urban air close to ground')",kilogram
+Antimony,2.5860601770864223e-06,"('water', 'ground-, long-term')",kilogram
+Antimony,8.025151744382326e-07,"('water', 'surface water')",kilogram
+Chromium VI,4.1786198714981077e-07,"('air',)",kilogram
+Tin,3.413729550849397e-07,"('soil', 'agricultural')",kilogram
+Antimony,3.1268198201782873e-07,"('air',)",kilogram
+Dichromate,1.4067703418652314e-07,"('water', 'surface water')",kilogram
+Sodium dichromate,1.2188044763982218e-07,"('air', 'urban air close to ground')",kilogram
+Antimony,6.929457919562482e-08,"('air', 'non-urban air or from high stacks')",kilogram
+Antimony,4.607526920517059e-08,"('water', 'ground-')",kilogram
+Cu-HDO,2.834611350884866e-09,"('water',)",kilogram
+Antimony,6.768058516319265e-10,"('water',)",kilogram
+Antimony,5.972434831098028e-10,"('air', 'urban air close to ground')",kilogram
+Copper,2.561374061200163e-10,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Silver,1.748321702570546e-10,"('soil', 'agricultural')",kilogram
+Antimony,1.5388951717765417e-10,"('air', 'low population density, long-term')",kilogram
+Antimony,3.5878540158504136e-11,"('soil',)",kilogram
+Nickel,1.031501347140382e-11,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Chromium IV,7.81295821518162e-12,"('air', 'urban air close to ground')",kilogram
+Zinc,6.463598162277582e-12,"('air', 'lower stratosphere + upper troposphere')",kilogram
+"Lithium, ion",3.738408720811901e-12,"('water', 'surface water')",kilogram
+Lithium,2.4184231119801625e-12,"('soil',)",kilogram
+Lithium,2.4184231119801625e-12,"('water', 'ground-')",kilogram
+Chromium,7.292777368694502e-13,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Antimony,3.195663396775293e-13,"('soil', 'agricultural')",kilogram
+Lead,1.361427178004472e-13,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Lithium,9.332428607427197e-16,"('air', 'urban air close to ground')",kilogram
