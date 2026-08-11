@@ -1,48 +1,48 @@
 flow,amount,categories,unit
 Aluminium,10638.377309290552,"('water', 'ground-, long-term')",kilogram
-"Iron, ion",903.1284047331687,"('water', 'ground-, long-term')",kilogram
+"Iron, ion",401.00536599176286,"('water', 'ground-, long-term')",kilogram
 Aluminium,234.09423762013552,"('air',)",kilogram
-"Iron, ion",86.82706895156343,"('water', 'ground-')",kilogram
 Aluminium,68.19799768273481,"('air', 'low population density, long-term')",kilogram
 Molybdenum,61.35956737231019,"('water', 'ground-, long-term')",kilogram
 "Nickel, ion",44.529752029053114,"('water', 'ground-, long-term')",kilogram
 Aluminium,39.31630366119227,"('water', 'surface water')",kilogram
+"Iron, ion",38.55279092146465,"('water', 'ground-')",kilogram
 "Copper, ion",27.314259471786563,"('water', 'ground-, long-term')",kilogram
 Molybdenum,25.485749042810465,"('water', 'surface water')",kilogram
 Aluminium,14.727537892992716,"('soil', 'agricultural')",kilogram
 "Silver, ion",13.417071651640974,"('water', 'ground-, long-term')",kilogram
-Iron,12.580473527854943,"('air', 'low population density, long-term')",kilogram
 Aluminium,11.034474122831613,"('soil', 'industrial')",kilogram
 Molybdenum,9.648360572811614,"('water', 'ground-')",kilogram
 "Silver, ion",8.75495470101984,"('water',)",kilogram
-Iron,5.511527298239149,"('soil',)",kilogram
+Iron,5.585958059726473,"('air', 'low population density, long-term')",kilogram
 Aluminium,4.653745627381719,"('water', 'ground-')",kilogram
-Iron,3.74373433095132,"('soil', 'industrial')",kilogram
 Aluminium,3.710550161163875,"('air', 'urban air close to ground')",kilogram
 Manganese,3.2425865620005316,"('water', 'ground-, long-term')",kilogram
-"Iron, ion",3.0744948216893055,"('water', 'surface water')",kilogram
-Iron,2.811680531624742,"('soil', 'agricultural')",kilogram
+Iron,2.4472179258462985,"('soil',)",kilogram
 Aluminium,2.301073840450164,"('water', 'ocean')",kilogram
 "Zinc, ion",2.162672726602279,"('water', 'ground-, long-term')",kilogram
 Uranium,1.8525109417638017,"('air', 'urban air close to ground')",kilogram
+Iron,1.662285836312071,"('soil', 'industrial')",kilogram
+"Iron, ion",1.3651313752838492,"('water', 'surface water')",kilogram
+Iron,1.248437071325662,"('soil', 'agricultural')",kilogram
 "Silver, ion",1.0561429923046448,"('water', 'surface water')",kilogram
 Aluminium,1.0106741257123975,"('water',)",kilogram
-"Iron, ion",0.8979750768573055,"('water',)",kilogram
 Silver,0.7964643648873063,"('air', 'low population density, long-term')",kilogram
 Molybdenum,0.6401639518733788,"('air', 'low population density, long-term')",kilogram
 Chromium VI,0.6360419769295149,"('water', 'ground-, long-term')",kilogram
 "Silver, ion",0.5025442385770171,"('water', 'ground-')",kilogram
 Nickel,0.4038201327075623,"('air', 'urban air close to ground')",kilogram
-Iron,0.3962597959923272,"('air', 'urban air close to ground')",kilogram
+"Iron, ion",0.3987171950959015,"('water',)",kilogram
 Molybdenum,0.30803919936640517,"('air', 'urban air close to ground')",kilogram
 Molybdenum,0.2240972971606755,"('air',)",kilogram
 Molybdenum,0.21566320254186314,"('air', 'non-urban air or from high stacks')",kilogram
 Nickel,0.20655834480084362,"('air', 'non-urban air or from high stacks')",kilogram
-Iron,0.17659045142180005,"('air',)",kilogram
+Iron,0.1759465250865103,"('air', 'urban air close to ground')",kilogram
 "Nickel, ion",0.13908499521599713,"('water', 'ground-')",kilogram
 Copper,0.12274740498823068,"('air', 'non-urban air or from high stacks')",kilogram
 Copper,0.08325001135613712,"('air', 'low population density, long-term')",kilogram
 Chromium,0.083023760779087,"('air', 'non-urban air or from high stacks')",kilogram
+Iron,0.07840935821741943,"('air',)",kilogram
 Lead,0.07782316506296268,"('water', 'ground-, long-term')",kilogram
 Chromium VI,0.07173228822775479,"('water', 'surface water')",kilogram
 "Nickel, ion",0.06073364825248427,"('water', 'surface water')",kilogram
@@ -54,7 +54,6 @@ Manganese,0.02592935509779343,"('soil', 'agricultural')",kilogram
 Nickel,0.025608132416860524,"('air', 'low population density, long-term')",kilogram
 "Zinc, ion",0.024353220195329428,"('water', 'ocean')",kilogram
 Zinc,0.017907620925300443,"('air', 'non-urban air or from high stacks')",kilogram
-"Iron, ion",0.017759070988690166,"('water', 'ocean')",kilogram
 Copper,0.0167417395762727,"('soil', 'agricultural')",kilogram
 "Copper, ion",0.016452837148375022,"('water', 'surface water')",kilogram
 Aluminium,0.015930232841261553,"('air', 'non-urban air or from high stacks')",kilogram
@@ -67,15 +66,14 @@ Zinc,0.009548387004586198,"('air', 'urban air close to ground')",kilogram
 "Copper, ion",0.00928124943189853,"('water', 'ground-')",kilogram
 Zinc,0.008975044123832326,"('soil', 'agricultural')",kilogram
 Nickel,0.008066325665465151,"('soil', 'agricultural')",kilogram
+"Iron, ion",0.00788534910890933,"('water', 'ocean')",kilogram
 Aluminium,0.0077189213751326195,"('soil',)",kilogram
 Molybdenum,0.007453626631000191,"('water', 'ocean')",kilogram
 Chromium VI,0.007175013581380046,"('water', 'ground-')",kilogram
 "Zinc, ion",0.007034849566461291,"('water', 'ground-')",kilogram
 "Copper, ion",0.006953805011159906,"('water',)",kilogram
-Iron,0.006923390933274069,"('water', 'ground-')",kilogram
 Manganese,0.006765456053024881,"('water', 'surface water')",kilogram
 Molybdenum,0.006636295447627084,"('water',)",kilogram
-Iron,0.006229924214890743,"('air', 'non-urban air or from high stacks')",kilogram
 Lead,0.004862260927070014,"('air', 'low population density, long-term')",kilogram
 "Tin, ion",0.004337636784905756,"('water', 'ground-, long-term')",kilogram
 Nickel,0.0037330072654010557,"('air',)",kilogram
@@ -83,8 +81,10 @@ Nickel,0.0037330072654010557,"('air',)",kilogram
 Zinc,0.003348044268297872,"('air', 'low population density, long-term')",kilogram
 Chromium,0.003269554791751224,"('soil', 'agricultural')",kilogram
 Zinc,0.003210389135785094,"('air',)",kilogram
+Iron,0.0030741109465180533,"('water', 'ground-')",kilogram
 Lead,0.0028839512579386124,"('air', 'urban air close to ground')",kilogram
 Manganese,0.002820045292390821,"('air', 'low population density, long-term')",kilogram
+Iron,0.002766199165921835,"('air', 'non-urban air or from high stacks')",kilogram
 Copper,0.002636488371508405,"('soil',)",kilogram
 Chromium VI,0.002501571589604031,"('air', 'non-urban air or from high stacks')",kilogram
 Chromium,0.002415481395022294,"('air', 'urban air close to ground')",kilogram
