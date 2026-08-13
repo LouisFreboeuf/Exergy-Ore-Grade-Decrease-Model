@@ -146,7 +146,7 @@ $$\Delta g(LCIA)_{EF,Mineral} = \Delta g(LCIA)_{EF,Me} \cdot f_{Mineral,Me}$$
 
 ### 2.2 Determine Initial and Final Ore Grades
 
-**Initial ore grade:** $x_{i, EF, Mineral}$
+**Initial ore grade:** $x_{i, Mineral}$
 
 The initial ore grade can be determined at the mineral level or at the metal level (and then converted to the corresponding mineral level) depending on the input data considered. The conversion from metal to mineral grade is performed using the metal-to-mineral mass fraction, obtained from `valero_csv_input_data`: column `xm[kg/kg](metal)` / column `nxm[kg/kg](mineral)`.
 
@@ -160,7 +160,7 @@ The initial ore grade can be determined at the mineral level or at the metal lev
 
 For Options 2 and 3, the conversion is performed as:
 
-$$x_{i, EF, Mineral} = \frac{x_{i, EF, Me}}{f_{Mineral,Me}}$$
+$$x_{i, Mineral} = \frac{x_{i, Me}}{f_{Mineral,Me}}$$
 
 where $f_{Mineral,Me}$ is the mass fraction of metal $Me$ within its host mineral.
 
@@ -170,7 +170,7 @@ where $f_{Mineral,Me}$ is the mass fraction of metal $Me$ within its host minera
 
 **Final ore grade:**
 
-$$x_{f, EF, Mineral} = x_{i, EF, Mineral} - \Delta g(LCIA)_{EF,Mineral}$$
+$$x_{f, EF, Mineral} = x_{i, Mineral} - \Delta g(LCIA)_{EF,Mineral}$$
 
 **Validation:** Ensure $x_{f, EF, Mineral} > 0$ (otherwise, the grade would become negative).
 
@@ -180,7 +180,7 @@ $$x_{f, EF, Mineral} = x_{i, EF, Mineral} - \Delta g(LCIA)_{EF,Mineral}$$
 
 The ERC for a mineral is calculated as:
 
-$$ERC_{EF,Metal} = \frac{bc(x_{f, EF, Mineral}) - bc(x_{i, EF, Mineral})}{bc(x_{i, EF, Mineral}) - bc(x_{r, EF, Mineral})} \cdot E_{Valero} \cdot (\frac{x_{f, EF, Me}}{x_{i, EF, Me}})^{- 0.5}$$
+$$ERC_{EF,Metal} = \frac{bc(x_{f, EF, Mineral}) - bc(x_{i, Mineral})}{bc(x_{i, Mineral}) - bc(x_{r, EF, Mineral})} \cdot E_{Valero} \cdot (\frac{x_{f, EF, Me}}{x_{i, Me}})^{- 0.5}$$
 
 **Where:**
 - $bc(x) = RT \cdot \left[ \ln(x) + \frac{1-x}{x} \cdot \ln(1-x) \right]$
@@ -196,7 +196,7 @@ $$ERC_{EF,Metal} = \frac{bc(x_{f, EF, Mineral}) - bc(x_{i, EF, Mineral})}{bc(x_{
 - Temperature $T$: Standard condition (298.15 K)
 
 **Output:**
-- $ERC_{EF,Mineral}$: Exergy replacement cost (MJ/kg mineral)
+- $ERC_{EF,Metal}$: Exergy replacement cost (MJ/kg metal)
 
 ---
 
