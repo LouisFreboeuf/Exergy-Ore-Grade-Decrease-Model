@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document presents a two-step methodological framework to translate ore grade decline (OGD) into exergy replacement costs (ERC) for resource depletion assessment. The approach maintains mass balance consistency while enabling sensitivity analysis on the source of initial ore grade ($x_i$).
+This document presents a two-step methodological Life Cycle Impact Assessment framework to translate ore grade decline (OGD) into exergy replacement costs (ERC) for computing the future efforts required to compensate the extraction and dissipation of resources by product systems.
 
 ---
 
@@ -12,7 +12,7 @@ This document presents a two-step methodological framework to translate ore grad
 
 The ore grade decline factor for each pure metal ($Me$) is calculated from Vieira et al. (2012):
 
-$$OGD_{Me} = CF1_{Me} = \frac{A \beta e^{\alpha}}{CMT^2} \left( \frac{A}{CMT} - 1 \right)^{\beta - 1}$$
+$$OGD_{Me} = CF1_{Me} = \frac{URR \beta e^{\alpha}}{CMT^2} \left( \frac{URR}{CMT} - 1 \right)^{\beta - 1}$$
 
 **Inputs:**
 - `viera_csv_input_data`: CSV containing $A$, $CMT$, $\alpha$, $\beta$ for each metal
@@ -119,7 +119,7 @@ To allocate the EF's total LCIA contribution to individual metals:
 $$\Delta g(LCIA)_{EF,Me} = \Delta g(LCIA)_{EF} \cdot \frac{CF1_{EF,Me}}{CF1_{EF}}$$
 
 **This ensures:**
-$$\sum_{Me} \Delta g(LCIA)_{EF,Me} = \Delta g(LCIA)_{EF}$$
+$\sum_{Me} \Delta g(LCIA)_{EF,Me} = \Delta g(LCIA)_{EF}$
 
 **Interpretation:** $\Delta g(LCIA)_{EF,Me}$ represents the portion of the total ore grade decline for EF that is attributable to metal $Me$.
 
@@ -148,16 +148,25 @@ $$\Delta g(LCIA)_{EF,Mineral} = \Delta g(LCIA)_{EF,Me} \cdot f_{Mineral,Me}$$
 
 **Initial ore grade:** $x_{i, EF, Mineral}$
 
+The initial ore grade can be determined at the mineral level or at the metal level (and then converted to the corresponding mineral level) depending on the input data considered. The conversion from metal to mineral grade is performed using the metal-to-mineral mass fraction, obtained from `valero_csv_input_data`: column `xm[kg/kg](metal)` / column `nxm[kg/kg](mineral)`.
+
 **Data Sources (Sensitivity Analysis):**
 
-| Option | Source | Description |
-|--------|--------|-------------|
-| **1** | `valero_csv_input_data` | Reference ore grades from Valero |
-| **2** | `viera_csv_input_data` | Ore grades from Vieira et al. (2012) |
-| **3** | `elementary_flow` | Parsed directly from EF name (e.g., "11% in crude ore") |
+| Option | Source                  | Description                                                                                                                                               |
+| ------ | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**  | `valero_csv_input_data` | Reference mineral ore grades from Valero CSV `xm[kg/kg](mineral)`                                                                                         |
+| **2**  | `viera_csv_input_data`  | Initial metal ore grades from Vieira et al. (2012), converted to mineral grade using the metal-to-mineral mass fraction                                   |
+| **3**  | `elementary_flow`       | Initial metal ore grades parsed directly from the EF name (e.g., "11% in crude ore"), converted to mineral grade using the metal-to-mineral mass fraction |
+
+For Options 2 and 3, the conversion is performed as:
+
+$$x_{i, EF, Mineral} = \frac{x_{i, EF, Me}}{f_{Mineral,Me}}$$
+
+where $f_{Mineral,Me}$ is the mass fraction of metal $Me$ within its host mineral.
 
 **Parameter:**
-- `input_for_xi`: Controls which source is used
+
+* `input_for_xi`: Controls which source is used for the initial ore grade
 
 **Final ore grade:**
 
@@ -264,4 +273,3 @@ flowchart TD
         f_EF_Me --> CF2_EF[CF2_EF = Σ f_EF,Me × CF2_EF,Me]
         CF2_EF --> LCIA_ERC[LCIA_ERC = Σ LCI_EF × CF2_EF]
     end
-    
