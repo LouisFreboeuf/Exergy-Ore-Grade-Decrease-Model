@@ -180,16 +180,16 @@ $$x_{f, EF, Mineral} = x_{i, EF, Mineral} - \Delta g(LCIA)_{EF,Mineral}$$
 
 The ERC for a mineral is calculated as:
 
-$$ERC_{EF,Mineral} = \frac{bc(x_f) - bc(x_i)}{bc(x_i) - bc(x_r)} \cdot E(x_f)$$
+$$ERC_{EF,Metal} = \frac{bc(x_{f, EF, Mineral}) - bc(x_{i, EF, Mineral})}{bc(x_{i, EF, Mineral}) - bc(x_{r, EF, Mineral})} \cdot E_{Valero} \cdot (\frac{x_{f, EF, Me}}{x_{i, EF, Me}})^{- 0.5}$$
 
 **Where:**
 - $bc(x) = RT \cdot \left[ \ln(x) + \frac{1-x}{x} \cdot \ln(1-x) \right]$
 - $R$ = Universal gas constant
 - $T$ = Temperature (typically 298.15 K)
-- $x_i$ = Initial ore grade
-- $x_f$ = Final ore grade
-- $x_r$ = Reference ore grade (from `valero_csv_input_data`)
-- $E(x_f) = \left( \frac{E_{Valero}}{x_r \cdot 100} \right)^{-0.5}$ (MJ/kg)
+- $x_i$ = Initial grade
+- $x_f$ = Final grade
+- $x_r$ = Refining mineral ore grade (from `valero_csv_input_data`)
+- $E_{Valero} = total energy to mine and concentrate the mineral estimate (from `valero_csv_input_data`)
 
 **Inputs:**
 - `valero_csv_input_data`: Provides $x_r$ and $E_{Valero}$ for each mineral
