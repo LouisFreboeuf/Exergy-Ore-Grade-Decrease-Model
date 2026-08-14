@@ -183,7 +183,7 @@ The ERC for a mineral is calculated as:
 $$ERC_{EF,Metal} = \frac{bc(x_{f, EF, Mineral}) - bc(x_{i, Mineral})}{bc(x_{i, Mineral}) - bc(x_{r, EF, Mineral})} \cdot E_{Valero} \cdot (\frac{x_{f, EF, Me}}{x_{i, Me}})^{- 0.5}$$
 
 **Where:**
-- $bc(x) = RT \cdot \left[ \ln(x) + \frac{1-x}{x} \cdot \ln(1-x) \right]$
+- $bc(x) = - RT \cdot \left[ \ln(x) + \frac{1-x}{x} \cdot \ln(1-x) \right]$
 - $R$ = Universal gas constant
 - $T$ = Temperature (typically 298.15 K)
 - $x_i$ = Initial grade
