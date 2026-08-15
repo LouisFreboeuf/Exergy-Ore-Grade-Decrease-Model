@@ -1,0 +1,1096 @@
+flow,amount,categories,unit
+"Carbon dioxide, fossil",377415644443.0837,"('air', 'non-urban air or from high stacks')",kilogram
+Selenium,250592874322.7697,"('water', 'ground-, long-term')",kilogram
+"Potassium, ion",136992971175.02805,"('water', 'ground-, long-term')",kilogram
+Aluminium,84397227069.80948,"('water', 'ground-, long-term')",kilogram
+"Carbon dioxide, fossil",68375365513.30432,"('air', 'urban air close to ground')",kilogram
+Magnesium,39027967665.24293,"('water', 'ground-, long-term')",kilogram
+Selenium,23117800335.78099,"('water', 'surface water')",kilogram
+"Carbon dioxide, non-fossil",22644265334.75024,"('air', 'urban air close to ground')",kilogram
+Selenium,11362046547.736462,"('air', 'non-urban air or from high stacks')",kilogram
+"Potassium, ion",7195931710.776196,"('water', 'surface water')",kilogram
+Cobalt,6880839441.652817,"('water', 'ground-, long-term')",kilogram
+"Carbon dioxide, fossil",6389045468.61974,"('air',)",kilogram
+Selenium,5280730674.462918,"('water', 'ground-')",kilogram
+"Sodium, ion",4916251675.4322605,"('water', 'ground-, long-term')",kilogram
+"Carbon dioxide, from soil or biomass stock",4553684891.869033,"('air', 'non-urban air or from high stacks')",kilogram
+"Methane, fossil",3823838710.316053,"('air', 'non-urban air or from high stacks')",kilogram
+Aluminium,1857135158.2827113,"('air',)",kilogram
+"Carbon dioxide, non-fossil",1774991149.901531,"('air', 'non-urban air or from high stacks')",kilogram
+"Calcium, ion",1689170960.5788302,"('water', 'ground-, long-term')",kilogram
+"Sodium, ion",1230092371.878765,"('water', 'surface water')",kilogram
+"Iron, ion",1212505922.6379,"('water', 'ground-, long-term')",kilogram
+Selenium,1160263234.7819164,"('air', 'urban air close to ground')",kilogram
+Selenium,966439953.0926458,"('air', 'low population density, long-term')",kilogram
+Silicon,802794920.0083529,"('water', 'ground-, long-term')",kilogram
+"Copper, ion",700205380.0295383,"('water', 'ground-, long-term')",kilogram
+"Vanadium, ion",695233351.4695336,"('water', 'ground-, long-term')",kilogram
+"Potassium, ion",687241386.6595767,"('water', 'ground-')",kilogram
+Potassium,674082407.8720381,"('air', 'urban air close to ground')",kilogram
+Aluminium,541033818.297609,"('air', 'low population density, long-term')",kilogram
+"Nickel, ion",460080563.5244776,"('water', 'ground-, long-term')",kilogram
+Magnesium,453076073.91546005,"('water', 'ground-')",kilogram
+"Lithium, ion",397620891.6006196,"('water',)",kilogram
+Thallium,396440315.4027742,"('water', 'ground-, long-term')",kilogram
+Manganese,356969481.3456851,"('water', 'ground-, long-term')",kilogram
+Tungsten,326476553.8003453,"('water', 'ground-, long-term')",kilogram
+Potassium,323259656.03106123,"('soil', 'agricultural')",kilogram
+Aluminium,311907249.6837874,"('water', 'surface water')",kilogram
+Magnesium,241067386.05708903,"('water', 'surface water')",kilogram
+Mercury,223978758.11799306,"('water', 'ground-, long-term')",kilogram
+"Cadmium, ion",183480934.04701492,"('water', 'ground-, long-term')",kilogram
+"DOC, Dissolved Organic Carbon",166401297.25358352,"('water', 'surface water')",kilogram
+"Carbon monoxide, fossil",136872482.1181463,"('air',)",kilogram
+Molybdenum,130704980.23094769,"('water', 'ground-, long-term')",kilogram
+"Sodium, ion",118192732.10379744,"('water',)",kilogram
+Aluminium,116837683.37946077,"('soil', 'agricultural')",kilogram
+"Iron, ion",116570727.70307204,"('water', 'ground-')",kilogram
+"Carbon monoxide, fossil",105269295.219944,"('air', 'non-urban air or from high stacks')",kilogram
+Potassium,98145805.90425111,"('air', 'low population density, long-term')",kilogram
+Vanadium,92373443.8778476,"('air', 'urban air close to ground')",kilogram
+Tungsten,91941898.68452568,"('water', 'surface water')",kilogram
+"Zinc, ion",89471196.19383547,"('water', 'ground-, long-term')",kilogram
+Platinum,89217376.35792957,"('air',)",kilogram
+"Methane, non-fossil",88154890.62975982,"('air', 'non-urban air or from high stacks')",kilogram
+Aluminium,87539574.0407952,"('soil', 'industrial')",kilogram
+Mercury,80989559.877988,"('air', 'non-urban air or from high stacks')",kilogram
+"Sodium, ion",80445866.5135108,"('water', 'ocean')",kilogram
+"DOC, Dissolved Organic Carbon",79800054.36120263,"('water', 'ground-, long-term')",kilogram
+"Potassium, ion",71026769.5026073,"('water', 'ocean')",kilogram
+"Arsenic, ion",65965675.115481,"('water', 'ground-, long-term')",kilogram
+"Titanium, ion",62388721.10360417,"('water', 'ground-, long-term')",kilogram
+Selenium,58709108.8745765,"('water', 'ocean')",kilogram
+Magnesium,57798181.32222886,"('water',)",kilogram
+"Sodium, ion",56018838.19880091,"('water', 'ground-')",kilogram
+Molybdenum,54288425.87170311,"('water', 'surface water')",kilogram
+Scandium,54262776.787140325,"('water', 'ground-, long-term')",kilogram
+Strontium,44085568.27725126,"('water', 'ground-, long-term')",kilogram
+Barium,43374229.69358803,"('water', 'ground-, long-term')",kilogram
+"Carbon monoxide, fossil",42268635.80346809,"('air', 'urban air close to ground')",kilogram
+"Carbon dioxide, non-fossil",41935297.85151827,"('air',)",kilogram
+Ethane,41022029.21037146,"('air', 'non-urban air or from high stacks')",kilogram
+Magnesium,38974459.3689594,"('soil', 'agricultural')",kilogram
+"Calcium, ion",37980672.82290672,"('water', 'surface water')",kilogram
+"Carbon monoxide, non-fossil",37883616.25212805,"('air', 'urban air close to ground')",kilogram
+Aluminium,36919467.60491995,"('water', 'ground-')",kilogram
+"Methane, fossil",35417027.76470586,"('air',)",kilogram
+"Arsenic, ion",35276167.82692916,"('water', 'surface water')",kilogram
+Magnesium,35246308.94305593,"('water', 'ocean')",kilogram
+Cobalt,33578955.22723363,"('air', 'urban air close to ground')",kilogram
+Potassium,32495752.699052833,"('soil', 'industrial')",kilogram
+Aluminium,29436833.776536707,"('air', 'urban air close to ground')",kilogram
+"Methane, fossil",29216366.96952506,"('air', 'urban air close to ground')",kilogram
+"Calcium, ion",25013953.515413888,"('water', 'ground-')",kilogram
+"DOC, Dissolved Organic Carbon",22036500.621874522,"('water', 'ocean')",kilogram
+Thallium,20977242.802394804,"('water', 'surface water')",kilogram
+Molybdenum,20552439.20281436,"('water', 'ground-')",kilogram
+Cobalt,19328388.780073546,"('air', 'non-urban air or from high stacks')",kilogram
+Aluminium,18255063.32128974,"('water', 'ocean')",kilogram
+Barite,18017488.874543764,"('water', 'ocean')",kilogram
+Iron,16890066.331841532,"('air', 'low population density, long-term')",kilogram
+"Silver, ion",16040400.120036133,"('water', 'ground-, long-term')",kilogram
+Magnesium,15190281.213556964,"('soil', 'industrial')",kilogram
+Antimony,15113445.948939815,"('water', 'ground-, long-term')",kilogram
+Beryllium,14305498.063432403,"('water', 'ground-, long-term')",kilogram
+Selenium,13640762.35528346,"('air',)",kilogram
+Selenium,13495065.749486443,"('soil',)",kilogram
+Cobalt,13331276.38404186,"('water', 'ground-')",kilogram
+"Vanadium, ion",12242681.366922932,"('water', 'surface water')",kilogram
+Magnesium,11703279.042448014,"('air', 'low population density, long-term')",kilogram
+"Silver, ion",10466738.203635808,"('water',)",kilogram
+Mercury,10304355.315505024,"('air',)",kilogram
+"Tin, ion",10131128.141461845,"('water', 'ground-, long-term')",kilogram
+Propane,9706133.381714964,"('air', 'non-urban air or from high stacks')",kilogram
+Phosphate,9483011.779660042,"('water', 'ground-, long-term')",kilogram
+Carbon,8636050.21338086,"('soil', 'industrial')",kilogram
+Aluminium,8017960.935342941,"('water',)",kilogram
+Calcium,7606750.744437663,"('soil', 'agricultural')",kilogram
+Cobalt,7555263.393295529,"('air', 'low population density, long-term')",kilogram
+Iron,7399567.389168618,"('soil',)",kilogram
+Vanadium,6980281.07394779,"('air', 'non-urban air or from high stacks')",kilogram
+Tungsten,6876587.590420139,"('water', 'ground-')",kilogram
+"Calcium, ion",6534970.162406879,"('water',)",kilogram
+Barium,6431978.02624755,"('water', 'surface water')",kilogram
+Pentane,5885046.931930025,"('air', 'non-urban air or from high stacks')",kilogram
+Cadmium,5771706.547554073,"('air', 'non-urban air or from high stacks')",kilogram
+Vanadium,5672931.100690044,"('air', 'low population density, long-term')",kilogram
+"Arsenic, ion",5088574.561903947,"('water', 'ground-')",kilogram
+Iron,5026195.638705946,"('soil', 'industrial')",kilogram
+Pentane,4852726.730633394,"('air', 'urban air close to ground')",kilogram
+Butane,4777967.215710654,"('air', 'non-urban air or from high stacks')",kilogram
+Sodium,4746962.5476667285,"('soil', 'industrial')",kilogram
+Lead,4579541.240692019,"('water', 'ground-, long-term')",kilogram
+Benzene,4399707.5234449105,"('air', 'non-urban air or from high stacks')",kilogram
+Magnesium,4375648.802658293,"('air', 'urban air close to ground')",kilogram
+Scandium,4333563.109948417,"('water', 'surface water')",kilogram
+Nickel,4172262.0439792112,"('air', 'urban air close to ground')",kilogram
+"Iron, ion",4127700.071087054,"('water', 'surface water')",kilogram
+Propane,3878729.4375705323,"('air', 'urban air close to ground')",kilogram
+Butane,3802265.027738572,"('air', 'urban air close to ground')",kilogram
+Iron,3774855.5790003394,"('soil', 'agricultural')",kilogram
+Antimony,3476054.403316917,"('water', 'surface water')",kilogram
+Barium,3435993.9033722654,"('water',)",kilogram
+Selenium,3416885.255185308,"('water',)",kilogram
+Hexane,3224714.2089873073,"('air', 'non-urban air or from high stacks')",kilogram
+Copper,3146649.223501794,"('air', 'non-urban air or from high stacks')",kilogram
+Manganese,3092290.189305288,"('water', 'ground-')",kilogram
+Cobalt,2895774.9679833087,"('water', 'surface water')",kilogram
+Manganese,2854507.740628175,"('soil', 'agricultural')",kilogram
+Barium,2652714.3648723294,"('soil', 'industrial')",kilogram
+Tungsten,2592544.970067253,"('air', 'low population density, long-term')",kilogram
+Cadmium,2520844.487453639,"('air', 'urban air close to ground')",kilogram
+Carbon,2501519.926040793,"('soil', 'agricultural')",kilogram
+Antimony,2488537.099091053,"('air',)",kilogram
+Arsenic,2481789.7632301464,"('air', 'non-urban air or from high stacks')",kilogram
+"Carbon dioxide, from soil or biomass stock",2319813.278387507,"('air',)",kilogram
+Barite,2290142.896896591,"('water',)",kilogram
+Nickel,2134156.9478009124,"('air', 'non-urban air or from high stacks')",kilogram
+Copper,2134127.264160262,"('air', 'low population density, long-term')",kilogram
+Hexane,1945570.9032690527,"('air', 'urban air close to ground')",kilogram
+"Carbon monoxide, non-fossil",1929295.2973043558,"('air', 'non-urban air or from high stacks')",kilogram
+Mercury,1891389.2121372025,"('air', 'urban air close to ground')",kilogram
+Arsenic,1829521.4680737352,"('air', 'low population density, long-term')",kilogram
+Cobalt,1753947.8107705396,"('soil', 'agricultural')",kilogram
+Toluene,1734211.8529341684,"('air', 'non-urban air or from high stacks')",kilogram
+Sodium,1713341.2583360365,"('air', 'urban air close to ground')",kilogram
+Chromium VI,1696380.745681016,"('water', 'ground-, long-term')",kilogram
+Mercury,1681367.8883124345,"('air', 'low population density, long-term')",kilogram
+Calcium,1678543.174856749,"('soil', 'industrial')",kilogram
+Copper,1521631.5249900823,"('air', 'urban air close to ground')",kilogram
+Strontium,1466981.8105331906,"('water', 'surface water')",kilogram
+"Nickel, ion",1437023.564268339,"('water', 'ground-')",kilogram
+"Calcium, ion",1383588.6823767703,"('water', 'ocean')",kilogram
+Molybdenum,1363644.1757562715,"('air', 'low population density, long-term')",kilogram
+Benzene,1355240.9733819326,"('air', 'urban air close to ground')",kilogram
+"DOC, Dissolved Organic Carbon",1335774.805345723,"('water',)",kilogram
+Phosphate,1319796.9664769592,"('water', 'ground-')",kilogram
+"Silver, ion",1262641.8506505315,"('water', 'surface water')",kilogram
+Mercury,1215270.6721025298,"('water', 'surface water')",kilogram
+"Iron, ion",1205587.260199612,"('water',)",kilogram
+"Cadmium, ion",1147649.7279572454,"('water', 'surface water')",kilogram
+Silicon,1141591.620347427,"('water', 'surface water')",kilogram
+"Vanadium, ion",1113012.0024355298,"('water', 'ground-')",kilogram
+Acetic acid,1102950.225213071,"('air', 'urban air close to ground')",kilogram
+"VOC, volatile organic compounds, unspecified origin",1085213.6087949418,"('water', 'surface water')",kilogram
+Scandium,1074796.686245951,"('air', 'low population density, long-term')",kilogram
+Antimony,1057451.1607656851,"('water', 'ground-')",kilogram
+Ethane,1014878.590034616,"('air', 'urban air close to ground')",kilogram
+"Zinc, ion",1007508.7715519626,"('water', 'ocean')",kilogram
+Barium,997794.4065910166,"('air', 'non-urban air or from high stacks')",kilogram
+Silver,952190.4202233531,"('air', 'low population density, long-term')",kilogram
+Heptane,913225.1474651882,"('air', 'urban air close to ground')",kilogram
+Formaldehyde,876135.5597115137,"('air', 'urban air close to ground')",kilogram
+Silicon,875629.3138421162,"('water', 'ground-')",kilogram
+Copper,873799.5721903956,"('air',)",kilogram
+"Cadmium, ion",863856.6376541364,"('water', 'ground-')",kilogram
+Sodium,861714.0309030702,"('air', 'low population density, long-term')",kilogram
+Toluene,857947.7459010745,"('air', 'urban air close to ground')",kilogram
+"Methane, non-fossil",851717.2367775636,"('air', 'urban air close to ground')",kilogram
+Calcium,841674.1961903902,"('air', 'low population density, long-term')",kilogram
+Strontium,822242.1915268229,"('water', 'ground-')",kilogram
+Calcium,788942.2628117651,"('air', 'urban air close to ground')",kilogram
+Cadmium,754526.7435240044,"('soil', 'agricultural')",kilogram
+"Cadmium, ion",751687.3283919573,"('water',)",kilogram
+Manganese,744794.7162358353,"('water', 'surface water')",kilogram
+Lead,740879.2691454907,"('air', 'non-urban air or from high stacks')",kilogram
+Zinc,740850.0812277739,"('air', 'non-urban air or from high stacks')",kilogram
+Silicon,738073.5095108467,"('soil', 'agricultural')",kilogram
+Ethanol,715312.2529606594,"('air', 'urban air close to ground')",kilogram
+Cadmium,695501.0860796212,"('air', 'low population density, long-term')",kilogram
+Molybdenum,656169.187426705,"('air', 'urban air close to ground')",kilogram
+Toluene,644323.1937050278,"('air',)",kilogram
+"Nickel, ion",627498.9156613665,"('water', 'surface water')",kilogram
+Lead,617716.8007023684,"('water', 'surface water')",kilogram
+"Silver, ion",600802.5353139073,"('water', 'ground-')",kilogram
+Formaldehyde,592680.6863862125,"('air', 'non-urban air or from high stacks')",kilogram
+Mercury,549539.2312651168,"('water', 'ground-')",kilogram
+Iron,532003.3641129228,"('air', 'urban air close to ground')",kilogram
+Methanol,527534.7280770818,"('air', 'urban air close to ground')",kilogram
+Mercury,514619.3193839111,"('water',)",kilogram
+Titanium,507126.34536818357,"('air', 'low population density, long-term')",kilogram
+Molybdenum,477360.4842659458,"('air',)",kilogram
+Benzene,462737.4586208497,"('air',)",kilogram
+Molybdenum,459394.6116624289,"('air', 'non-urban air or from high stacks')",kilogram
+"Zinc, ion",457744.5334733932,"('water', 'surface water')",kilogram
+Carbonate,439272.4093909372,"('water', 'surface water')",kilogram
+Ethene,436978.1236763835,"('air', 'urban air close to ground')",kilogram
+Copper,429177.15321801614,"('soil', 'agricultural')",kilogram
+"Copper, ion",421771.09359093726,"('water', 'surface water')",kilogram
+Acetone,421457.45688317827,"('air', 'urban air close to ground')",kilogram
+Toluene,396837.6062073746,"('water', 'surface water')",kilogram
+Acetaldehyde,395322.8984682134,"('air', 'urban air close to ground')",kilogram
+Zinc,395023.06406026526,"('air', 'urban air close to ground')",kilogram
+Vanadium,373453.31363534875,"('soil', 'agricultural')",kilogram
+Zinc,371303.49117284955,"('soil', 'agricultural')",kilogram
+Barium,326705.98637598904,"('water', 'ocean')",kilogram
+Manganese,310452.80862911546,"('air', 'low population density, long-term')",kilogram
+Arsenic,306715.06861017406,"('air', 'urban air close to ground')",kilogram
+Thallium,301512.7309106618,"('air', 'urban air close to ground')",kilogram
+"Zinc, ion",291036.36348336295,"('water', 'ground-')",kilogram
+Lead,286122.06173454307,"('air', 'low population density, long-term')",kilogram
+Nickel,264582.7442621214,"('air', 'low population density, long-term')",kilogram
+Antimony,260839.8963421817,"('air', 'non-urban air or from high stacks')",kilogram
+Thallium,250857.64940726533,"('water', 'ground-')",kilogram
+Benzene,246627.8403164261,"('water', 'surface water')",kilogram
+Phenol,241443.77163388202,"('water', 'surface water')",kilogram
+"Copper, ion",237926.30337733176,"('water', 'ground-')",kilogram
+Iron,237083.63850375672,"('air',)",kilogram
+Magnesium,236269.6466507829,"('air', 'non-urban air or from high stacks')",kilogram
+Propene,233899.2647974296,"('air', 'urban air close to ground')",kilogram
+Tin,225685.67350624013,"('air', 'non-urban air or from high stacks')",kilogram
+Chromium,221431.7833228129,"('air', 'non-urban air or from high stacks')",kilogram
+Scandium,214925.53027485128,"('water', 'ground-')",kilogram
+Acetic acid,205519.87998975453,"('air', 'non-urban air or from high stacks')",kilogram
+Silicon,192146.90053340982,"('air', 'low population density, long-term')",kilogram
+Chromium VI,191316.41779468465,"('water', 'surface water')",kilogram
+Barium,189930.7226682464,"('air', 'low population density, long-term')",kilogram
+"Carbon monoxide, from soil or biomass stock",188784.0131677815,"('air', 'non-urban air or from high stacks')",kilogram
+"Copper, ion",178261.89597122013,"('water',)",kilogram
+Lead,169707.48634022102,"('air', 'urban air close to ground')",kilogram
+Carbon disulfide,169546.67506925002,"('air', 'non-urban air or from high stacks')",kilogram
+Cobalt,163645.4720893633,"('water',)",kilogram
+Tin,163193.55256176082,"('air',)",kilogram
+Thallium,161230.48665204053,"('air',)",kilogram
+Strontium,155173.49364383635,"('water',)",kilogram
+Propene,151611.129191539,"('air', 'non-urban air or from high stacks')",kilogram
+"Nickel, ion",151329.38449517215,"('water',)",kilogram
+Strontium,149753.07211834998,"('air', 'non-urban air or from high stacks')",kilogram
+Zinc,138510.79819420775,"('air', 'low population density, long-term')",kilogram
+Manganese,133726.72864723994,"('air', 'urban air close to ground')",kilogram
+Zinc,132815.91462877387,"('air',)",kilogram
+Manganese,131758.72687230803,"('air', 'non-urban air or from high stacks')",kilogram
+"Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114",126717.93794015425,"('air', 'non-urban air or from high stacks')",kilogram
+Aluminium,126378.99928636271,"('air', 'non-urban air or from high stacks')",kilogram
+"Cadmium, ion",123889.8311394014,"('water', 'ocean')",kilogram
+"Benzene, ethyl-",122933.51862526155,"('air', 'urban air close to ground')",kilogram
+Platinum,118601.71955963004,"('air', 'non-urban air or from high stacks')",kilogram
+Titanium,110778.37167188148,"('soil', 'agricultural')",kilogram
+Cadmium,101971.11209599349,"('air',)",kilogram
+"Titanium, ion",99482.22315366603,"('water', 'surface water')",kilogram
+m-Xylene,93619.9998126581,"('air', 'urban air close to ground')",kilogram
+"Tin, ion",92297.98084177356,"('water', 'surface water')",kilogram
+Butene,91229.87587159175,"('air', 'urban air close to ground')",kilogram
+Manganese,89354.5888724917,"('soil', 'industrial')",kilogram
+Strontium,85378.0269247774,"('water', 'ocean')",kilogram
+"Benzene, ethyl-",84971.09004456617,"('water', 'surface water')",kilogram
+Nickel,83341.12562131142,"('soil', 'agricultural')",kilogram
+Barium,77266.04044610099,"('air',)",kilogram
+Tin,76631.95527048122,"('air', 'low population density, long-term')",kilogram
+Toluene,75546.24467068737,"('water', 'ocean')",kilogram
+Lead,73694.78455170254,"('air',)",kilogram
+"Arsenic, ion",72567.68343795107,"('water',)",kilogram
+Silicon,70301.57236751985,"('air', 'urban air close to ground')",kilogram
+Thallium,70045.90823837927,"('water',)",kilogram
+Copper,67586.79817120278,"('soil',)",kilogram
+Hydrogen carbonate,66391.31011222141,"('water', 'ocean')",kilogram
+Aluminium,61236.365386491256,"('soil',)",kilogram
+Acetone,60281.571056100205,"('air', 'non-urban air or from high stacks')",kilogram
+"Vanadium, ion",59590.448332500324,"('water', 'ocean')",kilogram
+Mercury,59483.728666850424,"('water', 'ocean')",kilogram
+Ethylene,59481.218195509624,"('air',)",kilogram
+Phenol,58343.31900595669,"('water', 'ocean')",kilogram
+"Carbon dioxide, to soil or biomass stock",57445.14880273604,"('soil',)",kilogram
+Zinc,56626.6727049681,"('soil',)",kilogram
+Potassium,56486.36742451722,"('air',)",kilogram
+Potassium,56238.12523927903,"('water', 'ground-')",kilogram
+Potassium,56238.12523927903,"('soil',)",kilogram
+Zinc,56174.68559726571,"('soil', 'industrial')",kilogram
+Vanadium,55807.26277449456,"('air',)",kilogram
+"Methane, dichloro-, HCC-30",51679.031549192696,"('water', 'surface water')",kilogram
+Barium,49825.322063898486,"('water', 'ground-')",kilogram
+Sodium,46364.313423969325,"('soil',)",kilogram
+Formaldehyde,44641.22374244252,"('air',)",kilogram
+Ethyne,43986.99976971054,"('air', 'urban air close to ground')",kilogram
+"VOC, volatile organic compounds, unspecified origin",43941.76721532165,"('water', 'ocean')",kilogram
+"Silver, ion",42801.60005649602,"('water', 'ocean')",kilogram
+Cobalt,42011.227433131324,"('soil',)",kilogram
+Nickel,38569.36111357922,"('air',)",kilogram
+Cobalt,37342.84665426486,"('water', 'ocean')",kilogram
+Antimony,36878.0603273417,"('air', 'low population density, long-term')",kilogram
+Benzene,36287.82175861826,"('water', 'ocean')",kilogram
+Beryllium,34963.87417856465,"('water', 'ground-')",kilogram
+"Zinc, ion",33184.48013357831,"('water',)",kilogram
+Cobalt,33133.90248858719,"('soil', 'industrial')",kilogram
+Cobalt,32573.02993514602,"('air',)",kilogram
+Propionic acid,32328.87010124517,"('air', 'non-urban air or from high stacks')",kilogram
+"Tin, ion",31750.988183359972,"('water',)",kilogram
+"PAH, polycyclic aromatic hydrocarbons",31695.48199731858,"('air', 'non-urban air or from high stacks')",kilogram
+Potassium,30759.991864918913,"('air', 'non-urban air or from high stacks')",kilogram
+Phosphorus,30593.381834372212,"('soil', 'agricultural')",kilogram
+Molybdenum,30227.596832672152,"('soil', 'agricultural')",kilogram
+Acetaldehyde,28896.889208279154,"('air',)",kilogram
+Benzene,28714.858047727408,"('water',)",kilogram
+"Copper, ion",27815.998248205513,"('water', 'ocean')",kilogram
+Mercury,27767.706455047337,"('soil', 'agricultural')",kilogram
+Beryllium,27557.401844366905,"('air', 'low population density, long-term')",kilogram
+Propene,25791.491996528053,"('water', 'surface water')",kilogram
+Cyanide,25477.432879780525,"('water', 'surface water')",kilogram
+Arsenic,24118.914986840962,"('soil', 'agricultural')",kilogram
+"Iron, ion",23842.65475593772,"('water', 'ocean')",kilogram
+Lead,23635.254142604168,"('water',)",kilogram
+"Methane, from soil or biomass stock",23268.976017391095,"('air', 'non-urban air or from high stacks')",kilogram
+Lead,23088.18802424007,"('water', 'ocean')",kilogram
+Arsenic,22338.647726041418,"('soil', 'industrial')",kilogram
+Barium,22129.267960021672,"('air', 'urban air close to ground')",kilogram
+Lead,21689.5168368633,"('soil', 'agricultural')",kilogram
+Toluene,19605.196969447523,"('water',)",kilogram
+"Vanadium, ion",19513.50606784163,"('water',)",kilogram
+"Arsenic, ion",19260.306022587836,"('water', 'ocean')",kilogram
+Chromium VI,19136.401890030804,"('water', 'ground-')",kilogram
+Methyl ethyl ketone,18691.988512701093,"('air', 'urban air close to ground')",kilogram
+"Benzene, ethyl-",18502.608513370946,"('air',)",kilogram
+"Methane, chlorodifluoro-, HCFC-22",18502.27620073078,"('air', 'non-urban air or from high stacks')",kilogram
+Ethene,17105.14082954039,"('air', 'non-urban air or from high stacks')",kilogram
+Cyanide,16908.47752920927,"('air', 'non-urban air or from high stacks')",kilogram
+Cumene,16450.75173956676,"('water', 'surface water')",kilogram
+Benzo(a)pyrene,15992.170930483648,"('air', 'non-urban air or from high stacks')",kilogram
+Manganese,15878.749798698052,"('water',)",kilogram
+Molybdenum,15877.330352452664,"('water', 'ocean')",kilogram
+Ethanol,15436.382687133393,"('air', 'non-urban air or from high stacks')",kilogram
+Ethyl acetate,15297.160770041992,"('air', 'urban air close to ground')",kilogram
+"AOX, Adsorbable Organic Halogen as Cl",15125.144670161617,"('water', 'surface water')",kilogram
+Titanium,15021.043766662,"('air', 'urban air close to ground')",kilogram
+Acetic acid,14439.17256968888,"('air',)",kilogram
+Furan,14341.373623443165,"('air', 'non-urban air or from high stacks')",kilogram
+"Methane, tetrafluoro-, R-14",14241.407419469055,"('air',)",kilogram
+Molybdenum,14136.293693626292,"('water',)",kilogram
+Silicon,13961.655527167044,"('soil', 'industrial')",kilogram
+Strontium,13169.72418766776,"('air', 'low population density, long-term')",kilogram
+"PAH, polycyclic aromatic hydrocarbons",13132.931500970852,"('air',)",kilogram
+"Aldehydes, unspecified",12920.072034947249,"('air', 'non-urban air or from high stacks')",kilogram
+"DOC, Dissolved Organic Carbon",12546.245710562745,"('water', 'ground-')",kilogram
+Ethene,12199.885670375883,"('water', 'surface water')",kilogram
+"PAH, polycyclic aromatic hydrocarbons",11919.425611892568,"('water', 'surface water')",kilogram
+Methanol,11893.978753709538,"('air', 'non-urban air or from high stacks')",kilogram
+Manganese,11802.004005422434,"('water', 'ocean')",kilogram
+Acetaldehyde,11125.825264128345,"('air', 'non-urban air or from high stacks')",kilogram
+"Tin, ion",11061.315388782481,"('water', 'ground-')",kilogram
+"Titanium, ion",10591.61861099099,"('water',)",kilogram
+Uranium,9823.976573537446,"('air', 'urban air close to ground')",kilogram
+Sodium,9319.649353047185,"('air', 'non-urban air or from high stacks')",kilogram
+Iron,9295.081925601235,"('water', 'ground-')",kilogram
+"Chromium, ion",9091.658781266386,"('water', 'surface water')",kilogram
+Cadmium,9011.607204817828,"('soil', 'industrial')",kilogram
+Chromium,8720.194573400811,"('soil', 'agricultural')",kilogram
+Beryllium,8655.392135738399,"('water', 'surface water')",kilogram
+Mercury,8602.65503134071,"('soil', 'industrial')",kilogram
+Manganese,8481.548049161636,"('air',)",kilogram
+Cadmium,8409.07210274876,"('soil',)",kilogram
+Iron,8364.059826434193,"('air', 'non-urban air or from high stacks')",kilogram
+"PAH, polycyclic aromatic hydrocarbons",8132.101508362505,"('air', 'urban air close to ground')",kilogram
+Sodium,8032.175676525794,"('air',)",kilogram
+Cumene,7980.800532638081,"('water',)",kilogram
+Triethylene glycol,7597.963551023295,"('water', 'ocean')",kilogram
+Benzaldehyde,7320.8972994166415,"('air', 'non-urban air or from high stacks')",kilogram
+Thallium,7253.472425006978,"('air', 'non-urban air or from high stacks')",kilogram
+Methanol,6925.627819481571,"('air',)",kilogram
+Cumene,6845.964814137723,"('air', 'urban air close to ground')",kilogram
+"Titanium, ion",6794.732041075081,"('water', 'ground-')",kilogram
+Chromium VI,6671.9147988202685,"('air', 'non-urban air or from high stacks')",kilogram
+"Nickel, ion",6470.552662967463,"('water', 'ocean')",kilogram
+2-Propanol,6464.498481037647,"('air',)",kilogram
+Chromium,6442.304562738987,"('air', 'urban air close to ground')",kilogram
+Acrolein,6414.7481165383415,"('air',)",kilogram
+Copper,6107.10194072575,"('soil', 'industrial')",kilogram
+Benzaldehyde,6076.144131632883,"('air',)",kilogram
+Carbonyl sulfide,6024.966030292057,"('air',)",kilogram
+Strontium,5863.894628459888,"('soil', 'industrial')",kilogram
+Tungsten,5675.571629621424,"('air', 'non-urban air or from high stacks')",kilogram
+"Phenol, pentachloro-",5656.870431243666,"('air', 'non-urban air or from high stacks')",kilogram
+m-Xylene,4967.027973910275,"('air',)",kilogram
+Phenol,4820.673094143305,"('water',)",kilogram
+Isocyanic acid,4755.5497188970185,"('air', 'urban air close to ground')",kilogram
+Phosphorus,4633.233038896023,"('air', 'urban air close to ground')",kilogram
+Antimony,4629.850833848818,"('air', 'urban air close to ground')",kilogram
+"Ethane, 1,2-dichloro-",4556.0127138535145,"('air', 'urban air close to ground')",kilogram
+"Benzene, ethyl-",4293.470496818463,"('water', 'ocean')",kilogram
+"Methane, bromochlorodifluoro-, Halon 1211",4285.075590033287,"('air', 'non-urban air or from high stacks')",kilogram
+"Chromium, ion",4107.249363408467,"('water',)",kilogram
+Glyphosate,4094.18738899412,"('soil', 'industrial')",kilogram
+"Aldehydes, unspecified",4043.325295179667,"('air', 'urban air close to ground')",kilogram
+"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",3904.8124684256236,"('air', 'non-urban air or from high stacks')",kilogram
+Monoethanolamine,3890.7469794462572,"('air', 'urban air close to ground')",kilogram
+Nickel,3826.114470699141,"('soil', 'industrial')",kilogram
+Arsenic,3798.193607621921,"('air',)",kilogram
+Silicon,3744.576731762234,"('air',)",kilogram
+2-Propanol,3616.710859648681,"('air', 'urban air close to ground')",kilogram
+Antimony,3614.1775023126334,"('water',)",kilogram
+Strontium,3557.5672665284937,"('air', 'urban air close to ground')",kilogram
+Chromium,3490.4136278317033,"('soil', 'industrial')",kilogram
+Lead,3470.602289351602,"('water', 'ground-')",kilogram
+Sodium,3307.9076548658904,"('water', 'ground-')",kilogram
+Beryllium,3213.4083222481445,"('air', 'urban air close to ground')",kilogram
+Cyanide,3141.635434023074,"('water', 'ocean')",kilogram
+Calcium,3098.614661445594,"('air', 'non-urban air or from high stacks')",kilogram
+"Methane, bromotrifluoro-, Halon 1301",2970.3418624666424,"('air', 'non-urban air or from high stacks')",kilogram
+Cyanide,2926.1657310254036,"('water',)",kilogram
+Styrene,2894.198293921088,"('air',)",kilogram
+Chromium VI,2782.0042619792134,"('air', 'low population density, long-term')",kilogram
+"PAH, polycyclic aromatic hydrocarbons",2778.581258211214,"('water', 'ocean')",kilogram
+Methanol,2653.38081445244,"('water', 'ocean')",kilogram
+"Ethane, 1,1-difluoro-, HFC-152a",2650.2613675445054,"('air', 'urban air close to ground')",kilogram
+Lead,2537.5654472746232,"('soil', 'industrial')",kilogram
+Phosphorus,2468.341882555702,"('soil', 'industrial')",kilogram
+"Ethene, chloro-",2298.3846650329456,"('air', 'urban air close to ground')",kilogram
+"Chromium, ion",2157.079978122333,"('water', 'ocean')",kilogram
+"Benzene, chloro-",2087.889848641926,"('water', 'surface water')",kilogram
+Titanium,2084.1122005915895,"('air',)",kilogram
+o-Xylene,2026.7306127290176,"('air',)",kilogram
+Chromium,2008.3707754722525,"('air',)",kilogram
+Scandium,1988.5115775364598,"('air', 'non-urban air or from high stacks')",kilogram
+Lead,1976.7819711553814,"('soil',)",kilogram
+Silver,1933.4249466779168,"('air', 'urban air close to ground')",kilogram
+Phenol,1923.5445749876226,"('air', 'non-urban air or from high stacks')",kilogram
+Scandium,1921.555596498629,"('air', 'urban air close to ground')",kilogram
+Magnesium,1910.5240720744823,"('air',)",kilogram
+Propylene oxide,1834.2492815431249,"('water', 'surface water')",kilogram
+Acetic acid,1802.0587368935464,"('water', 'surface water')",kilogram
+"Ethane, 1,2-dichloro-",1724.657186291261,"('water', 'surface water')",kilogram
+Beryllium,1718.3525591540924,"('water',)",kilogram
+Acetaldehyde,1696.5501895530426,"('water', 'surface water')",kilogram
+Propanal,1542.0625472865795,"('air', 'non-urban air or from high stacks')",kilogram
+Nickel,1521.2622572971836,"('soil',)",kilogram
+Phosphorus,1513.1290994724664,"('water', 'surface water')",kilogram
+Calcium,1483.2507569043128,"('air',)",kilogram
+Barium,1436.1685326466932,"('soil',)",kilogram
+Chromium VI,1429.9294304768166,"('soil',)",kilogram
+Heptane,1409.1553346618653,"('air',)",kilogram
+Tin,1384.808443499011,"('air', 'urban air close to ground')",kilogram
+t-Butyl methyl ether,1374.3744190667996,"('air', 'urban air close to ground')",kilogram
+Beryllium,1255.8734717247753,"('air', 'non-urban air or from high stacks')",kilogram
+Methanol,1219.2882834696184,"('water', 'surface water')",kilogram
+Formic acid,1215.189213650059,"('air', 'non-urban air or from high stacks')",kilogram
+Glutaraldehyde,1193.4665940180575,"('water', 'ocean')",kilogram
+"Benzene, ethyl-",1178.2762430854887,"('water',)",kilogram
+Cyanide,1146.6793248992954,"('air', 'urban air close to ground')",kilogram
+Phenol,1120.6149741713766,"('air', 'urban air close to ground')",kilogram
+"Ethane, hexafluoro-, HFC-116",1112.6436078685883,"('air',)",kilogram
+Ethanol,1107.9819478792833,"('water', 'surface water')",kilogram
+Ethyne,1086.718335864282,"('air',)",kilogram
+Acrolein,1081.377879643822,"('air', 'non-urban air or from high stacks')",kilogram
+Silicon,1072.4067604480806,"('air', 'non-urban air or from high stacks')",kilogram
+Phosphate,1046.8695481809236,"('water', 'surface water')",kilogram
+Titanium,1027.1730318688476,"('soil',)",kilogram
+"Carbon monoxide, non-fossil",1017.206009643399,"('air',)",kilogram
+"Methane, monochloro-, R-40",939.0371376021515,"('air', 'non-urban air or from high stacks')",kilogram
+Formaldehyde,915.6110382698002,"('water',)",kilogram
+Mancozeb,829.4986055980214,"('soil', 'agricultural')",kilogram
+Calcium,807.1444454853453,"('soil',)",kilogram
+Propylene oxide,776.1389214703422,"('air', 'urban air close to ground')",kilogram
+Molybdenum,767.8829515602154,"('soil',)",kilogram
+Butane,718.6513036644313,"('air',)",kilogram
+"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",681.7294215497224,"('air',)",kilogram
+o-Dichlorobenzene,674.2424050098023,"('water', 'surface water')",kilogram
+Metolachlor,654.600113267839,"('soil', 'agricultural')",kilogram
+Methyl acrylate,624.5598811669815,"('water', 'surface water')",kilogram
+Butyl acetate,596.7421965818065,"('water', 'surface water')",kilogram
+Glyphosate,579.0053394420332,"('soil', 'agricultural')",kilogram
+Chlorothalonil,563.1370249537536,"('soil', 'agricultural')",kilogram
+Carbonate,561.6805491905169,"('water', 'ocean')",kilogram
+Diflubenzuron,560.2057320155296,"('soil', 'agricultural')",kilogram
+Silicon,542.5870678745833,"('soil',)",kilogram
+"Methane, non-fossil",530.5555779556764,"('air',)",kilogram
+"Methane, dichloro-, HCC-30",513.7763738797263,"('air', 'non-urban air or from high stacks')",kilogram
+Phosphorus,507.47998028920694,"('air', 'low population density, long-term')",kilogram
+Butanol,479.94171666373694,"('water', 'surface water')",kilogram
+Propane,476.6180936942437,"('air',)",kilogram
+Arsenic,465.50515178117234,"('soil',)",kilogram
+Benzo(a)pyrene,464.86803557707935,"('air', 'urban air close to ground')",kilogram
+Acetonitrile,445.896803668739,"('air', 'non-urban air or from high stacks')",kilogram
+Carbofuran,412.815764107695,"('soil', 'agricultural')",kilogram
+"AOX, Adsorbable Organic Halogen as Cl",409.54366880481604,"('water', 'ocean')",kilogram
+Tin,379.8357881449086,"('soil', 'agricultural')",kilogram
+Propionic acid,376.00413995903745,"('air', 'urban air close to ground')",kilogram
+m-Xylene,371.5213963596908,"('water',)",kilogram
+Acetone,367.8533597520605,"('air',)",kilogram
+"Aldehydes, unspecified",361.4117441574631,"('air',)",kilogram
+"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",358.46378547750595,"('air',)",kilogram
+"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",358.46378547750595,"('air',)",kilogram
+Pentane,337.56217778197777,"('air',)",kilogram
+Vanadium,320.096170839247,"('soil',)",kilogram
+"Lithium, ion",312.1948608936015,"('water', 'surface water')",kilogram
+Silver,312.03017625611307,"('air', 'non-urban air or from high stacks')",kilogram
+"Benzene, ethyl-",299.0631633089776,"('air', 'non-urban air or from high stacks')",kilogram
+Antimony,285.5652225247387,"('soil',)",kilogram
+Elemental carbon,277.7999838147735,"('water', 'ground-')",kilogram
+Elemental carbon,277.7999838147735,"('soil',)",kilogram
+"Methane, tetrachloro-, R-10",273.4663611867446,"('air', 'urban air close to ground')",kilogram
+Chromium VI,270.6817647069985,"('air', 'urban air close to ground')",kilogram
+o-Xylene,270.6191183612244,"('water',)",kilogram
+Butene,263.8611434316599,"('water', 'surface water')",kilogram
+Methanol,262.8444886835406,"('water',)",kilogram
+Phosphorus,246.88717482413196,"('water', 'ocean')",kilogram
+Manganese,246.0725342894182,"('soil',)",kilogram
+Chromium VI,233.9379727606472,"('water',)",kilogram
+Trichloroethylene,230.10027315620752,"('air',)",kilogram
+Benzo(a)pyrene,227.3661065622235,"('air',)",kilogram
+Silver,222.55742806915512,"('soil',)",kilogram
+Orbencarb,215.17419469555142,"('soil', 'agricultural')",kilogram
+Lithium,214.52717137699827,"('water', 'ground-')",kilogram
+Lithium,214.52717137699827,"('soil',)",kilogram
+Methane,209.21453352941896,"('air', 'urban air close to ground')",kilogram
+Glyphosate,199.89239753565295,"('air', 'non-urban air or from high stacks')",kilogram
+Ethyne,195.0061308805338,"('air', 'non-urban air or from high stacks')",kilogram
+Beryllium,185.06403668083797,"('air',)",kilogram
+Ethylene oxide,175.33614710990418,"('air', 'urban air close to ground')",kilogram
+Chlorpyrifos methyl,160.61668319086573,"('soil', 'agricultural')",kilogram
+Ethane,157.63950119652657,"('air',)",kilogram
+Cypermethrin,157.07385651082097,"('soil', 'agricultural')",kilogram
+Phosphate,155.58473989168115,"('water', 'ocean')",kilogram
+Styrene,153.69027671352507,"('air', 'urban air close to ground')",kilogram
+Formaldehyde,144.5463638729459,"('water', 'surface water')",kilogram
+Silver,143.96027315751002,"('air',)",kilogram
+Styrene,140.84424069596358,"('air', 'non-urban air or from high stacks')",kilogram
+"Ethane, hexafluoro-, HFC-116",132.57655979710864,"('air', 'urban air close to ground')",kilogram
+"Methane, dichloro-, HCC-30",125.9058787345679,"('air',)",kilogram
+Strontium,124.50158634168183,"('air',)",kilogram
+"Carbon dioxide, fossil",121.59363374501253,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Fluosilicic acid,117.68091047367196,"('water', 'surface water')",kilogram
+Sodium chlorate,114.32054001598506,"('air', 'urban air close to ground')",kilogram
+2-Propanol,109.38969917854651,"('water',)",kilogram
+Propene,106.60582600283207,"('air',)",kilogram
+Ethylene oxide,97.09551533642092,"('water', 'surface water')",kilogram
+Chloroform,92.96905695748902,"('air', 'urban air close to ground')",kilogram
+"Ethene, chloro-",90.37238953893667,"('water', 'surface water')",kilogram
+"Ethene, tetrachloro-",87.04966171326677,"('air', 'non-urban air or from high stacks')",kilogram
+Barium,85.76452459345893,"('soil', 'agricultural')",kilogram
+Acetone,84.00115494729799,"('water',)",kilogram
+Endosulfan,83.33661795200933,"('soil', 'agricultural')",kilogram
+Elemental carbon,81.18219239312133,"('air', 'urban air close to ground')",kilogram
+Chloroacetic acid,76.52754210543729,"('water', 'surface water')",kilogram
+Sodium hydroxide,76.51817201312713,"('air', 'urban air close to ground')",kilogram
+"Ethane, 1,2-dichloro-",75.47557074163056,"('air', 'non-urban air or from high stacks')",kilogram
+2-Methyl pentane,70.33627074386487,"('air', 'urban air close to ground')",kilogram
+"Titanium, ion",67.29480686871608,"('water', 'ocean')",kilogram
+"Chromium, ion",66.48674994590947,"('water', 'ground-')",kilogram
+"Ethane, 1,1-difluoro-, HFC-152a",66.27339372468141,"('air', 'non-urban air or from high stacks')",kilogram
+Fluosilicic acid,65.37828552939573,"('air', 'urban air close to ground')",kilogram
+"AOX, Adsorbable Organic Halogen as Cl",63.591352501524376,"('water',)",kilogram
+Linuron,61.484144570765274,"('soil', 'agricultural')",kilogram
+"Acrylate, ion",60.60139097544602,"('water', 'surface water')",kilogram
+Isoprene,59.711826445733436,"('air', 'non-urban air or from high stacks')",kilogram
+"PAH, polycyclic aromatic hydrocarbons",59.63416678156651,"('water',)",kilogram
+Aldicarb,54.66496422287932,"('soil', 'agricultural')",kilogram
+"Benzene, hexachloro-",53.31320215971381,"('air',)",kilogram
+Dimethyl carbonate,52.98453124092163,"('air',)",kilogram
+"VOC, volatile organic compounds, unspecified origin",51.771073368266464,"('water',)",kilogram
+"Methane, dichlorodifluoro-, CFC-12",49.892292426125344,"('air', 'urban air close to ground')",kilogram
+Monocrotophos,47.94779211976933,"('soil', 'agricultural')",kilogram
+Silicon,45.20383071668283,"('water', 'ocean')",kilogram
+"Potassium, ion",43.47916463214422,"('water',)",kilogram
+Phenol,43.36435493547038,"('air',)",kilogram
+Metribuzin,42.20875130890439,"('soil', 'agricultural')",kilogram
+4-Methyl-2-pentanone,40.87332069377395,"('water',)",kilogram
+"Ethane, 1,1,1-trichloro-, HCFC-140",37.832582356720714,"('air', 'non-urban air or from high stacks')",kilogram
+Chromium,36.091256665071874,"('soil',)",kilogram
+Fenpiclonil,34.181178716788814,"('soil', 'agricultural')",kilogram
+Zirconium,33.61974296174964,"('air', 'non-urban air or from high stacks')",kilogram
+Strontium,33.00831467924963,"('soil', 'agricultural')",kilogram
+MSMA,32.53563451328539,"('soil', 'agricultural')",kilogram
+Methyl acrylate,31.970848506925982,"('air', 'urban air close to ground')",kilogram
+Monoethanolamine,30.57197146246605,"('water',)",kilogram
+Chlorpyrifos,30.462223528410664,"('soil', 'agricultural')",kilogram
+Phosphorus,30.198231977087286,"('air', 'non-urban air or from high stacks')",kilogram
+t-Butyl methyl ether,26.71836468824465,"('water', 'ocean')",kilogram
+Ethene,25.302383360010374,"('air',)",kilogram
+Acrylic acid,25.246415808033017,"('air', 'urban air close to ground')",kilogram
+Acenaphthene,25.18347268716293,"('water', 'surface water')",kilogram
+Formate,24.51828779687615,"('water', 'surface water')",kilogram
+Chloroform,23.340275226856374,"('air', 'non-urban air or from high stacks')",kilogram
+"Methane, dichloro-, HCC-30",22.660603300887296,"('air', 'urban air close to ground')",kilogram
+Dichromate,20.541187196096256,"('water',)",kilogram
+Trifluralin,19.75718521944457,"('air', 'non-urban air or from high stacks')",kilogram
+"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",19.18806063433938,"('air', 'low population density, long-term')",kilogram
+Trifluralin,18.23514697231462,"('soil', 'agricultural')",kilogram
+Strontium,18.230915792400694,"('soil',)",kilogram
+Sodium formate,17.308497142169163,"('water', 'surface water')",kilogram
+Imidacloprid,16.697606481022067,"('soil', 'agricultural')",kilogram
+Titanium,16.022223071472606,"('air', 'non-urban air or from high stacks')",kilogram
+t-Butyl methyl ether,15.370303124602668,"('water', 'surface water')",kilogram
+Pendimethalin,14.617145212726658,"('soil', 'agricultural')",kilogram
+Pendimethalin,14.400258287826134,"('air', 'non-urban air or from high stacks')",kilogram
+"Methane, chlorodifluoro-, HCFC-22",13.941922109177135,"('air', 'urban air close to ground')",kilogram
+Triethylene glycol,13.78927998621084,"('water',)",kilogram
+Triethylene glycol,13.777702976443612,"('water', 'surface water')",kilogram
+Acrolein,13.530068485383644,"('air', 'urban air close to ground')",kilogram
+Fipronil,13.305463924518504,"('soil', 'agricultural')",kilogram
+Atrazine,13.265436145764141,"('soil', 'agricultural')",kilogram
+"PAH, polycyclic aromatic hydrocarbons",13.123090461162326,"('water', 'ground-')",kilogram
+"PAH, polycyclic aromatic hydrocarbons",13.123090461162326,"('soil',)",kilogram
+Fluoranthene,12.328674706534448,"('water', 'surface water')",kilogram
+Phosphorus,12.14008926147617,"('water',)",kilogram
+Cumene,11.592545718948243,"('air', 'non-urban air or from high stacks')",kilogram
+"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",10.371100474239178,"('air', 'urban air close to ground')",kilogram
+Phenanthrene,10.154558210961717,"('water', 'surface water')",kilogram
+Acephate,9.787257192901688,"('soil', 'agricultural')",kilogram
+"Methane, trifluoro-, HFC-23",9.51037215894024,"('air', 'urban air close to ground')",kilogram
+Pyrene,9.287601241674912,"('water', 'surface water')",kilogram
+Formic acid,9.16592422414882,"('air', 'urban air close to ground')",kilogram
+Fluosilicic acid,8.979833778866391,"('water',)",kilogram
+Lauric acid,8.616981938582645,"('water',)",kilogram
+o-Xylene,8.489205550519635,"('air', 'urban air close to ground')",kilogram
+Carbon disulfide,8.418927381440165,"('air', 'urban air close to ground')",kilogram
+Sodium formate,7.204551884094604,"('air', 'urban air close to ground')",kilogram
+Malathion,7.166945341957107,"('soil', 'agricultural')",kilogram
+Difenoconazole,7.028263604681132,"('soil', 'agricultural')",kilogram
+Chloroacetic acid,6.95923823417378,"('air', 'urban air close to ground')",kilogram
+Benzaldehyde,6.277102267382552,"('air', 'urban air close to ground')",kilogram
+Diuron,6.261879037707892,"('soil', 'agricultural')",kilogram
+Metolachlor,6.139037244744351,"('air', 'non-urban air or from high stacks')",kilogram
+Aldrin,6.092951948648836,"('soil', 'agricultural')",kilogram
+Triclopyr,5.868189479965139,"('soil', 'agricultural')",kilogram
+Uranium,5.4558345945311855,"('air', 'non-urban air or from high stacks')",kilogram
+"Phenol, pentachloro-",5.358996000028544,"('air', 'urban air close to ground')",kilogram
+Fluorene,4.492278438880116,"('water', 'surface water')",kilogram
+Phosphorus,4.412390872135383,"('water', 'ground-')",kilogram
+Ethylene oxide,4.33801750642698,"('air',)",kilogram
+Chlorpyrifos,4.315434873575016,"('air', 'non-urban air or from high stacks')",kilogram
+Sulfosate,4.2781578454241505,"('soil', 'agricultural')",kilogram
+Acenaphthene,4.206084980096667,"('air', 'non-urban air or from high stacks')",kilogram
+Metsulfuron-methyl,4.131756029066924,"('soil', 'agricultural')",kilogram
+Thiram,4.019894343885415,"('soil', 'agricultural')",kilogram
+Propanal,3.975852483712908,"('air', 'urban air close to ground')",kilogram
+Nitrobenzene,3.757169361723115,"('water', 'surface water')",kilogram
+"Phenol, pentachloro-",3.6550470427699002,"('air',)",kilogram
+Acenaphthene,3.6064836098416664,"('air',)",kilogram
+Paraquat,2.8529378996018093,"('soil', 'agricultural')",kilogram
+Antimony,2.8185156337760087,"('soil', 'agricultural')",kilogram
+Dicrotophos,2.7500177042651526,"('soil', 'agricultural')",kilogram
+Carbendazim,2.4960706265257815,"('soil', 'agricultural')",kilogram
+Diethanolamine,2.463506538296278,"('water',)",kilogram
+Ethephon,2.410196306226809,"('soil', 'agricultural')",kilogram
+Naphtalene,2.2465237529771027,"('air',)",kilogram
+Aniline,2.139158096542891,"('water', 'surface water')",kilogram
+Acetamide,2.1074771147076987,"('soil', 'agricultural')",kilogram
+Metam-sodium,2.0983393179520036,"('soil', 'agricultural')",kilogram
+Teflubenzuron,2.096303707805111,"('soil', 'agricultural')",kilogram
+Ammonium carbonate,2.0644460493650976,"('air', 'urban air close to ground')",kilogram
+Phenanthrene,2.0218980495163557,"('air',)",kilogram
+Ethylene diamine,2.005833566236395,"('water', 'surface water')",kilogram
+"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",1.9143790707613397,"('air', 'urban air close to ground')",kilogram
+Paraquat,1.9056828740991876,"('air', 'non-urban air or from high stacks')",kilogram
+Profenofos,1.9028947471381745,"('soil', 'agricultural')",kilogram
+Fomesafen,1.8976768732642575,"('air', 'non-urban air or from high stacks')",kilogram
+Alachlor,1.8437333724978668,"('air', 'non-urban air or from high stacks')",kilogram
+Carbonate,1.840686618408305,"('water',)",kilogram
+Propanol,1.7642724017219489,"('air', 'urban air close to ground')",kilogram
+Metribuzin,1.7164902631818681,"('air', 'non-urban air or from high stacks')",kilogram
+Allyl chloride,1.7080516600923907,"('water',)",kilogram
+Ethanol,1.6954572502013434,"('air',)",kilogram
+Dimethylamine,1.529019579274805,"('water', 'surface water')",kilogram
+Metalaxil,1.5198276019106824,"('soil', 'agricultural')",kilogram
+Tribufos,1.4506999559528584,"('soil', 'agricultural')",kilogram
+Prometryn,1.4314225740528186,"('soil', 'agricultural')",kilogram
+Acenaphthylene,1.42168130379885,"('water', 'surface water')",kilogram
+Carbon disulfide,1.412685516177861,"('water', 'surface water')",kilogram
+Sodium dichromate,1.2821482207533332,"('air', 'urban air close to ground')",kilogram
+"Methane, tetrafluoro-, R-14",1.2579286264744867,"('air', 'urban air close to ground')",kilogram
+Ethyl acetate,1.2575239131639029,"('water', 'surface water')",kilogram
+Propanil,1.254698664551718,"('soil', 'agricultural')",kilogram
+Sulfentrazone,1.240514650284676,"('soil', 'agricultural')",kilogram
+Chromium VI,1.2358619052919833,"('air',)",kilogram
+Clethodim,1.1717539115868671,"('air', 'non-urban air or from high stacks')",kilogram
+Acenaphthene,1.125406822737548,"('water', 'ocean')",kilogram
+Atrazine,1.0423256518248887,"('air', 'non-urban air or from high stacks')",kilogram
+Platinum,1.0333982044559613,"('air', 'urban air close to ground')",kilogram
+Sulfentrazone,1.0050661170690816,"('air', 'non-urban air or from high stacks')",kilogram
+"Toluene, 2-chloro",0.9999336108688179,"('water', 'surface water')",kilogram
+Fomesafen,0.9995162506146809,"('soil', 'agricultural')",kilogram
+"Ethene, tetrachloro-",0.9631461534547846,"('air',)",kilogram
+Nitrobenzene,0.9375366405174783,"('air', 'urban air close to ground')",kilogram
+Acetone,0.9370136336400487,"('water', 'surface water')",kilogram
+Propionic acid,0.911687309378373,"('water', 'surface water')",kilogram
+Azoxystrobin,0.9060434950612185,"('air', 'non-urban air or from high stacks')",kilogram
+1-Pentene,0.8999489767322293,"('air', 'urban air close to ground')",kilogram
+Naphtalene,0.8986094787225871,"('water', 'surface water')",kilogram
+Aniline,0.891039419336487,"('air', 'urban air close to ground')",kilogram
+Diethylamine,0.8340607608761599,"('water', 'surface water')",kilogram
+Ethylene diamine,0.8332997709796824,"('air', 'urban air close to ground')",kilogram
+Acenaphthylene,0.8247430359067646,"('air',)",kilogram
+Acephate,0.8076366400475774,"('air', 'non-urban air or from high stacks')",kilogram
+Ethylamine,0.804117968037877,"('water', 'surface water')",kilogram
+Flumioxazin,0.8006969102206918,"('air', 'non-urban air or from high stacks')",kilogram
+Metazachlor,0.7946076952862073,"('soil', 'agricultural')",kilogram
+Glufosinate,0.7840871418395717,"('soil', 'agricultural')",kilogram
+Imazethapyr,0.75530359597163,"('air', 'non-urban air or from high stacks')",kilogram
+2-Propanol,0.712885498146855,"('water', 'surface water')",kilogram
+Chloroform,0.6908640110013309,"('water', 'surface water')",kilogram
+"Benzene, dichloro",0.6796015651145036,"('air', 'urban air close to ground')",kilogram
+Benomyl,0.6694539318554498,"('soil', 'agricultural')",kilogram
+Cyprodinil,0.6563526399071075,"('soil', 'agricultural')",kilogram
+Bentazone,0.6410073191449388,"('air', 'non-urban air or from high stacks')",kilogram
+Pyraclostrobin,0.6275390335008755,"('air', 'non-urban air or from high stacks')",kilogram
+Clethodim,0.619161903417259,"('soil', 'agricultural')",kilogram
+Anthracene,0.6179007728309097,"('water', 'surface water')",kilogram
+Molinate,0.5640524833257462,"('soil', 'agricultural')",kilogram
+Dipropylamine,0.5295464782627011,"('water', 'surface water')",kilogram
+"Toluene, 2-chloro",0.5267782609953504,"('air', 'urban air close to ground')",kilogram
+"Phenol, 2,4-dichloro",0.5163188699251166,"('air', 'urban air close to ground')",kilogram
+"Cyhalothrin, gamma-",0.5137019535929204,"('air', 'non-urban air or from high stacks')",kilogram
+Mepiquat chloride,0.5122729056265505,"('soil', 'agricultural')",kilogram
+Imazethapyr,0.48735780544328855,"('soil', 'agricultural')",kilogram
+Fluazifop-p-butyl,0.4873014057113615,"('air', 'non-urban air or from high stacks')",kilogram
+Napropamide,0.48463222393588207,"('soil', 'agricultural')",kilogram
+"Methane, dichlorodifluoro-, CFC-12",0.4815106752480708,"('air', 'non-urban air or from high stacks')",kilogram
+t-Butylamine,0.4700293189796967,"('water', 'surface water')",kilogram
+m-Xylene,0.46971494841437733,"('water', 'surface water')",kilogram
+"Methane, tetrachloro-, R-10",0.46309722187909286,"('air',)",kilogram
+Azoxystrobin,0.4618309810070135,"('soil', 'agricultural')",kilogram
+2-Methyl-1-propanol,0.4118453389819709,"('water', 'surface water')",kilogram
+Bentazone,0.40786218655358913,"('soil', 'agricultural')",kilogram
+Imazaquin,0.38438559369849984,"('air', 'non-urban air or from high stacks')",kilogram
+Propanol,0.38288057469073883,"('water', 'surface water')",kilogram
+Lithium,0.3785418068625603,"('air', 'urban air close to ground')",kilogram
+Chlormequat,0.3525974872190981,"('soil', 'agricultural')",kilogram
+Propionic acid,0.352215357133701,"('air',)",kilogram
+Fenoxaprop,0.3508105429102216,"('soil', 'agricultural')",kilogram
+Silicon tetrafluoride,0.3494514859084935,"('air', 'non-urban air or from high stacks')",kilogram
+Diethylamine,0.3475199989522286,"('air', 'urban air close to ground')",kilogram
+Ethanol,0.34336990967447517,"('water',)",kilogram
+Dimethachlor,0.33961783227884007,"('soil', 'agricultural')",kilogram
+Ethylamine,0.33504492021511234,"('air', 'urban air close to ground')",kilogram
+Pirimicarb,0.3289251491528835,"('soil', 'agricultural')",kilogram
+Fenoxaprop,0.3285500091298174,"('air', 'non-urban air or from high stacks')",kilogram
+Acetochlor,0.32507973903933335,"('soil', 'agricultural')",kilogram
+"Chlorosilane, trimethyl-",0.3147315870933224,"('air', 'urban air close to ground')",kilogram
+Isopropylamine,0.3141955517043857,"('water', 'surface water')",kilogram
+Parathion,0.3129433327141924,"('soil', 'agricultural')",kilogram
+Dichromate,0.31244755223414616,"('water', 'surface water')",kilogram
+Esfenvalerate,0.3117049247154181,"('air', 'non-urban air or from high stacks')",kilogram
+Chlorimuron-ethyl,0.308873176648832,"('soil', 'agricultural')",kilogram
+Acetamide,0.30480964249759745,"('air', 'non-urban air or from high stacks')",kilogram
+Chlorimuron-ethyl,0.3032137043507458,"('air', 'non-urban air or from high stacks')",kilogram
+Thiobencarb,0.3029038099509513,"('soil', 'agricultural')",kilogram
+Lactofen,0.2916716120962846,"('air', 'non-urban air or from high stacks')",kilogram
+Tebuconazole,0.2905136056959519,"('soil', 'agricultural')",kilogram
+Uranium,0.26231134796057365,"('air',)",kilogram
+Flumioxazin,0.25370694344154154,"('soil', 'agricultural')",kilogram
+Metaldehyde,0.2510863139691013,"('soil', 'agricultural')",kilogram
+Carbaryl,0.25010584851596107,"('air', 'non-urban air or from high stacks')",kilogram
+Permethrin,0.24850587005382435,"('air', 'non-urban air or from high stacks')",kilogram
+Clomazone,0.24154619489081094,"('soil', 'agricultural')",kilogram
+Propiconazole,0.23835800108345548,"('air', 'non-urban air or from high stacks')",kilogram
+Lactic acid,0.23298859251864112,"('water', 'surface water')",kilogram
+"Carbon monoxide, fossil",0.22440633352782863,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Butyrolactone,0.2224249128829123,"('water', 'surface water')",kilogram
+Dipropylamine,0.22064231584765703,"('air', 'urban air close to ground')",kilogram
+Propanal,0.21850139122267398,"('water', 'surface water')",kilogram
+Fluazifop-P-butyl,0.21846005243120084,"('soil', 'agricultural')",kilogram
+MCPA,0.2145910860886994,"('soil', 'agricultural')",kilogram
+"Ethene, tetrachloro-",0.2012847173311751,"('air', 'urban air close to ground')",kilogram
+"Benzene, pentachloro-",0.19904030291823074,"('air', 'urban air close to ground')",kilogram
+t-Butylamine,0.1958429207075266,"('air', 'urban air close to ground')",kilogram
+Lambda-cyhalothrin,0.19576714941998621,"('soil', 'agricultural')",kilogram
+Acifluorfen,0.1943420639373291,"('air', 'non-urban air or from high stacks')",kilogram
+Sethoxydim,0.19204592429411083,"('air', 'non-urban air or from high stacks')",kilogram
+Cyfluthrin,0.18772201550608916,"('soil', 'agricultural')",kilogram
+1-Pentanol,0.17837362140581875,"('water', 'surface water')",kilogram
+Imazamox,0.17746106696967218,"('soil', 'agricultural')",kilogram
+Methyl parathion,0.1734984143825095,"('air', 'non-urban air or from high stacks')",kilogram
+2-Methyl-1-propanol,0.17160478949147873,"('air', 'urban air close to ground')",kilogram
+1-Pentene,0.16942900365474836,"('water', 'surface water')",kilogram
+Thidiazuron,0.16549816353630364,"('soil', 'agricultural')",kilogram
+Selenium,0.15840982324610792,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Cloransulam-methyl,0.15241124371451664,"('air', 'non-urban air or from high stacks')",kilogram
+Butanol,0.15032121933950807,"('air', 'urban air close to ground')",kilogram
+Fluoranthene,0.14562232876439074,"('air',)",kilogram
+Sodium chlorate,0.14521886945897478,"('water', 'ground-')",kilogram
+Diquat,0.14401508770144322,"('soil', 'agricultural')",kilogram
+Flufenacet,0.14206645259792214,"('air', 'non-urban air or from high stacks')",kilogram
+Glyphosate,0.13885356286867725,"('water', 'ground-')",kilogram
+Isoproturon,0.13715612645810119,"('soil', 'agricultural')",kilogram
+Phosphorus,0.13537930214786384,"('air',)",kilogram
+Isopropylamine,0.13091264526832647,"('air', 'urban air close to ground')",kilogram
+Fluorene,0.13084131125324372,"('air',)",kilogram
+m-Xylene,0.12944380851481688,"('air', 'non-urban air or from high stacks')",kilogram
+Cloransulam-methyl,0.12911647316241856,"('soil', 'agricultural')",kilogram
+Formamide,0.12769510838227915,"('water', 'surface water')",kilogram
+Methyl lactate,0.12296203922601902,"('air', 'urban air close to ground')",kilogram
+"Phenol, pentachloro-",0.12183278545314055,"('soil',)",kilogram
+Propylamine,0.12071212212927904,"('water', 'surface water')",kilogram
+2-Propanol,0.114606301774684,"('air', 'non-urban air or from high stacks')",kilogram
+Dimethylamine,0.11292896923939039,"('air', 'urban air close to ground')",kilogram
+Zeta-cypermethrin,0.11225979608014446,"('air', 'non-urban air or from high stacks')",kilogram
+Tetramethyl ammonium hydroxide,0.11145905312019147,"('air', 'urban air close to ground')",kilogram
+Thiamethoxam,0.1088461016795782,"('soil', 'agricultural')",kilogram
+Imazamox,0.10847473470763312,"('air', 'non-urban air or from high stacks')",kilogram
+Alachlor,0.10659258044852948,"('soil', 'agricultural')",kilogram
+Pyrene,0.10626339494724357,"('air',)",kilogram
+Spiroxamine,0.10497682712825822,"('soil', 'agricultural')",kilogram
+Dicamba,0.10176762206702185,"('air', 'non-urban air or from high stacks')",kilogram
+Lactic acid,0.09707808982990516,"('air', 'urban air close to ground')",kilogram
+Pyrithiobac sodium salt,0.09696706255346181,"('soil', 'agricultural')",kilogram
+Butyrolactone,0.09267535783874413,"('air', 'urban air close to ground')",kilogram
+Ethofumesate,0.09133623437379053,"('soil', 'agricultural')",kilogram
+Quizalofop-ethyl,0.08760298470950337,"('air', 'non-urban air or from high stacks')",kilogram
+Ethalfluralin,0.08688807333104996,"('soil', 'agricultural')",kilogram
+Urea,0.08645136640382793,"('water', 'surface water')",kilogram
+Dimethyl malonate,0.08533840909978185,"('air', 'urban air close to ground')",kilogram
+"Benzene, hexachloro-",0.08461116315852547,"('air', 'urban air close to ground')",kilogram
+1-Pentanol,0.07432188526818526,"('air', 'urban air close to ground')",kilogram
+Acetonitrile,0.07335691286214431,"('water', 'surface water')",kilogram
+Flumiclorac-pentyl,0.07312347271049857,"('air', 'non-urban air or from high stacks')",kilogram
+Acenaphthylene,0.07131735053383678,"('water', 'ocean')",kilogram
+Choline chloride,0.06809528507619425,"('soil', 'agricultural')",kilogram
+Cu-HDO,0.066154570176141,"('water',)",kilogram
+Trimethylamine,0.06550691048540211,"('water', 'surface water')",kilogram
+Methyl formate,0.06349822113698617,"('air', 'urban air close to ground')",kilogram
+Cyanoacetic acid,0.0634172490606834,"('air', 'urban air close to ground')",kilogram
+Acetyl chloride,0.06293995863990673,"('water', 'surface water')",kilogram
+"Phenol, 2,4-dichloro",0.05820388823538813,"('air',)",kilogram
+2-Aminopropanol,0.057191212513141715,"('water', 'surface water')",kilogram
+Fenpropidin,0.055686779064140476,"('soil', 'agricultural')",kilogram
+Butadiene,0.05383498057408702,"('air', 'urban air close to ground')",kilogram
+Formamide,0.053205160710187036,"('air', 'urban air close to ground')",kilogram
+Thiodicarb,0.05069000322967239,"('air', 'non-urban air or from high stacks')",kilogram
+Propylamine,0.0502973232377025,"('air', 'urban air close to ground')",kilogram
+Procymidone,0.048830715419650984,"('soil', 'agricultural')",kilogram
+o-Nitrotoluene,0.048776761209087596,"('air', 'urban air close to ground')",kilogram
+2-Nitrobenzoic acid,0.046352983901092576,"('air', 'urban air close to ground')",kilogram
+Cyfluthrin,0.04434476433168135,"('air', 'non-urban air or from high stacks')",kilogram
+Sethoxydim,0.044161407794669046,"('soil', 'agricultural')",kilogram
+Anthranilic acid,0.04396858585793097,"('air', 'urban air close to ground')",kilogram
+Chloridazon,0.040286166895959166,"('soil', 'agricultural')",kilogram
+Mecoprop,0.036687041694222905,"('soil', 'agricultural')",kilogram
+Formic acid,0.03627569262714217,"('water', 'surface water')",kilogram
+Metconazole,0.035694310156506294,"('soil', 'agricultural')",kilogram
+Fludioxonil,0.03462166263807824,"('soil', 'agricultural')",kilogram
+Propiconazole,0.03391597391478605,"('soil', 'agricultural')",kilogram
+Chloroacetyl chloride,0.033816932989856704,"('water', 'surface water')",kilogram
+Methyl ethyl ketone,0.03335449792755,"('air', 'non-urban air or from high stacks')",kilogram
+"Methane, trichlorofluoro-, CFC-11",0.03297001485101351,"('air', 'urban air close to ground')",kilogram
+Flumetsulam,0.03182144387118185,"('air', 'non-urban air or from high stacks')",kilogram
+Methyl borate,0.03035970526170595,"('air', 'urban air close to ground')",kilogram
+"Methane, dichlorofluoro-, HCFC-21",0.029889740381996096,"('air', 'urban air close to ground')",kilogram
+Fenpropimorph,0.027681463571260723,"('soil', 'agricultural')",kilogram
+Trimethylamine,0.027294546434873068,"('air', 'urban air close to ground')",kilogram
+Methyl formate,0.025351182817508616,"('water', 'surface water')",kilogram
+Methyl acetate,0.024904734857404454,"('water', 'surface water')",kilogram
+Dimethenamid,0.024267424433252895,"('soil', 'agricultural')",kilogram
+2-Aminopropanol,0.02380746996598403,"('air', 'urban air close to ground')",kilogram
+Diflufenican,0.022022066960185428,"('soil', 'agricultural')",kilogram
+"Cyhalothrin, gamma-",0.022022022754948193,"('soil', 'agricultural')",kilogram
+Tebutam,0.021451249310911264,"('soil', 'agricultural')",kilogram
+Carbaryl,0.021213216731132335,"('soil', 'agricultural')",kilogram
+Quinclorac,0.020978420936526913,"('soil', 'agricultural')",kilogram
+Diflubenzuron,0.020766953745127634,"('air', 'non-urban air or from high stacks')",kilogram
+Scandium,0.019563402955317298,"('air',)",kilogram
+Benzo(b)fluoranthene,0.018938642963599494,"('air',)",kilogram
+Methanesulfonic acid,0.01890566437146846,"('air', 'urban air close to ground')",kilogram
+Mecoprop-P,0.01835142227166219,"('soil', 'agricultural')",kilogram
+Propanal,0.018071499553860663,"('air',)",kilogram
+Metamitron,0.018015059323816404,"('soil', 'agricultural')",kilogram
+Carfentrazone-ethyl,0.01677031906611377,"('air', 'non-urban air or from high stacks')",kilogram
+Imazaquin,0.01647255990413476,"('soil', 'agricultural')",kilogram
+Fluroxypyr,0.016241947461220648,"('soil', 'agricultural')",kilogram
+Diclofop-methyl,0.015993159133101825,"('soil', 'agricultural')",kilogram
+Benz(a)anthracene,0.015926617956557594,"('air',)",kilogram
+Bromoxynil,0.015875584749990148,"('soil', 'agricultural')",kilogram
+Trifloxystrobin,0.01579897855633116,"('air', 'non-urban air or from high stacks')",kilogram
+Dicamba,0.015684190108347935,"('soil', 'agricultural')",kilogram
+Cyanide,0.014992009196333275,"('air',)",kilogram
+Anthraquinone,0.014923968830472542,"('soil', 'agricultural')",kilogram
+Vinclozolin,0.01492069740133097,"('soil', 'agricultural')",kilogram
+Thifensulfuron,0.014854069003850353,"('air', 'non-urban air or from high stacks')",kilogram
+Ioxynil,0.014149919696365715,"('soil', 'agricultural')",kilogram
+Ethylene oxide,0.014092172182523694,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Diclofop,0.013815832901691512,"('soil', 'agricultural')",kilogram
+Benzo(k)fluoranthene,0.013695965627504017,"('air',)",kilogram
+Esfenvalerate,0.013391929782857442,"('soil', 'agricultural')",kilogram
+Bentazone,0.0132371644543381,"('water', 'ground-')",kilogram
+Lactofen,0.012499377014067841,"('soil', 'agricultural')",kilogram
+Trinexapac-ethyl,0.01195772909674296,"('soil', 'agricultural')",kilogram
+Arsine,0.011314492722612585,"('air', 'urban air close to ground')",kilogram
+Permethrin,0.011262142129010135,"('soil', 'agricultural')",kilogram
+Quizalofop ethyl ester,0.010714592775677791,"('soil', 'agricultural')",kilogram
+Methyl acetate,0.010376938768387084,"('air', 'urban air close to ground')",kilogram
+Clodinafop-propargyl,0.009922477971614198,"('soil', 'agricultural')",kilogram
+Flufenacet,0.009534911066784184,"('soil', 'agricultural')",kilogram
+Flurtamone,0.009396522102557883,"('soil', 'agricultural')",kilogram
+Terbufos,0.009136847997817733,"('soil', 'agricultural')",kilogram
+Butadiene,0.008930536720017134,"('air',)",kilogram
+Formaldehyde,0.008910948983569625,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Simazine,0.008891066846115733,"('soil', 'agricultural')",kilogram
+Epoxiconazole,0.008396807422928617,"('soil', 'agricultural')",kilogram
+Acifluorfen,0.008330515680408117,"('soil', 'agricultural')",kilogram
+Quizalofop-P,0.007571607449404788,"('soil', 'agricultural')",kilogram
+Methyl parathion,0.007436886544968048,"('soil', 'agricultural')",kilogram
+Dimethoate,0.007265527195250843,"('soil', 'agricultural')",kilogram
+Mesotrione,0.006801437459049331,"('soil', 'agricultural')",kilogram
+Cyproconazole,0.006540892660251295,"('soil', 'agricultural')",kilogram
+Carbetamide,0.006238131118718838,"('soil', 'agricultural')",kilogram
+Clopyralid,0.006221800181694752,"('soil', 'agricultural')",kilogram
+Bifenox,0.0060581417072652416,"('soil', 'agricultural')",kilogram
+Prochloraz,0.005787051782220498,"('soil', 'agricultural')",kilogram
+Deltamethrin,0.005437143855855063,"('soil', 'agricultural')",kilogram
+Bensulfuron methyl ester,0.00537358539487211,"('soil', 'agricultural')",kilogram
+Dichlorprop-P,0.005302281877038555,"('soil', 'agricultural')",kilogram
+"Methane, fossil",0.005294476009863061,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Kresoxim-methyl,0.005049141562039965,"('soil', 'agricultural')",kilogram
+Isoxaflutole,0.004839681179108045,"('soil', 'agricultural')",kilogram
+"Methane, bromotrifluoro-, Halon 1301",0.004822459559707922,"('air', 'urban air close to ground')",kilogram
+Zeta-cypermethrin,0.004810062105834422,"('soil', 'agricultural')",kilogram
+Benzal chloride,0.004748982755724616,"('air',)",kilogram
+Chlorotoluron,0.004596808139924108,"('soil', 'agricultural')",kilogram
+Tebupirimphos,0.004364591265214495,"('soil', 'agricultural')",kilogram
+Trifloxystrobin,0.004003599258902099,"('soil', 'agricultural')",kilogram
+Ethylene oxide,0.003839711015924707,"('air', 'non-urban air or from high stacks')",kilogram
+Silthiofam,0.0037959411854579417,"('soil', 'agricultural')",kilogram
+Copper,0.003510571189746416,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Tefluthrin,0.0034945659143838584,"('soil', 'agricultural')",kilogram
+Hexane,0.0034572454390367573,"('air',)",kilogram
+Flumiclorac-pentyl,0.0031331595048158813,"('soil', 'agricultural')",kilogram
+Sodium tetrahydridoborate,0.0030230518379645256,"('air', 'urban air close to ground')",kilogram
+4-Methyl-2-pentanone,0.0030057726883492906,"('air', 'non-urban air or from high stacks')",kilogram
+Endothall,0.0029452941521315485,"('soil', 'agricultural')",kilogram
+Flumetsulam,0.002673743636246208,"('soil', 'agricultural')",kilogram
+Cloquintocet-mexyl,0.0026428807186853025,"('soil', 'agricultural')",kilogram
+Benzene,0.0026033454503826517,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Quinoxyfen,0.002452048496464864,"('soil', 'agricultural')",kilogram
+Metolachlor,0.0024252721859041957,"('water', 'ground-')",kilogram
+Butadiene,0.0023743044001201794,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Benz(a)anthracene,0.0023404115735693475,"('water', 'surface water')",kilogram
+Phenmedipham,0.0023237100837894585,"('soil', 'agricultural')",kilogram
+Thiodicarb,0.0021730009350504715,"('soil', 'agricultural')",kilogram
+Mefenpyr,0.0019531062058460013,"('soil', 'agricultural')",kilogram
+Chrysene,0.0017405734018149785,"('air',)",kilogram
+Picoxystrobin,0.0015939608286851274,"('soil', 'agricultural')",kilogram
+"Methane, bromo-, Halon 1001",0.0015576907195679554,"('air',)",kilogram
+Tri-allate,0.0015277543226437731,"('soil', 'agricultural')",kilogram
+Chrysene,0.0015095654117380313,"('water', 'surface water')",kilogram
+Dithianon,0.0014395254633925512,"('soil', 'agricultural')",kilogram
+Flusilazole,0.0014210507817312237,"('soil', 'agricultural')",kilogram
+Triadimenol,0.0013497369157083419,"('soil', 'agricultural')",kilogram
+Aclonifen,0.0013468674222262057,"('soil', 'agricultural')",kilogram
+Phosphate,0.0013046363139467513,"('water',)",kilogram
+Isoprene,0.001301336900175854,"('air',)",kilogram
+Fenoxaprop ethyl ester,0.0012494533667427885,"('soil', 'agricultural')",kilogram
+Bifenthrin,0.0012413398128882768,"('soil', 'agricultural')",kilogram
+Benzo(ghi)perylene,0.001171796736367387,"('air',)",kilogram
+Halosulfuron-methyl,0.0011711804181640244,"('soil', 'agricultural')",kilogram
+"Ethane, 1,1,1-trichloro-, HCFC-140",0.0011342872112243849,"('air',)",kilogram
+Thifensulfuron-methyl,0.0011236442447145093,"('soil', 'agricultural')",kilogram
+Tribenuron-methyl,0.0010684133293955875,"('soil', 'agricultural')",kilogram
+"Methane, dichlorodifluoro-, CFC-12",0.0010356537977406213,"('air',)",kilogram
+Phosphine,0.0010240777066277229,"('air', 'urban air close to ground')",kilogram
+Nicosulfuron,0.0010196069906916099,"('soil', 'agricultural')",kilogram
+Diflufenzopyr-sodium,0.0009468559817460599,"('soil', 'agricultural')",kilogram
+Glyphosate,0.0009058352447292503,"('water', 'surface water')",kilogram
+Oxydemeton-methyl,0.0007926292966808535,"('soil', 'agricultural')",kilogram
+Carfentrazone-ethyl,0.0007187648251144543,"('soil', 'agricultural')",kilogram
+Sulfosulfuron,0.0007035478976801183,"('soil', 'agricultural')",kilogram
+Desmedipham,0.0006868984182043273,"('soil', 'agricultural')",kilogram
+Butadiene,0.0006469751064754548,"('air', 'non-urban air or from high stacks')",kilogram
+Naphthalene,0.0005967507727263853,"('air',)",kilogram
+MCPB,0.0005002640506789804,"('soil', 'agricultural')",kilogram
+Triasulfuron,0.0004805839977821635,"('soil', 'agricultural')",kilogram
+Chlorsulfuron,0.000462624366510006,"('soil', 'agricultural')",kilogram
+Fenbuconazole,0.00044920134105167495,"('soil', 'agricultural')",kilogram
+"Ethene, chloro-",0.0004454550963078847,"('air',)",kilogram
+Cadmium,0.00041724015944287365,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Rimsulfuron,0.0004115133708102551,"('soil', 'agricultural')",kilogram
+"VOC, volatile organic compounds, unspecified origin",0.00039315382458740913,"('air',)",kilogram
+Primisulfuron,0.0003907615331145935,"('soil', 'agricultural')",kilogram
+Lenacil,0.00038855491179266995,"('soil', 'agricultural')",kilogram
+Bromuconazole,0.0003449123163848748,"('soil', 'agricultural')",kilogram
+Fluquinconazole,0.00029448974774409753,"('soil', 'agricultural')",kilogram
+Benzo(a)pyrene,0.00028590033787343876,"('water', 'surface water')",kilogram
+Benzo(b)fluoranthene,0.000278841055822574,"('water', 'surface water')",kilogram
+Carbon disulfide,0.0002660825655922833,"('air',)",kilogram
+Phosphorus trichloride,0.00021735244738996806,"('air', 'urban air close to ground')",kilogram
+Fenoxaprop-P ethyl ester,0.0002150723836291176,"('soil', 'agricultural')",kilogram
+Bitertanol,0.00019573375749973518,"('soil', 'agricultural')",kilogram
+Cinidon-ethyl,0.00017799589163912486,"('soil', 'agricultural')",kilogram
+Zinc,0.0001767966712114481,"('air', 'lower stratosphere + upper troposphere')",kilogram
+2-Methyl-2-butene,0.00017271012092090276,"('water', 'surface water')",kilogram
+Foramsulfuron,0.00014294585947126438,"('soil', 'agricultural')",kilogram
+Benzo(k)fluoranthene,0.00013118472207363215,"('water', 'surface water')",kilogram
+Prosulfuron,0.00012910827952776203,"('soil', 'agricultural')",kilogram
+Carfentrazone ethyl ester,0.00011056598642892923,"('soil', 'agricultural')",kilogram
+Metosulam,8.831278317879591e-05,"('soil', 'agricultural')",kilogram
+Nickel,8.266918249158855e-05,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Silver,7.875761176878502e-05,"('soil', 'agricultural')",kilogram
+Furan,7.798873713211404e-05,"('air',)",kilogram
+Chloroform,7.723293725146786e-05,"('air',)",kilogram
+Amidosulfuron,7.422814132754985e-05,"('soil', 'agricultural')",kilogram
+2-Methyl-2-butene,7.196146981758278e-05,"('air', 'urban air close to ground')",kilogram
+Tribenuron,6.38849891541744e-05,"('soil', 'agricultural')",kilogram
+Cumene,6.195485111502545e-05,"('air',)",kilogram
+Prohexadione-calcium,4.3588137653722646e-05,"('soil', 'agricultural')",kilogram
+Flupyrsulfuron-methyl,4.313381536979368e-05,"('soil', 'agricultural')",kilogram
+Picloram,4.2834117667151064e-05,"('soil', 'agricultural')",kilogram
+Benzo(ghi)perylene,3.9412436457638634e-05,"('water', 'surface water')",kilogram
+Chromium IV,3.5533898730408406e-05,"('air', 'urban air close to ground')",kilogram
+Metolachlor,3.25498983528328e-05,"('water', 'surface water')",kilogram
+Florasulam,3.123101770221987e-05,"('soil', 'agricultural')",kilogram
+Flucarbazone sodium salt,2.8083925242854062e-05,"('soil', 'agricultural')",kilogram
+Imazapyr,2.523621360446354e-05,"('soil', 'agricultural')",kilogram
+Iodosulfuron-methyl-sodium,2.4658053444502923e-05,"('soil', 'agricultural')",kilogram
+Diethyl ether,2.437817892429464e-05,"('air', 'urban air close to ground')",kilogram
+Atrazine,1.5156123983689164e-05,"('water', 'ground-')",kilogram
+Diethylene glycol,1.4427059245710837e-05,"('air', 'urban air close to ground')",kilogram
+Mercury,1.4009209646497524e-05,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Cyclohexane,1.36576792677417e-05,"('air', 'urban air close to ground')",kilogram
+Iodosulfuron,1.2166420561696959e-05,"('soil', 'agricultural')",kilogram
+Bentazone,8.203309214294104e-06,"('water', 'surface water')",kilogram
+Propanol,7.232455537855536e-06,"('air', 'non-urban air or from high stacks')",kilogram
+Lead,5.233114700243377e-06,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Asulam,4.699818309540271e-06,"('soil', 'agricultural')",kilogram
+Chromium,1.7679476494730156e-06,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Dicamba,1.5672610696473864e-06,"('water', 'ground-')",kilogram
+Dichlorprop,6.355570458720306e-07,"('soil', 'agricultural')",kilogram
+Anthracene,5.61613057853449e-07,"('air',)",kilogram
+Dimethenamid,5.156741113000625e-07,"('air', 'non-urban air or from high stacks')",kilogram
+4-Methyl-2-pentanol,4.1105012969513014e-07,"('water', 'surface water')",kilogram
+Pendimethalin,2.6602854986570265e-07,"('water', 'ground-')",kilogram
+Pyraclostrobin,2.2475722180187157e-07,"('water', 'ground-')",kilogram
+Dimethenamid,1.8200163450595103e-07,"('water', 'ground-')",kilogram
+Tefluthrin,1.2329151769458307e-07,"('air', 'non-urban air or from high stacks')",kilogram
+Phosphoric acid,8.822337176749543e-08,"('air', 'urban air close to ground')",kilogram
+Atrazine,5.8618190822325516e-08,"('water', 'surface water')",kilogram
+MCPB,3.13803470183718e-08,"('water', 'surface water')",kilogram
+MCPA,2.926533810976796e-08,"('water', 'surface water')",kilogram
+Mefenpyr-diethyl,2.8129145446011174e-08,"('soil', 'agricultural')",kilogram
+Dichlorprop,1.9567067327454167e-08,"('water', 'ground-')",kilogram
+Methomyl,1.864878237642295e-08,"('soil', 'agricultural')",kilogram
+Bromoxynil,1.6179913764901425e-08,"('air', 'non-urban air or from high stacks')",kilogram
+MCPB,1.4703032966481624e-08,"('air', 'non-urban air or from high stacks')",kilogram
+MCPA,1.3766776988098276e-08,"('air', 'non-urban air or from high stacks')",kilogram
+Chloropicrin,1.0989410932371874e-08,"('soil', 'agricultural')",kilogram
+Dicamba,6.269114123750879e-09,"('water', 'surface water')",kilogram
+Bromoxynil,6.103900875049181e-09,"('water', 'ground-')",kilogram
+"Ethane, 1,1,1-trichloro-, HCFC-140",6.016283056403198e-09,"('water', 'surface water')",kilogram
+Methomyl,5.918350337940029e-09,"('air', 'non-urban air or from high stacks')",kilogram
+Propiconazole,5.669038852639011e-09,"('water', 'ground-')",kilogram
+Dichlorprop,4.325174905312255e-09,"('air', 'non-urban air or from high stacks')",kilogram
+Pyraclostrobin,3.5768933787612245e-09,"('water', 'surface water')",kilogram
+Carbaryl,2.9086010442042205e-09,"('water', 'ground-')",kilogram
+"Benzene, hexachloro-",2.3160561933814525e-09,"('air', 'non-urban air or from high stacks')",kilogram
+Dimethenamid,2.27502031349002e-09,"('water', 'surface water')",kilogram
+Ethephon,7.944280171089645e-10,"('air', 'non-urban air or from high stacks')",kilogram
+Tebuconazole,6.78943852196664e-10,"('air', 'non-urban air or from high stacks')",kilogram
+Pendimethalin,4.459813701711173e-10,"('water', 'surface water')",kilogram
+MCPA,2.956191933031879e-10,"('water', 'ground-')",kilogram
+Boscalid,2.529492878415342e-10,"('soil', 'agricultural')",kilogram
+Tebuconazole,2.0953003702842853e-10,"('water', 'ground-')",kilogram
+MCPB,1.450243971513759e-10,"('water', 'ground-')",kilogram
+Methomyl,9.125618422035163e-11,"('water', 'ground-')",kilogram
+Lambda-cyhalothrin,9.083996078179241e-11,"('air', 'non-urban air or from high stacks')",kilogram
+Dichlorprop,8.040887624628518e-11,"('water', 'surface water')",kilogram
+Spinosad,7.304029717251742e-11,"('soil', 'agricultural')",kilogram
+Ethephon,5.2431148217659114e-11,"('water', 'ground-')",kilogram
+Carbaryl,3.6220570718015356e-11,"('water', 'surface water')",kilogram
+Bromoxynil,9.03908981812154e-12,"('water', 'surface water')",kilogram
+Acrinathrin,8.132486002499125e-12,"('soil', 'agricultural')",kilogram
+Trifloxystrobin,7.294215041518268e-12,"('water', 'ground-')",kilogram
+"Methane, chlorodifluoro-, HCFC-22",7.184871250074508e-12,"('air',)",kilogram
+"Methane, bromo-, Halon 1001",3.622320190261799e-12,"('air', 'urban air close to ground')",kilogram
+Methomyl,1.0234561565118422e-12,"('water', 'surface water')",kilogram
+Tefluthrin,6.038693516372e-13,"('water', 'ground-')",kilogram
+Propiconazole,5.417933704001177e-13,"('water', 'surface water')",kilogram
+Tebuconazole,5.045454857119446e-13,"('water', 'surface water')",kilogram
+Ethephon,3.1774373929196593e-13,"('water', 'surface water')",kilogram
+Trifloxystrobin,1.189109083913869e-13,"('water', 'surface water')",kilogram
+Lambda-cyhalothrin,4.5846413771831194e-14,"('water', 'ground-')",kilogram
+Tefluthrin,1.0027152536523235e-14,"('water', 'surface water')",kilogram
+Lambda-cyhalothrin,1.150375026393598e-16,"('water', 'surface water')",kilogram
