@@ -1,0 +1,58 @@
+flow,amount,categories,unit
+"Aluminium, in ground",9797.979768360752,"('natural resource', 'in ground')",kilogram
+"Nickel, 1.98% in silicates, 1.04% in crude ore, in ground",9.192432368617494,"('natural resource', 'in ground')",kilogram
+"Uranium, in ground",1.525709458064048,"('natural resource', 'in ground')",kilogram
+"Chromium, 25.5% in chromite, 11.6% in crude ore, in ground",1.3677077885942799,"('natural resource', 'in ground')",kilogram
+"Kaolinite, 24% in crude ore, in ground",0.9610364412394453,"('natural resource', 'in ground')",kilogram
+"Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore, in ground",0.41818514989116684,"('natural resource', 'in ground')",kilogram
+"Copper, 0.99% in sulfide, Cu 0.36% and Mo 8.2E-3% in crude ore, in ground",0.35018698143734533,"('natural resource', 'in ground')",kilogram
+"Copper, 0.97% in sulfide, Cu 0.36% and Mo 4.1E-2% in crude ore, in ground",0.339637871667294,"('natural resource', 'in ground')",kilogram
+"Copper, 0.52% in sulfide, Cu 0.27% and Mo 8.2E-3% in crude ore, in ground",0.3281527382342855,"('natural resource', 'in ground')",kilogram
+"Copper, 0.59% in sulfide, Cu 0.22% and Mo 8.2E-3% in crude ore, in ground",0.2198958595699795,"('natural resource', 'in ground')",kilogram
+"Manganese, 35.7% in sedimentary deposit, 14.2% in crude ore, in ground",0.19694342284789004,"('natural resource', 'in ground')",kilogram
+"Copper, Cu 0.38%, in mixed ore, in ground",0.08624136962232601,"('natural resource', 'in ground')",kilogram
+"Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore, in ground",0.06025201291035977,"('natural resource', 'in ground')",kilogram
+"Zinc, 9.0% in sulfide, Zn 5.3%, Pb, Ag, Cd, In, in ground",0.02483118301656508,"('natural resource', 'in ground')",kilogram
+"Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore, in ground",0.00556847601997995,"('natural resource', 'in ground')",kilogram
+"Molybdenum, 0.11% in sulfide, Mo 4.1E-2% and Cu 0.36% in crude ore, in ground",0.0044174164070205245,"('natural resource', 'in ground')",kilogram
+"Copper, 1.42% in sulfide, Cu 0.81% and Mo 8.2E-3% in crude ore, in ground",0.003654292208919854,"('natural resource', 'in ground')",kilogram
+"Lead, 5.0% in sulfide, Pb 3.0%, Zn, Ag, Cd, In, in ground",0.003438593756599505,"('natural resource', 'in ground')",kilogram
+"Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore, in ground",0.003262253689407797,"('natural resource', 'in ground')",kilogram
+"Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore, in ground",0.0029020322216104693,"('natural resource', 'in ground')",kilogram
+"Copper, 1.13% in sulfide, Cu 0.76% and Ni 0.76% in crude ore, in ground",0.0008628176333393384,"('natural resource', 'in ground')",kilogram
+"Molybdenum, 0.016% in sulfide, Mo 8.2E-3% and Cu 0.27% in crude ore, in ground",0.00018861305469823264,"('natural resource', 'in ground')",kilogram
+"Molybdenum, 0.025% in sulfide, Mo 8.2E-3% and Cu 0.39% in crude ore, in ground",0.0001664176351447766,"('natural resource', 'in ground')",kilogram
+"Zinc, Zn 0.63%, in mixed ore, in ground",0.00012162620820307764,"('natural resource', 'in ground')",kilogram
+"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.22% in crude ore, in ground",0.00010970599364374237,"('natural resource', 'in ground')",kilogram
+"Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.36% in crude ore, in ground",6.410194063076679e-05,"('natural resource', 'in ground')",kilogram
+"Molybdenum, 0.010% in sulfide, Mo 8.2E-3% and Cu 1.83% in crude ore, in ground",5.08003828861945e-05,"('natural resource', 'in ground')",kilogram
+"Phosphorus, 18% in apatite, 4% in crude ore, in ground",4.9143833899481795e-05,"('natural resource', 'in ground')",kilogram
+"Aluminium, 24% in bauxite, 11% in crude ore, in ground",3.3744123068605885e-05,"('natural resource', 'in ground')",kilogram
+"Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore, in ground",7.307678282099772e-06,"('natural resource', 'in ground')",kilogram
+"Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore, in ground",3.593485609366189e-06,"('natural resource', 'in ground')",kilogram
+"Phosphorus, 18% in apatite, 12% in crude ore, in ground",2.3655131614620707e-06,"('natural resource', 'in ground')",kilogram
+"Nickel, Ni 2.5E+0%, in mixed ore, in ground",1.6675300148632745e-06,"('natural resource', 'in ground')",kilogram
+"Molybdenum, 0.014% in sulfide, Mo 8.2E-3% and Cu 0.81% in crude ore, in ground",1.5396449241151255e-06,"('natural resource', 'in ground')",kilogram
+"Tin, 79% in cassiterite, 0.1% in crude ore, in ground",1.4102660604436913e-06,"('natural resource', 'in ground')",kilogram
+"Lead, Pb 0.014%, in mixed ore, in ground",1.2766201787828462e-06,"('natural resource', 'in ground')",kilogram
+"Silver, 0.007% in sulfide, Ag 0.004%, Pb, Zn, Cd, In, in ground",8.820811844839114e-07,"('natural resource', 'in ground')",kilogram
+"Silver, Ag 9.7E-4%, in mixed ore, in ground",8.351561711570008e-07,"('natural resource', 'in ground')",kilogram
+"Cobalt, in ground",2.466521904798299e-07,"('natural resource', 'in ground')",kilogram
+"Zinc, Zn 3.1%, in mixed ore, in ground",1.769210074313611e-07,"('natural resource', 'in ground')",kilogram
+"Copper, Cu 6.8E-1%, in mixed ore, in ground",3.4197009691270707e-08,"('natural resource', 'in ground')",kilogram
+"Silver, Ag 4.2E-3%, Au 1.1E-4%, in ore, in ground",1.5614828091106347e-08,"('natural resource', 'in ground')",kilogram
+"Copper, Cu 0.2%, in mixed ore, in ground",1.38883770240566e-09,"('natural resource', 'in ground')",kilogram
+"Cobalt, Co 5.0E-2%, in mixed ore, in ground",1.2126416683314446e-09,"('natural resource', 'in ground')",kilogram
+"Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground",2.892308005364274e-10,"('natural resource', 'in ground')",kilogram
+"Lithium, 0.15% in brine, in ground",2.3453929263484073e-10,"('natural resource', 'in ground')",kilogram
+"Lead, Pb 3.6E-1%, in mixed ore, in ground",2.2124243831008238e-10,"('natural resource', 'in ground')",kilogram
+"Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground",1.5446560606867098e-10,"('natural resource', 'in ground')",kilogram
+"Silver, Ag 5.4E-3%, in mixed ore, in ground",1.3617947588100045e-10,"('natural resource', 'in ground')",kilogram
+"Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground",3.4120204861036975e-11,"('natural resource', 'in ground')",kilogram
+"Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground",2.8962528560337884e-11,"('natural resource', 'in ground')",kilogram
+"Gold, Au 1.1E-4%, Ag 4.2E-3%, in ore, in ground",2.0194366971386072e-11,"('natural resource', 'in ground')",kilogram
+"Gold, Au 1.3E-4%, Ag 4.6E-5%, in ore, in ground",1.6566360855387698e-12,"('natural resource', 'in ground')",kilogram
+"Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground",5.691328432627989e-13,"('natural resource', 'in ground')",kilogram
+"Silver, Ag 2.1E-4%, Au 2.1E-4%, in ore, in ground",3.6481002032941747e-13,"('natural resource', 'in ground')",kilogram
+"Gold, Au 2.1E-4%, Ag 2.1E-4%, in ore, in ground",3.582708886341229e-13,"('natural resource', 'in ground')",kilogram
+"Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground",2.2510163316081314e-13,"('natural resource', 'in ground')",kilogram

@@ -62,5 +62,5 @@ flow,amount,categories,unit
 "Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground",6.377808470049833e-13,"('natural resource', 'in ground')",kilogram
 "Silver, Ag 7.6E-5%, Au 9.7E-5%, in ore, in ground",4.494639856028934e-13,"('natural resource', 'in ground')",kilogram
 "Gold, Au 6.8E-4%, Ag 1.5E-4%, in ore, in ground",1.1326562442510533e-13,"('natural resource', 'in ground')",kilogram
-"Silver, 3.2ppm in sulfide, Ag 1.2ppm, Cu and Te, in crude ore, in ground",1.4581237227856497e-14,"('natural resource', 'in ground')",kilogram
 "Silver, Ag 1.5E-4%, Au 6.8E-4%, in ore, in ground",5.0844884793991264e-15,"('natural resource', 'in ground')",kilogram
+"Silver, 3.2ppm in sulfide, Ag 1.2ppm, Cu and Te, in crude ore, in ground",4.860412571845371e-15,"('natural resource', 'in ground')",kilogram

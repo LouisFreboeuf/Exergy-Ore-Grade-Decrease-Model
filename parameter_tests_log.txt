@@ -1,1 +1,10 @@
-2026-08-15 15:12:25 | code: b2in | viera: new | focus: natural_resources | xi_source: inputs/valero-constants.csv | ogd: n
+2026-08-15 15:30:07 | code: b2iy | viera: new | focus: natural_resources | xi_source: inputs/valero-constants.csv | ogd: y
+2026-08-15 15:32:13 | code: b2in | viera: new | focus: natural_resources | xi_source: inputs/valero-constants.csv | ogd: n
+2026-08-15 15:33:19 | code: a2in | viera: old | focus: natural_resources | xi_source: inputs/valero-constants.csv | ogd: n
+2026-08-15 15:36:09 | code: a1in | viera: old | focus: natural_resources | xi_source: inputs/viera_with_xi_old.csv | ogd: n
+2026-08-15 15:37:21 | code: a3in | viera: old | focus: natural_resources | xi_source: elementary_flow | ogd: n
+2026-08-15 15:38:36 | code: b3in | viera: new | focus: natural_resources | xi_source: elementary_flow | ogd: n
+2026-08-15 15:39:57 | code: b1in | viera: new | focus: natural_resources | xi_source: inputs/viera_with_xi_new.csv | ogd: n
+2026-08-15 15:40:57 | code: b3iy | viera: new | focus: natural_resources | xi_source: elementary_flow | ogd: y
+2026-08-15 15:42:31 | code: b1iy | viera: new | focus: natural_resources | xi_source: inputs/viera_with_xi_new.csv | ogd: y
+2026-08-15 15:43:43 | code: b2iin | viera: new | focus: dissipation | xi_source: inputs/valero-constants.csv | ogd: n

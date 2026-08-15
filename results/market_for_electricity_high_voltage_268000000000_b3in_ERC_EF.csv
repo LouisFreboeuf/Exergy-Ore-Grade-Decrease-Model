@@ -1,0 +1,68 @@
+Flow_Key,Flow_Name,Metals,CF2_contributions,Total_CF2
+"('ecoinvent-3.4-biosphere', '02e8658e-3c88-404c-865d-4d4934661ea6')","Cobalt, Co 5.0E-2%, in mixed ore, in ground",['Co'],[3.8141935984448033e-10],3.8141935984448033e-10
+"('ecoinvent-3.4-biosphere', '06874cbb-2daf-4981-a55e-2c38be5b7277')","Molybdenum, 0.010% in sulfide, Mo 8.2E-3% and Cu 1.83% in crude ore, in ground","['Mo', 'Cu']","[5.563189467338774e-08, 6.24475299144612e-09]",6.187664766483387e-08
+"('ecoinvent-3.4-biosphere', '0d7f8b87-12f4-4e83-a5a2-854e2f2b47de')","Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore, in ground","['Ni', 'Cu']","[2.8756571971262213e-08, 3.7302033250987965e-08]",6.605860522225018e-08
+"('ecoinvent-3.4-biosphere', '14946240-b1ee-412c-b900-ed5728a4e684')","Silver, 3.2ppm in sulfide, Ag 1.2ppm, Cu and Te, in crude ore, in ground",['Ag'],[7.467890519722853e-13],7.467890519722853e-13
+"('ecoinvent-3.4-biosphere', '19988f5b-a9a6-48f3-9e8e-150b66a1bf12')","Copper, 0.97% in sulfide, Cu 0.36% and Mo 4.1E-2% in crude ore, in ground","['Cu', 'Mo']","[2.895767848254913e-07, 3.960179164930303e-06]",4.2497559497557945e-06
+"('ecoinvent-3.4-biosphere', '1aee4aa7-32e0-48e7-a6b5-73d8acf672d3')","Copper, 0.52% in sulfide, Cu 0.27% and Mo 8.2E-3% in crude ore, in ground","['Cu', 'Mo']","[5.595271086946038e-07, 6.755653340076472e-06]",7.315180448771075e-06
+"('ecoinvent-3.4-biosphere', '1b35070a-eb57-4f0f-a27f-5ba181ff0d4d')","Copper, 0.59% in sulfide, Cu 0.22% and Mo 8.2E-3% in crude ore, in ground","['Cu', 'Mo']","[4.5504815259774015e-07, 5.647469199902258e-06]",6.102517352499998e-06
+"('ecoinvent-3.4-biosphere', '2ba5e39b-adb6-4767-a51d-90c1cf32fe98')","Uranium, in ground",['U'],[5.72744360554396e-05],5.72744360554396e-05
+"('ecoinvent-3.4-biosphere', '2d65a3f7-2a10-4a10-ac9e-a0cc7cd57979')","Gold, Au 2.1E-4%, Ag 2.1E-4%, in ore, in ground",['Ag'],[3.081952728319049e-11],3.081952728319049e-11
+"('ecoinvent-3.4-biosphere', '2d9f9c6b-8dca-4641-8ff9-53cb8beabd13')","Lead, Pb 0.014%, in mixed ore, in ground",['Pb'],[1.9945660199262003e-09],1.9945660199262003e-09
+"('ecoinvent-3.4-biosphere', '30fed59d-d722-482f-be4f-f3d93bdd2527')","Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.36% in crude ore, in ground","['Mo', 'Cu']","[9.112435931966209e-08, 7.854860059077871e-09]",9.897921937873996e-08
+"('ecoinvent-3.4-biosphere', '31998285-fb5c-411d-b853-ce78be2a0b49')","Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore, in ground","['Cu', 'Mo']","[6.344155134761493e-07, 7.275799884549012e-06]",7.910215398025161e-06
+"('ecoinvent-3.4-biosphere', '31b4eea9-640e-4056-ac2f-0555627af18a')","Tin, 79% in cassiterite, 0.1% in crude ore, in ground",['Sn'],[2.158640352490777e-09],2.158640352490777e-09
+"('ecoinvent-3.4-biosphere', '3250f566-58bc-46d3-ab88-1d2e23ca3e1b')","Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground","['Ni', 'Cu']","[3.1104249727129935e-12, 4.007031055890485e-12]",7.117456028603479e-12
+"('ecoinvent-3.4-biosphere', '3faef344-9e52-47a3-a317-e17b824cc540')","Zinc, 9.0% in sulfide, Zn 5.3%, Pb, Ag, Cd, In, in ground",['Zn'],[8.076760621440997e-08],8.076760621440997e-08
+"('ecoinvent-3.4-biosphere', '45ed0c16-0e34-45f1-8bf9-3b1ce8489e73')","Silver, Ag 1.8E-6%, in mixed ore, in ground",['Ag'],[3.66230001676435e-12],3.66230001676435e-12
+"('ecoinvent-3.4-biosphere', '4b8ac2cb-3fa6-4047-a9ab-183d9e63ccac')","Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground","['Ni', 'Cu']","[7.880673760490174e-12, 1.6538726858145304e-11]",2.441940061863548e-11
+"('ecoinvent-3.4-biosphere', '4df0eac4-44bb-46b6-b588-e3513a1ead2f')","Lead, Pb 3.6E-1%, in mixed ore, in ground",['Pb'],[8.121513253759494e-12],8.121513253759494e-12
+"('ecoinvent-3.4-biosphere', '4f5aad55-54d2-4628-a509-b28ef1929bb4')","Gold, Au 6.8E-4%, Ag 1.5E-4%, in ore, in ground",['Ag'],[2.781296200818721e-12],2.781296200818721e-12
+"('ecoinvent-3.4-biosphere', '4f684798-3870-45a1-b5f2-aa3444c0b8d6')","Copper, Cu 6.8E-1%, in mixed ore, in ground",['Cu'],[2.7641706403785874e-10],2.7641706403785874e-10
+"('ecoinvent-3.4-biosphere', '4f701354-38fd-40b0-8c90-4c1df36ec45a')","Lead, 5.0% in sulfide, Pb 3.0%, Zn, Ag, Cd, In, in ground",['Pb'],[1.7856109793959944e-08],1.7856109793959944e-08
+"('ecoinvent-3.4-biosphere', '535bbc83-033b-42fe-9a68-8dc9eb420385')","Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground","['Ni', 'Cu']","[9.077746322688275e-12, 1.1788655048417936e-11]",2.086640137110621e-11
+"('ecoinvent-3.4-biosphere', '5514ccd2-469f-4074-9905-529154e7f742')","Molybdenum, 0.014% in sulfide, Mo 8.2E-3% and Cu 0.81% in crude ore, in ground","['Mo', 'Cu']","[1.2180956614456923e-08, 1.1863631485139055e-09]",1.3367319762970829e-08
+"('ecoinvent-3.4-biosphere', '5afa470c-ab8c-4ec3-8a18-5c0bed973571')","Copper, Cu 0.38%, in mixed ore, in ground",['Cu'],[5.382553373259253e-07],5.382553373259253e-07
+"('ecoinvent-3.4-biosphere', '636a8446-9899-43a6-b4bf-213f25d69c88')","Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground","['Ni', 'Cu']","[1.8861121157578757e-11, 3.6777699201700403e-11]",5.563882035927916e-11
+"('ecoinvent-3.4-biosphere', '6f70e7c7-ef61-4489-b4f3-157e7e8541ef')","Silver, Ag 4.6E-5%, Au 1.3E-4%, in ore, in ground",['Ag'],[4.6446406605850835e-11],4.6446406605850835e-11
+"('ecoinvent-3.4-biosphere', '7005a356-23d8-4d38-9dbc-fa75401b400e')","Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore, in ground","['Ni', 'Cu']","[2.47431715405223e-13, 3.5371018147829924e-13]",6.011418968835222e-13
+"('ecoinvent-3.4-biosphere', '704399e3-cf6b-483d-84f5-466e91a9d17c')","Copper, Cu 0.2%, in mixed ore, in ground",['Cu'],[8.578990368773339e-11],8.578990368773339e-11
+"('ecoinvent-3.4-biosphere', '719def62-0941-4264-bc54-97093d847d7a')","Molybdenum, 0.025% in sulfide, Mo 8.2E-3% and Cu 0.39% in crude ore, in ground","['Mo', 'Cu']","[1.4516602691954834e-07, 1.2656029486609647e-08]",1.57822056406158e-07
+"('ecoinvent-3.4-biosphere', '73b7f080-b7ae-417c-b740-b4c9eabfb35a')","Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore, in ground","['Cu', 'Ni']","[5.167130225226923e-08, 3.9834004593117734e-08]",9.150530684538697e-08
+"('ecoinvent-3.4-biosphere', '781dda0c-ffeb-4664-9667-7506ce6269b9')","Silver, Ag 7.6E-5%, Au 9.7E-5%, in ore, in ground",['Ag'],[8.444857159363132e-12],8.444857159363132e-12
+"('ecoinvent-3.4-biosphere', '79df5650-160a-4ab7-a14f-cc8162877f4a')","Copper, 0.99% in sulfide, Cu 0.36% and Mo 8.2E-3% in crude ore, in ground","['Cu', 'Mo']","[5.805056776446505e-07, 6.734083679121102e-06]",7.314589356765753e-06
+"('ecoinvent-3.4-biosphere', '7cd1d217-70a7-4452-abc4-3b1100763d6d')","Gold, Au 1.3E-4%, Ag 4.6E-5%, in ore, in ground",['Ag'],[1.2953646063443202e-10],1.2953646063443202e-10
+"('ecoinvent-3.4-biosphere', '8508a83c-6a37-4159-93cc-21a2645390ab')","Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore, in ground","['Cu', 'Ni']","[5.567811462378595e-09, 2.886908826386885e-09]",8.45472028876548e-09
+"('ecoinvent-3.4-biosphere', '86c6e6cd-c2f5-4977-bad6-ce9cd48cf721')","Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore, in ground","['Ni', 'Cu']","[3.935530763941913e-08, 5.780301413951035e-08]",9.715832177892949e-08
+"('ecoinvent-3.4-biosphere', '8bc65fca-548d-4831-b102-391bbdd6bc8c')","Aluminium, 24% in bauxite, 11% in crude ore, in ground",['Al'],[2.001859239980324e-08],2.001859239980324e-08
+"('ecoinvent-3.4-biosphere', '99c56f25-9ebb-4e6a-a3e2-e4dc61e9d697')","Iron, 72% in magnetite, 14% in crude ore, in ground",['Fe'],[1.6270312210207817e-10],1.6270312210207817e-10
+"('ecoinvent-3.4-biosphere', '9a7380d1-6e23-48ad-b35a-14bd1ecb3133')","Phosphorus, 18% in apatite, 4% in crude ore, in ground",['P'],[1.2459722602880354e-10],1.2459722602880354e-10
+"('ecoinvent-3.4-biosphere', '9f9f1f14-6eee-4067-b4a5-80e75fc7b295')","Manganese, 35.7% in sedimentary deposit, 14.2% in crude ore, in ground",['Mn'],[5.471309835055117e-08],5.471309835055117e-08
+"('ecoinvent-3.4-biosphere', 'a45cd247-3532-4e27-bddc-b519fdb5e08f')","Aluminium, in ground",['Al'],[0.0002956059674689777],0.0002956059674689777
+"('ecoinvent-3.4-biosphere', 'a64e65fe-3c33-44f1-bd2d-ab7fac07653f')","Phosphorus, 18% in apatite, 12% in crude ore, in ground",['P'],[3.2857860441395416e-11],3.2857860441395416e-11
+"('ecoinvent-3.4-biosphere', 'a76cf135-2be1-4e53-9423-9211acd100f1')","Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.22% in crude ore, in ground","['Mo', 'Cu']","[1.2614053791885243e-07, 1.016348184616142e-08]",1.3630401976501384e-07
+"('ecoinvent-3.4-biosphere', 'a9ad523f-b721-4f07-ad9f-584053f3454d')","Lithium, 0.15% in brine, in ground",['Li'],[4.658616969203319e-10],4.658616969203319e-10
+"('ecoinvent-3.4-biosphere', 'ac8571b8-b00b-479d-93cf-b9374feaee05')","Molybdenum, 0.016% in sulfide, Mo 8.2E-3% and Cu 0.27% in crude ore, in ground","['Mo', 'Cu']","[1.6197823482732739e-07, 1.3414805117734498e-08]",1.753930399450619e-07
+"('ecoinvent-3.4-biosphere', 'b569dc97-52fe-4e39-9627-183b1002c287')","Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore, in ground","['Cu', 'Mo']","[2.1506016778101818e-07, 1.9160237428418045e-06]",2.1310839106228226e-06
+"('ecoinvent-3.4-biosphere', 'c15f6c4d-bf7a-4a7c-91c6-53aad6a630a8')","Silver, 0.007% in sulfide, Ag 0.004%, Pb, Zn, Cd, In, in ground",['Ag'],[1.6137641926897106e-08],1.6137641926897106e-08
+"('ecoinvent-3.4-biosphere', 'c3b2ba62-b158-47b1-8e1e-e76156e5292a')","Zinc, Zn 3.1%, in mixed ore, in ground",['Zn'],[2.4364177644440396e-10],2.4364177644440396e-10
+"('ecoinvent-3.4-biosphere', 'c7d38707-3b22-4fb1-b001-0c8cad496a60')","Gold, Au 9.7E-5%, Ag 7.6E-5%, in ore, in ground",['Ag'],[1.0616391857485134e-11],1.0616391857485134e-11
+"('ecoinvent-3.4-biosphere', 'c8f18160-6937-4bb9-ad0c-dffa942ca41e')","Copper, 1.42% in sulfide, Cu 0.81% and Mo 8.2E-3% in crude ore, in ground","['Cu', 'Mo']","[5.781043128457037e-08, 5.932877433321206e-07]",6.51098174616691e-07
+"('ecoinvent-3.4-biosphere', 'cfaa80f4-8e19-4fd6-942a-eaea14812896')","Silver, Ag 9.7E-4%, in mixed ore, in ground",['Ag'],[2.8275490378701387e-08],2.8275490378701387e-08
+"('ecoinvent-3.4-biosphere', 'd02343bd-b00d-4fb3-9bda-2e8183f3b012')","Silver, Ag 2.1E-4%, Au 2.1E-4%, in ore, in ground",['Ag'],[3.1596490155876e-11],3.1596490155876e-11
+"('ecoinvent-3.4-biosphere', 'd0779a5e-6969-4144-954e-ceb81fb83f15')","Cobalt, in ground",['Co'],[3.785687412351245e-09],3.785687412351245e-09
+"('ecoinvent-3.4-biosphere', 'd6c7644f-0d7c-4bb3-b8bb-686ebede951e')","Gold, Au 5.4E-4%, Ag 1.5E-5%, in ore, in ground",['Ag'],[1.957837960575853e-12],1.957837960575853e-12
+"('ecoinvent-3.4-biosphere', 'd76320f7-6761-4864-92a6-660fa3453ffa')","Silver, Ag 4.2E-3%, Au 1.1E-4%, in ore, in ground",['Ag'],[1.8357383111162058e-09],1.8357383111162058e-09
+"('ecoinvent-3.4-biosphere', 'e47e4e5f-6528-413d-a8fb-1cd1875fbd73')","Nickel, 1.98% in silicates, 1.04% in crude ore, in ground",['Ni'],[2.7627740687888e-06],2.7627740687888e-06
+"('ecoinvent-3.4-biosphere', 'eaa3e9d4-68d6-4267-a7a5-48b141c3861e')","Silver, Ag 5.4E-3%, in mixed ore, in ground",['Ag'],[2.486495703620998e-10],2.486495703620998e-10
+"('ecoinvent-3.4-biosphere', 'ed5ace5c-a203-4816-b33b-9fe0c5f0f519')","Copper, 1.13% in sulfide, Cu 0.76% and Ni 0.76% in crude ore, in ground","['Cu', 'Ni']","[2.9726895752246687e-08, 2.023967512711009e-08]",4.996657087935677e-08
+"('ecoinvent-3.4-biosphere', 'ed8c57b5-6012-4f21-8b70-92a85923786a')","Silver, Ag 1.5E-4%, Au 6.8E-4%, in ore, in ground",['Ag'],[5.05690218330674e-13],5.05690218330674e-13
+"('ecoinvent-3.4-biosphere', 'eda28c96-8899-4d84-bf18-35c3f1de518e')","Molybdenum, 0.11% in sulfide, Mo 4.1E-2% and Cu 0.36% in crude ore, in ground","['Mo', 'Cu']","[4.516382642513915e-07, 3.302486038691836e-08]",4.846631246383098e-07
+"('ecoinvent-3.4-biosphere', 'ee540366-b970-46af-94d8-4c253ded5577')","Kaolinite, 24% in crude ore, in ground",['Al'],[4.135630661376745e-06],4.135630661376745e-06
+"('ecoinvent-3.4-biosphere', 'ef6dd09f-bddc-49b4-a207-dbaec2f07bb5')","Chromium, 25.5% in chromite, 11.6% in crude ore, in ground",['Cr'],[3.200450438244279e-07],3.200450438244279e-07
+"('ecoinvent-3.4-biosphere', 'f09c3144-a268-4bed-8ca2-63005b6ef75f')","Nickel, Ni 2.5E+0%, in mixed ore, in ground",['Ni'],[1.0536595446330238e-09],1.0536595446330238e-09
+"('ecoinvent-3.4-biosphere', 'f7360584-688a-4b6f-bc4a-db00a1e7b022')","Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore, in ground","['Ni', 'Cu']","[9.573646988507838e-13, 1.2443788521027718e-12]",2.2017435509535554e-12
+"('ecoinvent-3.4-biosphere', 'f77aacc3-2c22-4bda-99ab-fe1110a1b891')","Iron, 46% in ore, 25% in crude ore, in ground",['Fe'],[2.93499846173225e-06],2.93499846173225e-06
+"('ecoinvent-3.4-biosphere', 'f8f1ba14-9934-4678-8a78-e2cf1fce7775')","Zinc, Zn 0.63%, in mixed ore, in ground",['Zn'],[1.018020213753591e-08],1.018020213753591e-08
+"('ecoinvent-3.4-biosphere', 'febbfa6e-44d4-42a0-abcd-aec8a428f75e')","Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore, in ground","['Ni', 'Cu']","[4.116793358430247e-09, 7.939433102312653e-09]",1.20562264607429e-08
+"('ecoinvent-3.4-biosphere', 'ff741136-d6ee-444a-a15b-3b308e376db8')","Gold, Au 1.1E-4%, Ag 4.2E-3%, in ore, in ground",['Ag'],[1.0607956757232356e-10],1.0607956757232356e-10
