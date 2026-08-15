@@ -8,3 +8,4 @@
 2026-08-15 15:40:57 | code: b3iy | viera: new | focus: natural_resources | xi_source: elementary_flow | ogd: y
 2026-08-15 15:42:31 | code: b1iy | viera: new | focus: natural_resources | xi_source: inputs/viera_with_xi_new.csv | ogd: y
 2026-08-15 15:43:43 | code: b2iin | viera: new | focus: dissipation | xi_source: inputs/valero-constants.csv | ogd: n
+2026-08-15 16:21:46 | code: b1iin | viera: new | focus: dissipation | xi_source: inputs/viera_with_xi_new.csv | ogd: n
