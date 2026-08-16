@@ -432,45 +432,45 @@ The essential difference from the marginalist workflow described in the comparis
 flowchart TD
 
     subgraph Data["Input data"]
-        V[Valero constants CSV]
-        B[Biosphere database]
-        FC[Existing flow_compositions table]
-        P[Existing PubChem-derived chemical information]
+        V["Valero constants CSV"]
+        B["Biosphere database"]
+        FC["Existing flow_compositions table"]
+        P["Existing PubChem-derived chemical information"]
     end
 
     subgraph ERC["1. Build Valero ERC dictionary"]
-        V --> VE[Read ERC[MJ/kg]]
-        VE --> MAP[Map material/mineral names to element symbols]
-        MAP --> GROUP[Complete REE and PGM grouped values]
-        GROUP --> DICT[valero_rarity_data]
+        V --> VE["Read ERC (MJ/kg)"]
+        VE --> MAP["Map material/mineral names to element symbols"]
+        MAP --> GROUP["Complete REE and PGM grouped values"]
+        GROUP --> DICT["valero_rarity_data"]
     end
 
     subgraph COMP["2. Determine elementary-flow composition"]
-        B --> FLOWS[Elementary biosphere flows]
+        B --> FLOWS["Elementary biosphere flows"]
         FLOWS --> FC
         P --> FC
-        FC --> COMP_TABLE[Elemental composition of each EF]
+        FC --> COMP_TABLE["Elemental composition of each EF"]
     end
 
     subgraph CF["3. Build restorative characterization factors"]
-        DICT --> CALC[derive_cfs_from_compositions]
+        DICT --> CALC["derive_cfs_from_compositions"]
         COMP_TABLE --> CALC
-        CALC --> CF_CALC[cf_calculator]
-        CF_CALC --> CF_EF[ERC characterization factor per EF]
+        CALC --> CF_CALC["cf_calculator"]
+        CF_CALC --> CF_EF["ERC characterization factor per EF"]
     end
 
     subgraph METHOD["4. Create Brightway LCIA method"]
-        CF_EF --> DATA[restorative_method_data]
-        DATA --> REGISTER[Register Brightway Method]
+        CF_EF --> DATA["restorative_method_data"]
+        DATA --> REGISTER["Register Brightway Method"]
         REGISTER --> METHOD_OUT["Cumulative Exergy Replacement Cost (E)"]
     end
 
     subgraph LCIA["5. Calculate restorative LCIA"]
-        LCI[Life Cycle Inventory] --> LCA[Brightway LCA]
+        LCI["Life Cycle Inventory"] --> LCA["Brightway LCA"]
         METHOD_OUT --> LCA
-        LCA --> SCORE[Restorative LCIA Score]
-        LCA --> CONTRIB[Elementary-flow contributions]
-        CONTRIB --> CSV[Results CSV]
+        LCA --> SCORE["Restorative LCIA Score"]
+        LCA --> CONTRIB["Elementary-flow contributions"]
+        CONTRIB --> CSV["Results CSV"]
     end
 ```
 
