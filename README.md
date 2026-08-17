@@ -191,7 +191,7 @@ The notebook `SurplusEx.ipynb` is parameterised to test scenarios via the `param
 | `viera_data` (`pc1`) | `a` / `b` | Vieira data version (`old` / `new`) |
 | `input_for_xi` (`pc2`) | `1` / `2` / `3` | Initial ore grade source: Vieira CSV / Valero CSV / elementary-flow name |
 | `focus` (`pc3`) | `i` / `ii` | LCI accounting approach: `natural_resources` (Input-based) / `dissipation` (Dissipation-based) |
-| `apply_ogd` (`pc4`) | `y` / `n` | Whether to compute and apply the OGD characterization factors |
+| `apply_ogd` (`pc4`) | `y` / `n` | Whether to compute and apply the OGD characterization factors to all natuarl resource elementary flows, (e.g., even minerals as Clay that PubChem attriute a concentration of Al of 0.33 (formula given to Clay: Al2SiO5)) |
 
 > `input_for_xi="elementary_flow"` (option 3) is only valid for `focus="natural_resources"`, since dissipation flows carry no ore-grade-decline signal.
 
