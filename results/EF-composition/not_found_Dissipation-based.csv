@@ -1,284 +1,566 @@
 0,1,2,3
-"('ecoinvent-3.4-biosphere', 'faf05b06-da29-4af5-aa37-cfa4b802a297')","Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', 'b1945566-c8ad-4d48-9135-c39eedde1e63')",Methyl amine,"('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '0b2a8601-aa6e-42e9-8091-21cba87c0f0c')","2,4-DB","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', 'b5a65bff-51e0-40e4-b50e-36d07a87919a')","Indeno(1,2,3-cd)pyrene","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'd6626dfb-3ac8-4169-9e75-54c41ef2a582')","Hydrocarbons, chlorinated","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '623ae1fb-a694-4327-9c6f-4ea35c536100')","Insecticides, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'f4498c00-c870-40fb-a2b3-49b6f522d324')",Tributyltin compounds,"('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '3f5339ef-1939-4f44-8cd6-98ac7584d456')","NMVOC, non-methane volatile organic compounds, unspecified origin","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '299f371a-61c1-4ea2-8c38-901aa74acf7d')",Iprodion,"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', 'c8fc7ae6-3d48-4b1e-94a2-3b74dcd1dd2f')",Ethyl cellulose,"('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'ba5fc0b6-770b-4da1-9b3f-e3b5087f07cd')",Sulfur oxides,"('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '05136060-b6a6-4383-ae42-6ca90aeec59a')","2,4-DB","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '66a6dad0-e450-4206-88e1-f823a04f8b1d')",Haloxyfop- (R) Methylester,"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '03a1f7e6-f18b-4d49-b40b-5f52d1d9fb5c')","Insecticides, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'c9b97088-efc6-43c1-8d26-f78d6cdbb50b')",Polychlorinated biphenyls,"('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '383f5952-45f7-4703-854e-41cd7f9cd8da')",Tributyltin compounds,"('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'ddd99a3a-be86-423d-b36a-a9dc8af1b1f8')","Particulates, < 2.5 um","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '18282ab8-5b46-4c56-9038-588ed28a4a95')","Hydrocarbons, aliphatic, alkanes, cyclic","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', 'd7e798b0-18c9-495e-a590-e3fc7d5491ba')","Carboxylic acids, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '0b29cbc1-607c-4919-a6a6-802a3840ff4b')","Indeno(1,2,3-cd)pyrene","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '21e46cb8-6233-4c99-bac3-c41d2ab99498')","Particulates, < 2.5 um","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', 'cfecebe1-1e13-458d-85bc-d40a9f934927')",Dissolved solids,"('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '3ea439c3-64aa-4c90-a265-188350e7a4a6')","Oils, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '7ab739f8-8846-4b20-a36b-c35e27053073')","Disinfectants, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'f40495b0-c9ac-44fb-81c7-84975030845d')","Herbicides, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '295c9740-6fdb-4676-9eb8-15e3786f713d')","Particulates, > 2.5 um, and < 10um","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', 'fea16062-6c4b-4d59-be9e-e9b0b56ca9f0')","Hydrocarbons, aliphatic, alkanes, cyclic","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', 'f6f5933a-5119-41aa-a5ec-7919706c59f2')","Chlorinated solvents, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '19b55ff9-4964-45d1-95b6-e24d7f4ffbd3')","Hydrocarbons, aliphatic, unsaturated","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '34cbdeb9-6462-4938-a048-881a9f7e6978')","Hydrocarbons, aromatic","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '21f7d520-f329-4592-8880-949a08773371')","Hydrocarbons, chlorinated","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '24752b90-cc53-4198-a442-14196853148d')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil',)",kilogram
-"('ecoinvent-3.4-biosphere', '7a7054c4-bc1e-4ae2-a31e-b7752bdbeb75')","Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'ca53777e-d36e-4db0-95ce-009f1d8593b8')","Solids, inorganic","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'be4835bf-5252-48c1-be48-14f59d533bbd')","Oils, non-fossil","('soil', 'industrial')",kilogram
-"('ecoinvent-3.4-biosphere', '5716c728-bd33-414d-8691-16e5534f5d37')","Particulates, > 2.5 um, and < 10um","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '175baa64-d985-4c5e-84ef-67cc3a1cf952')","NMVOC, non-methane volatile organic compounds, unspecified origin","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '0061b12a-9084-499b-9fc0-bf66025198eb')",Ethyl cellulose,"('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '5bf42116-d991-4688-bf12-e3a6d9330b68')","Carboxylic acids, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '3410aa09-a803-4bdc-8f10-f03f1760851a')","Acidity, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '5a405a78-45bb-49de-8ecc-48a5d9cf9721')",Mineral oil,"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '7533d11b-e96e-4a99-80f2-91400a62d650')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil', 'industrial')",kilogram
-"('ecoinvent-3.4-biosphere', 'c955fc32-da91-468e-8f65-5aca2c8aa4cc')",Paraffins,"('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '13b07693-bf3c-4f08-8e21-a4a6b743106c')",Paraffins,"('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '78457869-af20-404f-a3bf-bad384fc177b')",Methyl amine,"('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', 'f3cc1709-0e3c-4598-8ac9-825f969bf919')","Chlorinated solvents, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'eb71ce59-d412-4e1e-a496-06134cf9d3d3')","Disinfectants, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'f9952327-7cac-4b05-84cb-e96a3f0f239b')",Terpenes,"('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', 'b001715e-60e4-4f1d-949d-1acfab65bd8f')","Particulates, > 10 um","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '66020d27-7ae4-4e59-83a3-89214b72c40a')","Particulates, > 10 um","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '1eb1b94c-e9d8-47ab-969b-9cca920157d8')","Particulates, > 10 um","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '68f64fd1-01f5-43b4-b191-0aebfffcf293')","2,4-DB","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '6248aeed-1ce1-49ee-be1c-3471ebf0a82e')",Mesosulfuron-methyl (prop),"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', 'd1c0567e-ff1a-4cb7-a4f0-de28b2d99b63')","TOC, Total Organic Carbon","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', 'f9abb851-8731-4c5b-b057-863996a1f94a')","Hydrocarbons, unspecified","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '779f93e2-bbb4-4a06-a46a-ce636fe59a62')",Ethyl cellulose,"('air',)",kilogram
-"('ecoinvent-3.4-biosphere', 'bfa26b15-5340-441e-acb4-0bb19a4028d3')","Hydrocarbons, aliphatic, alkanes, unspecified","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', 'e6137e6e-84a6-4fa1-a5bf-47c8153d7c05')","2,4-D","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '0db53406-fb79-497d-a9e7-fc2c8d425b81')","Hydrocarbons, aliphatic, unsaturated","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '4f777e05-70f9-4a18-a406-d8232325073f')","2,4-D amines","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', 'cec4a04d-562a-4a38-a98f-5fb3d07eea6b')","TOC, Total Organic Carbon","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'd14eb0da-95fd-46c3-90db-55ca33d78701')","Hydrocarbons, chlorinated","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '5e86b7ae-1d51-485c-be33-8c12c4ce4d2e')",Kaolin,"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '5ce634de-b810-4533-9efb-719c38fe7c09')",Dissolved solids,"('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '68ba42b2-62fc-49c1-b9d6-e3bda8b179ec')","Oils, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'd21da01e-f96f-4db5-9746-7b70db8a1f2c')","1,4-Butanediol","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '387d26ab-2af6-4f26-acf5-9f674f977896')","Indeno(1,2,3-cd)pyrene","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '04abe114-7939-4935-9281-49e5d89cc1bc')","Hydrocarbons, aromatic","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '8734eb08-50cf-4f5a-8d1a-db76d38efe3c')","TOC, Total Organic Carbon","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'b42ad523-227d-4774-bcc6-a5f4f7ba2bb2')",Methyl amine,"('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'ed8da356-ed40-4a35-8de4-57aee1d3c279')",Xylene,"('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', 'ce6e5657-5e48-472d-b67e-fab246234be6')","Acidity, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'f77c5e36-ee47-4437-b757-03139bb1d6d6')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', 'e12889f1-01f0-4e2f-8ec7-247350cfff75')","Chlorinated solvents, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '9b7f06e5-0dc7-4c58-8300-034426d069b5')",Terpenes,"('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'f65558fb-61a1-4e48-b4f2-60d62f14b085')","TOC, Total Organic Carbon","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '8244db98-b33f-4f4e-98e5-39dd130a1713')","Oils, non-fossil","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '76608f33-7127-47f2-9718-383b3efe3b43')","Indeno(1,2,3-cd)pyrene","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '3aa9471c-359f-40b4-b0c7-266123f2623e')",Propoxycarbazone-sodium (prop),"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '9d508263-9cfd-444a-b1de-73f2bcf39c02')","Hydrocarbons, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '2d50f4c8-a917-4496-a7d9-470b080faf68')","Hydrocarbons, aliphatic, unsaturated","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '4841a0fe-c250-4a39-94a1-1bc31426c0f1')",Nitrogen oxides,"('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', 'a8102643-320a-4044-9e2c-547e29b35898')","venting of nitrogen, liquid","('social',)",kilogram
-"('ecoinvent-3.4-biosphere', '2a042136-80fd-4c1c-8996-65a7985497d3')",Cyclohexane (for all cycloalkanes),"('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '36c96aed-9335-4564-8cdd-46f01a13700c')","NMVOC, non-methane volatile organic compounds, unspecified origin","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', 'a1d277aa-7aea-4b5e-8aa9-2789ba8ff333')",Xylene,"('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', 'c67be924-e68d-4bc1-9dd9-25f33a6cad34')","Hydrocarbons, aromatic","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '1cd8762b-d985-4206-b57e-f321e9b52399')",Prothioconazol,"('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '69bb7dd8-43bc-49ff-a67c-0eb8e82558d0')","2,4-D ester","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '696e997b-bc1e-44c2-9145-e93163c97c61')",Paraffins,"('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '240ca121-d614-45f7-98fb-e6891559a4d0')","Chlorinated solvents, unspecified","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '0f333e4d-e5ad-49e8-b24f-875456125ad4')","Disinfectants, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'b066708e-5bab-45ee-9244-e1be2fa5b5f3')","Hydrocarbons, aliphatic, unsaturated","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', 'ccb169c3-8aae-4727-89bb-a7dd122946f3')","Particulates, > 2.5 um, and < 10um","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '79c4520a-47b1-4ec1-a1e5-b52114b0dce6')","Fungicides, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '7538ab50-2ef6-4e49-880d-48d5b283a79b')","Oils, unspecified","('soil', 'forestry')",kilogram
-"('ecoinvent-3.4-biosphere', 'f012d2d5-ebb4-4531-8285-0b98af3dcbd4')","BOD5, Biological Oxygen Demand","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '230c08c9-70b7-4d28-a649-f5f85fbc3162')",Paraffins,"('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '23c39061-9fdb-4753-8aaa-893a8cad4a4e')",Paraffins,"('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'aedea697-930a-4a0e-9e4f-b9c369aa9a33')","BOD5, Biological Oxygen Demand","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '9d6cb18b-db4b-4fe6-8449-2830536751e9')","Insecticides, unspecified","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', 'a7284b4f-39ea-40a8-8207-91e77c455a08')",Methyl amine,"('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', 'c7328f5c-abaa-4786-a9ef-6706a9108382')",Pyraclostrobin (prop),"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '645f66af-4b28-4b61-82fb-f30012cab42f')","Acidity, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '96bec6ea-fd71-48a1-ae8b-87a7b818eb77')",Terpenes,"('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '29190509-6cc8-47e1-bc99-5ff994e39b74')",Xylene,"('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'b157329c-4179-5491-97c4-649900954ffa')",Amine oxide,"('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '60ed557b-8f2f-4d88-8508-86e7d83aef74')","Suspended solids, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'd835b7aa-288b-4b3a-966b-3f64f36ed220')","1,4-Butanediol","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '5c234628-ab1e-4284-ae2b-f1c2f6883f71')",Xylene,"('air',)",kilogram
-"('ecoinvent-3.4-biosphere', 'bd254636-6538-4bcf-b0e5-62a2e8252b57')",Dissolved solids,"('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'ad83a9b9-77ce-4a23-852d-d606ec7f8ffb')",Tralkoxydim,"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '6b479ea3-eb47-4860-8778-b0ed9bc672fa')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil', 'forestry')",kilogram
-"('ecoinvent-3.4-biosphere', '6296baee-87bd-4e6e-bd20-c1578b7a7247')","Indeno(1,2,3-cd)pyrene","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'e945c333-2e8f-4b70-a53e-77f01fa443bd')","Hydrocarbons, aromatic","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'b967e1bf-f09b-4c89-8740-ace21db47bba')","Particulates, > 2.5 um, and < 10um","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '237a5f15-8119-472a-8988-88b7ecb42405')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', 'fc0b5c85-3b49-42c2-a3fd-db7e57b696e3')","COD, Chemical Oxygen Demand","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '901a459c-9a1c-46a0-a785-6ec01a33b04f')",Dissolved solids,"('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', 'f681eb3c-854a-4f78-bcfe-76dfbcf9df3c')","2,4-D","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', 'c7dcf08c-f297-495b-b7db-f4f54799814b')","2,4-D amines","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '5bb486eb-29db-4b80-bb79-c7023c0d5756')","Butylcarbamate, iodopropynyl","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'd7853477-ebdb-4339-aecf-c1837f963bed')","Insecticides, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'e22e8f39-d8f2-4702-bed3-0b95babb7788')","Particulates, > 10 um","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', 'e1615e9d-73cb-416e-9c46-f7f1822e3232')","Insecticides, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '693921ef-e02d-4072-add0-55aa4631b213')","Suspended solids, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '049a1473-3a62-4121-982b-5d15d0f2c683')","Hydrocarbons, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '90653a29-2f53-4b1b-88bd-9ae2fe64a8d6')","1,4-Butanediol","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', 'cf931265-6fad-44f1-a6ab-3c53dd21f9c3')",Methyl amine,"('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '9a891f6c-937c-4226-9702-4a552973ae3f')",Organic carbon,"('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '33b38ccb-593b-4b11-b965-10d747ba3556')","NMVOC, non-methane volatile organic compounds, unspecified origin","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '38a622c6-f086-4763-a952-7c6b3b1c42ba')","1,4-Butanediol","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '904546ce-acb5-4cc3-9dda-950c7dc54328')","Dibenz(a,h)anthracene","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '68ab2496-c441-4102-a3fa-0d71a24106ab')","Fungicides, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '57c27ba7-a61a-4932-8cd5-095c88ff0245')","BOD5, Biological Oxygen Demand","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '9cda96ce-e1cf-4192-8614-52be32d200f4')",Terpenes,"('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', 'b50cbca2-b548-44e2-8acd-afa34d55e055')","Hydrocarbons, aromatic","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '09db39be-d9a6-4fc3-8d25-1f80b23e9131')","1,4-Butanediol","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '576d7e08-4dd0-473b-b62f-86cbfda51651')","Disinfectants, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '1ce92120-8acb-4e30-a97c-0b1ffd369b89')",Paraffins,"('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', 'fed18945-b0e0-47a4-8fa0-6bc99c3c512a')",Polychlorinated biphenyls,"('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'e94f4bf3-3e8a-4aa1-a9c9-799218337fc6')",Paraffins,"('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '16410099-57c2-4ad8-928a-d8ec91f1684f')",Paraffins,"('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '21f77eaa-6f3e-426d-8932-fde33cd936d6')","Oils, unspecified","('soil',)",kilogram
-"('ecoinvent-3.4-biosphere', '4b1af256-23b8-4e53-8148-cf52040f5ad7')","Herbicides, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '051aaf7a-6c1a-4e86-999f-85d5f0830df6')","Particulates, < 2.5 um","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '83bafcf1-2f2e-4a32-89a0-f1f16ca10626')","1,4-Butanediol","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '5c9ec415-12f1-4390-bcff-3ff0fcd7ba73')","Hydrocarbons, aliphatic, alkanes, cyclic","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '85403ceb-612c-494a-bcab-901946278f58')","Oils, unspecified","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '70d467b6-115e-43c5-add2-441de9411348')","BOD5, Biological Oxygen Demand","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '34837fe3-4332-493c-86bb-95a207d9c234')","Hydrocarbons, aliphatic, unsaturated","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', 'cce10142-69c4-4a72-a010-ac6b6abad1d3')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'ae0d4a92-45f4-4293-9fdd-2bbe078bc75f')","Solids, inorganic","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '6ccd9417-aa87-480b-8306-b95c1765e884')","venting of argon, crude, liquid","('social',)",kilogram
-"('ecoinvent-3.4-biosphere', 'b37294bd-947d-4f35-b9e6-3eb259c05ff5')","Acidity, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '2635ffda-08c1-4069-b130-25f11c3db05d')","Insecticides, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '49c42751-1b0b-4ab1-8e70-032e991ce6fd')","Hydrocarbons, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '737c3221-1456-4c6b-8605-6ac00dc88b2e')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '428e384f-5146-4023-9e62-cca1db3ed321')",Paraffins,"('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '0e6cf9f9-44ff-4395-ad3b-36109a32e6eb')",Xylene,"('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '0985a2b2-b411-4c95-a955-1aa5bb64bd08')",Xylene,"('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '25f52995-fc88-44ab-b11c-f93e35020d01')",Ethyl cellulose,"('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '4412a76b-eb71-4fd3-afc9-6871a58cae5f')",Metiram,"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', 'a7f661f4-da39-4571-a48b-a8d61314ce1b')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '7678cec7-b8e1-439d-8242-99cd452834b1')","Particulates, > 10 um","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '6986913c-284b-4173-95fe-4a242498b1bc')","2,4-D ester","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '045f7de9-60d5-4916-a504-5a1002a6e97e')",Xylene,"('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '54c743a4-5438-4f3c-8e84-89b3e6ec0cc0')",Dissolved solids,"('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'c5de5e4d-85cf-4102-9ff1-5248d8928ba1')","1,4-Butanediol","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'd1d77d54-e19f-4c3d-8fdc-389f78e72515')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '017be306-b88a-4d3a-a906-b8734b72b6fb')","Carboxylic acids, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'c308f812-7e5a-483a-ac1f-1f5742a53784')","Hydrocarbons, aromatic","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'd41ee922-fa80-45e3-a317-3e9b72ee385d')","Oils, non-fossil","('soil', 'forestry')",kilogram
-"('ecoinvent-3.4-biosphere', '41625ba3-8bf4-4d2a-b634-fddcdf622282')","Herbicides, unspecified","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '4d8131df-07d8-475b-ae7c-8fe4b80fb8e0')",Tributyltin compounds,"('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'd069e5a1-c3c0-4513-9fa5-ff3ebe687ea7')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '230d8a0a-517c-43fe-8357-1818dd12997a')","Particulates, < 2.5 um","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '66f50b33-fd62-4fdd-a373-c5b0de7de00d')","Particulates, < 2.5 um","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', 'd051c442-f206-4d70-844d-7d44dbbc3d8e')","2,4-DB","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', 'a97ba30e-898d-4e73-bd62-ec8f636659c2')","Hydrocarbons, aliphatic, alkanes, cyclic","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '95a9f739-736a-57fe-b592-dfb52251ef1e')",Dimethyl hexynediol,"('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '2649e223-09c0-5ced-9604-6cd6332e7cf9')",Dimethyl hexanediol,"('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '84cd61aa-92a0-40d1-aad5-e9e5c0d4c93e')","Hydrocarbons, aliphatic, alkanes, unspecified","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '6da0e891-3648-43a5-b0cf-f1872c57db8d')","Oils, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'e620a933-c348-4e7e-8893-ab0a0f681c7e')","Hydrocarbons, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'd3ac53b1-17d5-40e7-b51d-422e16316404')",Methyl amine,"('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '77380aa2-c1c3-4027-8f3e-6f667e9bc909')","Herbicides, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '67799e83-54c8-4c89-90dc-1a7fa7780d2b')","Hydrocarbons, aromatic","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', 'ef7bc7b8-f85b-4687-9cb1-eb60384650fa')","Hydrocarbons, aliphatic, unsaturated","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '49b29466-706e-42c3-ac8c-f89f9530cb60')","2,4-D amines","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'ad66ad26-6fee-4457-b99b-ad8476062ca1')","Carboxylic acids, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '423112a9-b4c4-4041-8854-57bffde7b9cc')",Thiophanat-methyl,"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', 'd7a10d03-8f76-4b5f-8dd5-5b0f827568fc')",Organic carbon,"('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '5f4baaf6-055e-491e-9852-258897ab5194')","Hydrocarbons, aliphatic, alkanes, cyclic","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '86b8d6ec-2f99-4f25-a1aa-394807abdb90')","Solids, inorganic","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'c161d9b4-2237-4053-b549-9e0cfc201e0d')","Oils, non-fossil","('soil',)",kilogram
-"('ecoinvent-3.4-biosphere', '07279b73-709f-4ac2-a9e1-82fbd01ce301')",Polychlorinated biphenyls,"('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '752a43f7-3ae7-471e-b479-9bb0ac8e97c9')","Herbicides, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '15a335be-9a71-431f-a0b0-56585fbafe5e')","Hydrocarbons, chlorinated","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '3a53d5b5-bc5a-4c94-b507-f94169a58f23')",Methyl amine,"('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'e69dfe04-4b45-4e87-a6ce-08b1af61ca22')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '0b111253-26b5-4a03-97fb-ed7799c21797')","Solids, inorganic","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '5e08c84c-69a2-4f0b-b3b3-6b7f0925712b')","Hydrocarbons, unspecified","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '9115356e-a534-4329-9ec6-d9208720241b')",Nitrogen oxides,"('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'b902d333-ded6-4c87-be52-8fc03fe6dfd4')","Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'be10dd54-eb4d-48ae-9e14-7d79ce8b170d')","COD, Chemical Oxygen Demand","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'd6ec8431-7ff8-4018-8574-00a03966c952')",Prothioconazol,"('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'e9bf9e2d-4bd1-4679-86ff-e34f6b750ea0')","Oils, unspecified","('soil', 'industrial')",kilogram
-"('ecoinvent-3.4-biosphere', '4d479616-676f-4db1-8b3a-c14edbdbafc0')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '5e98fd60-8da0-4006-9729-4d2797f96302')","2,2,4-Trimethyl pentane","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '456b8003-1508-4000-a53c-752e02023445')",Polychlorinated biphenyls,"('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', 'e6367875-dd2b-4d12-8d03-94cf2e607815')","2,4-D ester","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'ec420d84-577b-402e-bd90-f8a4b2310135')",Methyl amine,"('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '20f74678-e826-4a98-a625-5b3e7bc7b9c1')","Fungicides, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'f228fcae-8e19-4a73-9d8c-60ec8adaea50')","Hydrocarbons, aliphatic, unsaturated","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '23a4dfc7-c82e-4425-abf6-0195f78f3363')","Dibenz(a,h)anthracene","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '73b225ab-ddc4-4a38-9ed0-ceedee987424')","TOC, Total Organic Carbon","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '78ef06c6-9fd3-4237-b077-48c932547412')","Solids, inorganic","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '9ffcc5df-8eb2-43f1-9915-b1cdcb853162')","Herbicides, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '6da40876-a6ab-459e-ba17-9a5e3d4da146')",Xylene,"('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '1d8560a8-23e0-57f0-ade2-69103c953de8')",Diphenylether-compound,"('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '1cde30ef-8a5b-46eb-9e7a-22a532fd6d2e')","Indeno(1,2,3-cd)pyrene","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', 'aae8aac7-b81d-41e4-b356-912b369d1c55')","1,4-Butanediol","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '3844f446-ded5-4727-8421-17a00ef4eba7')","Suspended solids, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '0eba8639-12c1-40ce-b1b6-e3394ec94dc0')","2,4-D amines","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '626dd1d8-5355-40cb-8569-9c87c2c6ab18')","Hydrocarbons, chlorinated","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '17a98e7f-a8fd-431d-9bb6-6c4bf3fc5517')","Hydrocarbons, aliphatic, alkanes, unspecified","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '596712ce-d415-4636-a3cf-acc767b36857')","Hydrocarbons, aromatic","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '5b7d620e-2238-5ec9-888a-6999218b6974')","1,3-Dioxolan-2-one","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'cfa6de56-8a29-4a27-8868-fb6d1f092d36')",Prothioconazol,"('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '564dde7f-e713-4baf-84aa-7a11ffa7e2cd')","1,4-Butanediol","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'e385da6d-8c5a-42ff-a8fe-d18943079774')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '51c35cf0-3417-4d42-936f-9a6fd7a2638a')","Suspended solids, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '5d691e58-2074-4661-8525-d98a173e1c99')",Polychlorinated biphenyls,"('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '2b6c2cee-deb2-49f1-a552-a666a41fc14e')","Fungicides, unspecified","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '372dc06d-0cc9-4f85-9e00-9d452f2d3c7a')","Acidity, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', 'd6911d36-3fec-41fe-8ef9-540f6543a240')","1,4-Butanediol","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'e3d35475-3f5c-5099-9506-8cc81a188fb1')","2,4-di-tert-butylphenol","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '082903e4-45d8-4078-94cb-736b15279277')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '6bd1ea0d-0fbb-46cd-a6b4-e699febbf4e8')",Ethyl cellulose,"('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', 'd3260d0e-8203-4cbb-a45a-6a13131a5108')","NMVOC, non-methane volatile organic compounds, unspecified origin","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '8b5d5c1d-c786-4367-94f0-fae42cd3ac0a')","Hydrocarbons, aromatic","('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '4cff006f-c6df-42a8-9dee-cc064f14326e')","Hydrocarbons, aliphatic, unsaturated","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', 'c7842230-e5ef-4ca8-9cb1-244dee3fe548')","Fungicides, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', '91955aba-6ebc-4413-9342-f0298860b4aa')","BOD5, Biological Oxygen Demand","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'ec76fb5c-b402-416b-825c-53e074fe7525')","COD, Chemical Oxygen Demand","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '64f98ce3-c7b4-4bfc-b398-c191824f26db')",Polychlorinated biphenyls,"('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '6b9753b0-7284-4dd1-891b-01ba9f3fe5f7')","Chlorinated solvents, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '0561e8f7-bb2b-45b7-b4ab-e750f6842981')","Chlorinated solvents, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'bdc5534e-85e0-4b6c-bd84-80e50e831190')","Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'a5a9c364-1591-4247-8a42-60cfd33696ab')","Butylcarbamate, iodopropynyl","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '2451f9df-0596-49ec-8380-08e4ad75a153')","Hydrocarbons, aliphatic, alkanes, unspecified","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '99e1284e-58fc-4652-bc24-b796b858b24e')","2,4-D ester","('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '9253e661-e076-4a84-9ea0-192ee3aea47c')",Prothioconazol,"('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '6185fd6b-02a7-4db5-a5dd-f4b7445f9ce5')","Fungicides, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '18fb2184-d78e-467f-9eac-116bd534739f')","Pesticides, unspecified","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '7238734e-18ef-4759-914d-61e9ed11bd4e')",Methyl amine,"('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '77357947-ccc5-438e-9996-95e65e1e1bce')",Nitrogen oxides,"('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', '042e5892-cd59-4e95-949e-cacce0e6a590')","Hydrocarbons, unspecified","('soil',)",kilogram
-"('ecoinvent-3.4-biosphere', '651bd1c1-458e-4585-94e1-46409196de89')","Hydrocarbons, aliphatic, unsaturated","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '9da5c6d0-92f0-4a7c-933b-7e14d980975a')","Disinfectants, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'ec758e92-f235-4372-85b6-40a212e6f86c')",Tributyltin compounds,"('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '604f9273-f26b-46be-83a7-3a65280011d1')","Particulates, > 2.5 um, and < 10um","('air', 'lower stratosphere + upper troposphere')",kilogram
-"('ecoinvent-3.4-biosphere', '96dba537-69a1-4aec-a754-c90d0ca48ccf')",Methyl amine,"('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '5d830756-4153-4cc9-ade4-69f8c19e150f')","Oils, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', 'c8214570-8e2d-4ccf-b9d7-aabc17068d4e')",Xylene,"('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '10b69d7a-018d-44c6-9a5e-e67fc9475b86')",Terpenes,"('air', 'non-urban air or from high stacks')",kilogram
-"('ecoinvent-3.4-biosphere', 'acd68ded-df6f-4a5f-b95d-bbbf2567c735')","Hydrocarbons, aliphatic, alkanes, unspecified","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '6d9e9a11-4d99-4489-a0ab-4cd1b6b8eaef')",Xylene,"('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', 'b0106679-8469-46f6-b989-559222745bd6')",Paraffins,"('water',)",kilogram
-"('ecoinvent-3.4-biosphere', '961ccd56-2eee-4f57-bb18-fc4362b49000')","COD, Chemical Oxygen Demand","('water',)",kilogram
-"('ecoinvent-3.4-biosphere', 'dc08e010-0bf9-4a36-a1dd-779684c84b3b')","Suspended solids, unspecified","('water', 'ocean')",kilogram
-"('ecoinvent-3.4-biosphere', '81801aa8-01a0-41ac-8c3e-4bbda8dd1381')","Hydrocarbons, aliphatic, alkanes, unspecified","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'a8fea8cf-9b09-49fc-aa58-5a732494a2a0')","COD, Chemical Oxygen Demand","('water', 'ground-, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', 'c1b91234-6f24-417b-8309-46111d09c457')",Nitrogen oxides,"('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '3cca7f02-58b0-4b49-9938-e0f8bea03064')","Hydrocarbons, aromatic","('air',)",kilogram
-"('ecoinvent-3.4-biosphere', '9fd8c8e6-4159-4553-88f3-9c557626508e')","Hydrocarbons, aliphatic, unsaturated","('air', 'low population density, long-term')",kilogram
-"('ecoinvent-3.4-biosphere', '79459b74-727a-465f-b0cb-aae38d1d39cc')","Oils, non-fossil","('soil', 'agricultural')",kilogram
-"('ecoinvent-3.4-biosphere', '81170b91-3f8b-425d-b927-ac6b6466b689')","Carboxylic acids, unspecified","('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', '2f885055-6517-4930-a649-dbf008f02910')",Tributyltin compounds,"('water', 'ground-')",kilogram
-"('ecoinvent-3.4-biosphere', 'd068f3e2-b033-417b-a359-ca4f25da9731')",Nitrogen oxides,"('air', 'urban air close to ground')",kilogram
-"('ecoinvent-3.4-biosphere', '82c27b2a-69a8-4b1e-ad4e-4de9475630c6')","Oils, unspecified","('water', 'surface water')",kilogram
-"('ecoinvent-3.4-biosphere', 'e61443a5-41b6-4407-a1cd-116bdfb38a67')",Organic carbon,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '27f61651-96a5-45c7-9873-832626cf6905')","2-Chloro-1,1,1,2-tetrafluoroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '7bcec4ff-53f5-5796-abb8-2bc7030a9bd2')","2,4-D sodium salt","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'b018c97d-8fea-4258-b4d3-6a65669c77f4')","1,1-Dichloro-1-fluoroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '0244a9a8-74cd-5fbe-8c84-235c5ac5a227')",Propoxycarbazone-sodium (prop),"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'ba781ac6-cdf1-4a09-86b5-76b19ed3438b')","1-Chloro-1,1-difluoroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '6cbb94bd-88e1-549a-877e-2cd1a9f19b7b')","1,3,5-Trioxane","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '739ad964-45ab-4623-bad7-05f718433e40')",Non-hazardous waste disposed,"('inventory indicator', 'waste')",kilogram
+"('ecoinvent-3.12-biosphere', '5eafb840-6f50-418d-98bd-27b86f75613c')",Chloro-fluoromethane,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '0ad9f340-950a-566b-a7a2-6b9ea4572d09')",Imazamethabenz,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'be10dd54-eb4d-48ae-9e14-7d79ce8b170d')","COD, Chemical Oxygen Demand","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'f8524d7f-3d95-58de-92bd-5a4446fa1c90')","Copper chloride oxide, hydrate","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '92901a7b-5f00-5598-a90f-9ff44d0e0c53')","2,4-DB","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'db907ff7-6cf0-4f88-9376-116262dfad6d')","2,2-Dichloro-1,1,1-trifluoroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'eb71ce59-d412-4e1e-a496-06134cf9d3d3')","Disinfectants, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'cbc2bfcb-dc03-5f0d-83b0-628b6a7952e5')","N-(3,5-Dichlorophenyl)succinimide","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'f9952327-7cac-4b05-84cb-e96a3f0f239b')",Terpenes,"('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'cec4a04d-562a-4a38-a98f-5fb3d07eea6b')","TOC, Total Organic Carbon","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '901a459c-9a1c-46a0-a785-6ec01a33b04f')",Dissolved solids,"('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '85d4e68d-69b8-521f-af15-5e1b766d8bc2')","4-Chloro-3,5-dimethylphenol","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e86bfec2-1025-4fa2-90b1-81e35e621e91')","1,1,1-Trifluoroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '692f7ed9-bee4-5527-ad96-2c8baad37985')","2,4,5-Trichlorophenol","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '51c35cf0-3417-4d42-936f-9a6fd7a2638a')","Suspended solids, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '7878b468-e3db-5a98-9c33-d0d9fc5680b8')","2,4-DB","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'ad83a9b9-77ce-4a23-852d-d606ec7f8ffb')",Tralkoxydim,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '062b207a-1515-5cc1-8f22-6f7e8f50c93d')",Polychlorinated biphenyls,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '46ecffe9-d6c6-4763-b575-dd73d5bdd727')",Chloro-fluoromethane,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'fffd291b-a67f-5b96-86cf-534a2132f062')","2,4-D","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '10b69d7a-018d-44c6-9a5e-e67fc9475b86')",Terpenes,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '299e5cb8-9389-5d4d-9b1b-aa4c2bbdc2e8')",Mesosulfuron-methyl (prop),"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '87559b92-4aa2-5c55-afa3-55b1d6c52a76')","Pesticides, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '0db53406-fb79-497d-a9e7-fc2c8d425b81')","Hydrocarbons, aliphatic, unsaturated","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '4f6eeb45-3a50-5093-bac1-a7842c53dced')","2,6-Dichloro-4-nitroaniline","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'd6626dfb-3ac8-4169-9e75-54c41ef2a582')","Hydrocarbons, chlorinated","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '19b55ff9-4964-45d1-95b6-e24d7f4ffbd3')","Hydrocarbons, aliphatic, unsaturated","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '4044e84c-26c5-4cef-b76c-8c660d60bcfe')","Organic carbon, placed in landfill","('inventory indicator', 'waste')",kilogram
+"('ecoinvent-3.12-biosphere', '5716c728-bd33-414d-8691-16e5534f5d37')","Particulate Matter, > 2.5 um and < 10um","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '10c8aa9c-21f2-5d16-9771-8b38f3ec93e0')","1,2-Benzisothiazolin-3-one","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '78ef06c6-9fd3-4237-b077-48c932547412')","Solids, inorganic","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '4e53e939-67c1-550e-8c74-d5953a6be829')","1,2-Benzisothiazolin-3-one","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '1c51075c-2208-545b-b685-c08fccec5aac')",Methydiethanolamine,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'cb1824e2-1275-5859-81e1-e1841eb16603')","2,4-D ester","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'c8fc7ae6-3d48-4b1e-94a2-3b74dcd1dd2f')",Ethyl cellulose,"('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'b5a65bff-51e0-40e4-b50e-36d07a87919a')","Indeno(1,2,3-cd)pyrene","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '5e08c84c-69a2-4f0b-b3b3-6b7f0925712b')","Hydrocarbons, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '8fe3b576-67c9-5100-9d34-608a2677a936')",Tralkoxydim,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '38a98da4-1d98-5be7-ba81-d71b5885c391')","2,4-Dimethylphenol","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '22d1c62f-0715-503e-bc7f-ddada6c1cf59')",Imazamethabenz,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '033d3a16-e1a2-4ce8-8769-f4ea867801ca')","1,1-Dichloro-1-fluoroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'd051c442-f206-4d70-844d-7d44dbbc3d8e')","2,4-DB","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '2635ffda-08c1-4069-b130-25f11c3db05d')","Insecticides, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '36403642-8f6a-5f52-ac7b-fd4f8e5d043d')","2,4,6-Trichlorophenol","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '60ed557b-8f2f-4d88-8508-86e7d83aef74')","Suspended solids, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '4d479616-676f-4db1-8b3a-c14edbdbafc0')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '3410aa09-a803-4bdc-8f10-f03f1760851a')","Acidity, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '9d508263-9cfd-444a-b1de-73f2bcf39c02')","Hydrocarbons, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'f256da51-fbd9-5d65-ab26-8db64144ae60')","2,4,5-T","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd068f3e2-b033-417b-a359-ca4f25da9731')",Nitrogen oxides,"('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '04af4f06-7105-540b-8faf-a8a6cdb12740')",Dimethenamide,"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'a1d277aa-7aea-4b5e-8aa9-2789ba8ff333')","Xylenes, unspecified","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'faf05b06-da29-4af5-aa37-cfa4b802a297')","Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'c92c93cf-e568-5bf7-a038-516bd3f9ae41')","2,4-D dimethylamine salt","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '3ddfe0c0-f950-5ca5-b1ea-0a159d6b2944')","1,3,5-Trioxane","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '16410099-57c2-4ad8-928a-d8ec91f1684f')",Paraffins,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '4841a0fe-c250-4a39-94a1-1bc31426c0f1')",Nitrogen oxides,"('air', 'lower stratosphere + upper troposphere')",kilogram
+"('ecoinvent-3.12-biosphere', 'cff46201-bfb0-486c-8f70-277a413c58a1')",Phenyltin,"('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'cacfd448-6c2d-4061-9363-fd506b979f25')","1,1,2-Trichloro-1,2,2-trifluoroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '984b2aea-4eaf-5d7b-a958-02ae9125070b')","2,4-D ester","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '372dc06d-0cc9-4f85-9e00-9d452f2d3c7a')","Acidity, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'db16f886-af99-4f48-b3e4-cb3cb8a436f0')",Components for re-use,"('inventory indicator', 'output flow')",kilogram
+"('ecoinvent-3.12-biosphere', '9bd2611d-acc1-4de8-880a-9506df5971fa')",Materials for recycling,"('inventory indicator', 'output flow')",kilogram
+"('ecoinvent-3.12-biosphere', '785549c0-6e50-565f-ad2a-e31d350d6b3c')","2,6-Dichloro-4-nitroaniline","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '752a43f7-3ae7-471e-b479-9bb0ac8e97c9')","Herbicides, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'a338680a-ef8b-4f6d-baed-44c48666ebff')","Fungicides, unspecified","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '1584734d-c5c8-42a5-aa51-0f6a92a9cc0d')","1,2-Dichloro-1,1,2,2-tetrafluoroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '37945dbc-2f05-5319-ae3b-55d4794d1492')","2,4-D dimethylamine salt","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'f66b4dfe-f201-585c-a473-046d0d4860fb')","2,4,6-Trichlorophenol","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '3f5339ef-1939-4f44-8cd6-98ac7584d456')","NMVOC, non-methane volatile organic compounds","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '8244db98-b33f-4f4e-98e5-39dd130a1713')","Oils, non-fossil","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '2dee5f58-3ceb-5268-baa6-5bf0e62f19d2')","2,4,5-T","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '21e2e3b0-305b-5c63-9f13-00463152c982')","2,3,6-Trichlorobenzoic acid","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'c491a3e4-8bf5-57b9-a2e8-b154e8620155')","1,1,2-Trichloroethane","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '0b2a8601-aa6e-42e9-8091-21cba87c0f0c')","2,4-DB","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '98a9652c-92e1-5f18-bcec-946d530f911d')","1,2-Dibromoethane","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '6296baee-87bd-4e6e-bd20-c1578b7a7247')","Indeno(1,2,3-cd)pyrene","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '082903e4-45d8-4078-94cb-736b15279277')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'c9b97088-efc6-43c1-8d26-f78d6cdbb50b')",Polychlorinated biphenyls,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd94450ad-f6da-5d98-8406-4c90e89ca11d')","2,4,5-T","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '34837fe3-4332-493c-86bb-95a207d9c234')","Hydrocarbons, aliphatic, unsaturated","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '1cde30ef-8a5b-46eb-9e7a-22a532fd6d2e')","Indeno(1,2,3-cd)pyrene","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'd7e798b0-18c9-495e-a590-e3fc7d5491ba')","Carboxylic acids, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'd7853477-ebdb-4339-aecf-c1837f963bed')","Insecticides, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'cfecebe1-1e13-458d-85bc-d40a9f934927')",Dissolved solids,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'fed18945-b0e0-47a4-8fa0-6bc99c3c512a')",Polychlorinated biphenyls,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '8e9420b9-8ee0-5056-8eeb-12e472319fbc')","1,3,5-Trioxane","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'c0af9e7e-57e9-5da5-bbc5-24a5775e7444')",Mesosulfuron-methyl (prop),"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'cbac53d6-6cb8-5d4c-834b-34e0329bb9de')","Insecticides, unspecified","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'e8732b6e-850d-4a95-b441-f1d67aa089ed')",Phenoxy compounds,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '05136060-b6a6-4383-ae42-6ca90aeec59a')","2,4-DB","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'b32061b1-8d24-4663-b10d-0a1c705f2937')","1,1,2-Trichloroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd5d3eed9-6834-4038-af2d-40e737574062')","2,4-Dichlorophenol","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '50432644-8568-444e-b7e7-8e37a7e1f3e3')","1-Chloro-1,1-difluoroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'ddd99a3a-be86-423d-b36a-a9dc8af1b1f8')","Particulate Matter, < 2.5 um","('air', 'lower stratosphere + upper troposphere')",kilogram
+"('ecoinvent-3.12-biosphere', '240ca121-d614-45f7-98fb-e6891559a4d0')","Chlorinated solvents, unspecified","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '3f04f575-9e6e-4efd-ae41-86faa18ad821')",Polydimethylsiloxane,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '90be64d0-4b31-5177-bafa-4ed9d1e9cf1e')",Ioxynil methyl ester,"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'e87f039d-d9ce-4242-ac18-c9284cc80f3d')","1,1,1,2-Tetrafluoroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '5b951316-f3b3-4dfc-81e9-d3cc155ec831')","2,4-Dichlorophenol","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '9a99dd85-69fc-5130-838d-1b2999c741a7')","4-Chloro-3,5-dimethylphenol","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '77380aa2-c1c3-4027-8f3e-6f667e9bc909')","Herbicides, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'e36c124e-64b2-450d-b55d-f2cabf73eeff')","2,4-D dimethylamine salt","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '6d2cb934-8d9f-52b8-803a-aaac622641f8')","1,2-Dibromoethane","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '626dd1d8-5355-40cb-8569-9c87c2c6ab18')","Hydrocarbons, chlorinated","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'd02413d6-42b2-588e-8872-c37e8844e100')","2,6-Dichloro-4-nitroaniline","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '96bec6ea-fd71-48a1-ae8b-87a7b818eb77')",Terpenes,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '5568cf92-04ea-5732-97ba-67178f15a39f')","2,4-DB","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '95a9f739-736a-57fe-b592-dfb52251ef1e')",Dimethyl hexynediol,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '4db4cf1e-76af-486c-8e04-64c46770c818')","Dibenz(a,h)anthracene","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'e3a15647-cfdd-5192-ab99-d3b78d6483fd')","2,4-D","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '904546ce-acb5-4cc3-9dda-950c7dc54328')","Dibenz(a,h)anthracene","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'ec76fb5c-b402-416b-825c-53e074fe7525')","COD, Chemical Oxygen Demand","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '230c08c9-70b7-4d28-a649-f5f85fbc3162')",Paraffins,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '9397508e-49d7-5528-ab3b-9043410fb346')","2,4-D sodium salt","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '3ea439c3-64aa-4c90-a265-188350e7a4a6')","Oils, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '1b144479-3284-4cf1-9b17-2590940e656a')","Herbicides, unspecified","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'b2ff286d-8812-5440-a6d7-6e584f399b99')",Alkylbenzene (c10-c15),"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '80e34550-8506-505d-add4-bf58e9388b37')",Kaolin,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '577594e6-00c4-516a-a0bc-c8a62f68678f')",Potassium soap,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'b44a762c-40d8-50e0-ad3a-4b7fe8ef5546')","Fungicides, unspecified","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '66f50b33-fd62-4fdd-a373-c5b0de7de00d')","Particulate Matter, < 2.5 um","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '6da0e891-3648-43a5-b0cf-f1872c57db8d')","Oils, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '514d8ebd-24d9-40fb-a037-5bc0f898c42c')",Secondary materials,"('inventory indicator', 'resource use')",kilogram
+"('ecoinvent-3.12-biosphere', '21e46cb8-6233-4c99-bac3-c41d2ab99498')","Particulate Matter, < 2.5 um","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '57c27ba7-a61a-4932-8cd5-095c88ff0245')","BOD5, Biological Oxygen Demand","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '67799e83-54c8-4c89-90dc-1a7fa7780d2b')","Hydrocarbons, aromatic","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '843fd145-61ac-4fa7-a608-ce4ac4d88d49')","1,1-Dichloro-1-fluoroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'fd273e03-1f17-50d3-aed5-abb14035333a')",Calcium polysulphid,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '8ce76a14-cf67-530d-9fc6-1abe31166d11')",Propoxycarbazone-sodium (prop),"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'c955fc32-da91-468e-8f65-5aca2c8aa4cc')",Paraffins,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e4f501bb-02e2-4562-be3c-5a047b6d2581')","2,4-Dichlorophenol","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'd2025041-20ee-41bb-b2c8-47631e839ff0')","1,1,2-Trichloro-1,2,2-trifluoroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '664492ed-5122-52da-a4d1-e3ec9200c6bb')","Fungicides, unspecified","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f4498c00-c870-40fb-a2b3-49b6f522d324')",Tributyltin compounds,"('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '4fd080c4-6719-535b-b669-b16fe1cb965b')","3,4,5-Trimethylphenyl methylcarbamate","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '1174a79c-862e-544c-afdb-d58bd874ab71')",Ioxynil methyl ester,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'a070a663-4011-5686-a7d9-8697678c1d6a')","2,3,6-Trichlorobenzoic acid","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '21f77eaa-6f3e-426d-8932-fde33cd936d6')","Oils, unspecified","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'bf580c6b-1b4d-429d-bed7-1e335920941f')","1,1,1-Trifluoroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '71525276-3417-4d4b-9af8-0baa265de4a2')",Dimethenamide,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '5bf42116-d991-4688-bf12-e3a6d9330b68')","Carboxylic acids, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '9069a5e6-02d5-57ac-8f3d-d7b355592f14')",Imazamethabenz,"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '9b77be37-3f9d-4ecf-b7b1-86e8390bcf2e')","1,1,1-Trichloroethane","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '263a5034-6775-576f-a642-6bafb343e891')","N-(3,5-Dichlorophenyl)succinimide","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '7ab739f8-8846-4b20-a36b-c35e27053073')","Disinfectants, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'bfa26b15-5340-441e-acb4-0bb19a4028d3')","Hydrocarbons, aliphatic, alkanes, unspecified","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '4b1af256-23b8-4e53-8148-cf52040f5ad7')","Herbicides, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '297a6937-05f3-54e0-9659-2053e6a0d0c0')","Pesticides, unspecified","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'd835b7aa-288b-4b3a-966b-3f64f36ed220')","1,4-Butanediol","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e167dcc3-74cf-561d-8639-178a7750b5af')",Kaolin,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '20f74678-e826-4a98-a625-5b3e7bc7b9c1')","Fungicides, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'ad66ad26-6fee-4457-b99b-ad8476062ca1')","Carboxylic acids, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '68f64fd1-01f5-43b4-b191-0aebfffcf293')","2,4-DB","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '2451f9df-0596-49ec-8380-08e4ad75a153')","Hydrocarbons, aliphatic, alkanes, unspecified","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'c8e5538f-17a1-4f62-aa64-39a91adb5cd3')","1,1,1-Trichloroethane","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'b066708e-5bab-45ee-9244-e1be2fa5b5f3')","Hydrocarbons, aliphatic, unsaturated","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'dc08e010-0bf9-4a36-a1dd-779684c84b3b')","Suspended solids, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '627967dd-1a33-4965-a05b-84d5131a21a8')",Isophorondiamine,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '042e5892-cd59-4e95-949e-cacce0e6a590')","Hydrocarbons, unspecified","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '867c2248-4f96-52d2-b2f3-347b25c5912a')","2,4-Dimethylphenol","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '04abe114-7939-4935-9281-49e5d89cc1bc')","Hydrocarbons, aromatic","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'a8fea8cf-9b09-49fc-aa58-5a732494a2a0')","COD, Chemical Oxygen Demand","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '9c5f7c20-012f-5720-b4fd-9ce49a7bf299')",Propoxycarbazone-sodium (prop),"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'e888a409-63ef-5a7f-aea9-92bac7f51c8c')",Potassium soap,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '7e76888a-f32c-58ec-abd6-23a1274cdb5b')",Mesosulfuron-methyl (prop),"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '170849de-07d2-568b-b990-79d4801ace6d')",Potassium soap,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'cce10142-69c4-4a72-a010-ac6b6abad1d3')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'e945c333-2e8f-4b70-a53e-77f01fa443bd')","Hydrocarbons, aromatic","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'e96069a4-6f07-5f57-852c-22b48dc34f41')",Dimethenamide,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '7c49bd61-ea51-5286-9997-c26118f619fd')",Tralkoxydim,"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '614d5544-9edf-5b76-90e8-e9c7b98a8084')","Hydrocarbons, unspecified","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '6bc06a91-ae35-4a2b-ab39-da4dd36b621a')","Waste mass, total, placed in landfill","('inventory indicator', 'waste')",kilogram
+"('ecoinvent-3.12-biosphere', '8f4d070c-0401-5d29-abf5-faff346bd998')","2,4,5-Trichlorophenol","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'dc293dc1-711d-5677-a506-9e9842e392b1')","2,4-D isopropylamine salt","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'a2adb177-e77e-5b61-b2fd-878e013b8111')","1,2-Dichloropropane","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '062bcc52-8527-5d9b-b558-bb0ce31a943d')","2,6-Dichloro-4-nitroaniline","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '175baa64-d985-4c5e-84ef-67cc3a1cf952')","NMVOC, non-methane volatile organic compounds","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '0e79f50e-9488-5ce4-b543-98e7a0ea1c4b')","4-Chloro-3,5-dimethylphenol","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '70ab4125-1ef9-524e-bcdf-8cae3594050e')","4-Chloro-3,5-dimethylphenol","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'd1c0567e-ff1a-4cb7-a4f0-de28b2d99b63')","TOC, Total Organic Carbon","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '5253e322-7de5-42aa-9167-daf22ff44031')","1,1,1-Trifluoroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '99585564-bfce-4845-9aaa-2f24b8f26a41')","1,1,1-Trichloroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '0bf92802-8b5e-43f5-a261-95c06bd5c551')","2-Chloro-1,1,1,2-tetrafluoroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '0f333e4d-e5ad-49e8-b24f-875456125ad4')","Disinfectants, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'bcfc1342-a65c-5e58-a19d-f31657edbd84')",Tralkoxydim,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '38a622c6-f086-4763-a952-7c6b3b1c42ba')","1,4-Butanediol","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '8050cc64-debb-5549-8e98-419ab0b27baf')",Calcium polysulphid,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '81801aa8-01a0-41ac-8c3e-4bbda8dd1381')","Hydrocarbons, aliphatic, alkanes, unspecified","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'e69dfe04-4b45-4e87-a6ce-08b1af61ca22')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '99e1284e-58fc-4652-bc24-b796b858b24e')","2,4-D ester","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '33b38ccb-593b-4b11-b965-10d747ba3556')","NMVOC, non-methane volatile organic compounds","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'c9f86abe-f99f-57b1-9c12-658afe094e45')",Ioxynil methyl ester,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '0b29cbc1-607c-4919-a6a6-802a3840ff4b')","Indeno(1,2,3-cd)pyrene","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'ed8da356-ed40-4a35-8de4-57aee1d3c279')","Xylenes, unspecified","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '387d26ab-2af6-4f26-acf5-9f674f977896')","Indeno(1,2,3-cd)pyrene","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '09db39be-d9a6-4fc3-8d25-1f80b23e9131')","1,4-Butanediol","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e12889f1-01f0-4e2f-8ec7-247350cfff75')","Chlorinated solvents, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '2b6c2cee-deb2-49f1-a552-a666a41fc14e')","Fungicides, unspecified","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '2649e223-09c0-5ced-9604-6cd6332e7cf9')",Dimethyl hexanediol,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '5d691e58-2074-4661-8525-d98a173e1c99')",Polychlorinated biphenyls,"('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'e94f4bf3-3e8a-4aa1-a9c9-799218337fc6')",Paraffins,"('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '7fdf839b-705b-5b44-abab-df6740fc7a36')","Insecticides, unspecified","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'eefad870-ca16-54bc-a0d4-ca85e7104f1d')",Propoxycarbazone-sodium (prop),"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'd7a10d03-8f76-4b5f-8dd5-5b0f827568fc')",Organic carbon,"('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '9c030788-4cde-54d3-b90e-67ab3605fa97')",Tralkoxydim,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '41625ba3-8bf4-4d2a-b634-fddcdf622282')","Herbicides, unspecified","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '8734eb08-50cf-4f5a-8d1a-db76d38efe3c')","TOC, Total Organic Carbon","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '54c743a4-5438-4f3c-8e84-89b3e6ec0cc0')",Dissolved solids,"('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '9cf9bf0e-86fe-42c0-90cc-bfed96fbdc8f')","1,1-Difluoroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '9ded914c-ce14-5bd1-8069-59e9047c2d46')",Mesosulfuron-methyl (prop),"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'b967e1bf-f09b-4c89-8740-ace21db47bba')","Particulate Matter, > 2.5 um and < 10um","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '6bd1ea0d-0fbb-46cd-a6b4-e699febbf4e8')",Ethyl cellulose,"('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '6185fd6b-02a7-4db5-a5dd-f4b7445f9ce5')","Fungicides, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '956405f5-35bb-55fc-808e-f168d5c46612')",Imazamethabenz,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '915083eb-1237-408c-a8a6-49099150a5fe')",Materials for energy recovery,"('inventory indicator', 'output flow')",kilogram
+"('ecoinvent-3.12-biosphere', 'b50cbca2-b548-44e2-8acd-afa34d55e055')","Hydrocarbons, aromatic","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'e468bf88-a7ec-5a31-97b9-e5132f7c4b91')",Kaolin,"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'be4835bf-5252-48c1-be48-14f59d533bbd')","Oils, non-fossil","('soil', 'industrial')",kilogram
+"('ecoinvent-3.12-biosphere', '5e98fd60-8da0-4006-9729-4d2797f96302')","2,2,4-Trimethylpentane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f3cc1709-0e3c-4598-8ac9-825f969bf919')","Chlorinated solvents, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '1a5ef7d9-150d-4c9f-a709-fc2423a1d4db')","1,3-Dichloropropene","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '2401a2ea-a552-5cf2-9fcd-0c7f88112dcc')","2,4-D sodium salt","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e3d35475-3f5c-5099-9506-8cc81a188fb1')","2,4-di-tert-butylphenol","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f681eb3c-854a-4f78-bcfe-76dfbcf9df3c')","2,4-D","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '79459b74-727a-465f-b0cb-aae38d1d39cc')","Oils, non-fossil","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '7fa8cd55-0c43-5f67-aaaf-059ad2dcb422')","1,2-Dichloropropane","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'ea1a158e-2022-5518-b985-d83f296f56d5')","1,2-Dibromoethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '9d6cb18b-db4b-4fe6-8449-2830536751e9')","Insecticides, unspecified","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'bd254636-6538-4bcf-b0e5-62a2e8252b57')",Dissolved solids,"('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '80460ad0-9b86-50cd-b3aa-741e11716c71')","Pesticides, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'fec78ac3-1063-5692-8d0f-bb4967132f9c')","2,4-D sodium salt","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '77357947-ccc5-438e-9996-95e65e1e1bce')",Nitrogen oxides,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '8ad2669d-b79b-5db8-89c6-001063344d24')","1,2-Dibromoethane","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '0b111253-26b5-4a03-97fb-ed7799c21797')","Solids, inorganic","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '6b479ea3-eb47-4860-8778-b0ed9bc672fa')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '23a4dfc7-c82e-4425-abf6-0195f78f3363')","Dibenz(a,h)anthracene","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '8b5d5c1d-c786-4367-94f0-fae42cd3ac0a')","Hydrocarbons, aromatic","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'dd83fd94-f394-59bb-8da2-5035b2b92edf')","2,4-D isopropylamine salt","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '36a21e09-9ed5-4e04-a76e-140096f89069')",Hazardous waste disposed,"('inventory indicator', 'waste')",kilogram
+"('ecoinvent-3.12-biosphere', '73f3e98c-6575-50ad-8071-41fbd60c65ac')","N-(3,5-Dichlorophenyl)succinimide","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd7b326f1-dde4-5521-97af-79deb42c77e9')","2,4,5-T","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '237a5f15-8119-472a-8988-88b7ecb42405')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'f6f5933a-5119-41aa-a5ec-7919706c59f2')","Chlorinated solvents, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '295c9740-6fdb-4676-9eb8-15e3786f713d')","Particulate Matter, > 2.5 um and < 10um","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '6f2ad144-ad1c-5047-a155-72cf8e6fe3d7')","Insecticides, unspecified","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f40495b0-c9ac-44fb-81c7-84975030845d')","Herbicides, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '428e384f-5146-4023-9e62-cca1db3ed321')",Paraffins,"('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'b865627a-a408-508b-860a-9981db797960')","2,4-Dimethylphenol","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '79ff1e04-f069-50ed-b082-e995f38324d7')","2,4-D","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'fa68e7a6-a70c-4ed7-814c-b388273eefe2')",Dimethenamide,"('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '1740fec4-0f30-544a-9d72-fc832eb90948')","2,4-Dimethylphenol","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'ebf26c7e-0ddf-5787-a26f-441d38c645e2')","2,6-Dichloro-4-nitroaniline","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '6986913c-284b-4173-95fe-4a242498b1bc')","2,4-D ester","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '0d3b11b2-3fe5-59de-9ec1-d3a19837d2b8')","4-Chloro-3,5-dimethylphenol","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '5269e402-4778-5b45-9604-6ae093947e4c')","3,4,5-Trimethylphenyl methylcarbamate","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'c9861534-e85c-5997-9543-c6da3228cbaa')","Copper chloride oxide, hydrate","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd45eed0a-e60a-46bb-a769-494f037c71bc')","2,4-Dichlorophenol","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '10fe8756-241b-5580-b1ce-9e228268cca3')","Copper chloride oxide, hydrate","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '5fafa58a-2557-5b83-a985-6419209af7f2')","1,2-Benzisothiazolin-3-one","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f529efea-f057-587d-99cd-5181709d16a3')","2,4,5-Trichlorophenol","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '7346f902-b0b1-576c-99ac-eae981978649')",Dimethenamide,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'cd08da54-895f-5271-a897-2e7441abe4b7')","1,2-Dichloropropane","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'd6911d36-3fec-41fe-8ef9-540f6543a240')","1,4-Butanediol","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '8c210f44-7052-44c1-a991-3536b398bfa9')",Phenoxy compounds,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '8a3a44e4-e2f1-476d-9e9e-a90fda263fe3')","1,2-Dichloro-1,1,2,2-tetrafluoroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f42b7f6f-70d8-5824-bfd5-784ca0997d46')",Polychlorinated biphenyls,"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'c566b667-1033-5217-8e72-c5606825c531')",Alkylbenzene (c10-c15),"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '3aa9471c-359f-40b4-b0c7-266123f2623e')",Propoxycarbazone-sodium (prop),"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'e01a738b-b58e-528d-8d7e-7bc2bd0e0ad1')",Alkylbenzene (c10-c15),"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '9fd8c8e6-4159-4553-88f3-9c557626508e')","Hydrocarbons, aliphatic, unsaturated","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '6b9753b0-7284-4dd1-891b-01ba9f3fe5f7')","Chlorinated solvents, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '53f2422a-4ab1-56cc-a9a9-6136f06bcb3f')","1,2-Dichloropropane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'd47c9419-fcdd-5538-85d4-8ce334f68fbe')","N-(3,5-Dichlorophenyl)succinimide","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '9da5c6d0-92f0-4a7c-933b-7e14d980975a')","Disinfectants, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '68ba42b2-62fc-49c1-b9d6-e3bda8b179ec')","Oils, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '9115356e-a534-4329-9ec6-d9208720241b')",Nitrogen oxides,"('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '1e060d5a-cd41-4f30-9c93-272403b7e004')","1,2-Dichloro-1,1,2,2-tetrafluoroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '5cf66c46-55a2-514e-a6ec-806927049896')","1,2-Dichloropropane","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '77e4b75d-9344-5263-ab0e-933b5cb08238')","Fatty acids, c9-13-neo-","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '8b1912e7-fa62-4fa7-9d33-46da503ad788')",Chloro-fluoromethane,"('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '393d0862-04cc-45ae-8d08-9dc2a4461b35')","1,1-Difluoroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'c67be924-e68d-4bc1-9dd9-25f33a6cad34')","Hydrocarbons, aromatic","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'a6106254-94d3-567a-9975-90d379eebef9')","1,2-Benzisothiazolin-3-one","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'a6197b4a-9797-503c-b3d6-4211e1888fa5')","N-(3,5-Dichlorophenyl)succinimide","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '6248aeed-1ce1-49ee-be1c-3471ebf0a82e')",Mesosulfuron-methyl (prop),"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '1dfb1f01-807b-5379-94f7-88e3ae421f57')","2,4-D dimethylamine salt","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '2d50f4c8-a917-4496-a7d9-470b080faf68')","Hydrocarbons, aliphatic, unsaturated","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '79c4520a-47b1-4ec1-a1e5-b52114b0dce6')","Fungicides, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'ec758e92-f235-4372-85b6-40a212e6f86c')",Tributyltin compounds,"('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'a6044fe9-fe06-5f88-95c3-f7888257b7f4')","2,4,5-T","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '81170b91-3f8b-425d-b927-ac6b6466b689')","Carboxylic acids, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '4a979d9f-9b1b-5b5f-8aa8-9a4a700bb74d')",Mesosulfuron-methyl (prop),"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'ef7bc7b8-f85b-4687-9cb1-eb60384650fa')","Hydrocarbons, aliphatic, unsaturated","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'acd68ded-df6f-4a5f-b95d-bbbf2567c735')","Hydrocarbons, aliphatic, alkanes, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f6f47643-c3e6-5fc8-9748-f7b52a504baf')","N-(3,5-Dichlorophenyl)succinimide","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '54fec78e-4c64-5a92-9ddc-126569283de8')","Fatty acids, c9-13-neo-","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '3844f446-ded5-4727-8421-17a00ef4eba7')","Suspended solids, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '779f93e2-bbb4-4a06-a46a-ce636fe59a62')",Ethyl cellulose,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '6d9e9a11-4d99-4489-a0ab-4cd1b6b8eaef')","Xylenes, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '07279b73-709f-4ac2-a9e1-82fbd01ce301')",Polychlorinated biphenyls,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '1c4a106a-53bc-40f5-bcae-d30ab191dbfe')","1,1-Difluoroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '6f0eaf3a-da89-536f-8fe5-686d3d5fdb2a')","Fatty acids, c9-13-neo-","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '2d8c4ee6-4d14-4858-9b1d-680a115c4d9d')","2,4-Diaminotoluene","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '15172458-ab97-56f7-b228-434503da3198')","2,4-D isopropylamine salt","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '6a79fb71-522f-5399-9751-f668c0b6ff18')","2,4-D isopropylamine salt","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '3cfafbc5-f2d4-4edc-ace7-8f644f2418ce')","2,4-D","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '1c3609bf-81f3-5885-8d9c-9d757831a96a')","3,4,5-Trimethylphenyl methylcarbamate","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '02b31d28-44ac-5314-ac11-0d3ccd3070ba')","2,4-D","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'c4744f29-db5a-5436-afb6-1b968fc704f9')","2,4-Dimethylphenol","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'b0106679-8469-46f6-b989-559222745bd6')",Paraffins,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd626c878-28b4-40f7-b59b-5fcc171f601a')",Phenoxy compounds,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '258d63df-d925-4461-8b00-a54d10f41b22')",Isophorondiisocyanate,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd580d93f-5004-4f4f-a576-c941612e552d')",Mineral oil,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '7676cc94-e077-4b39-bd34-8034874e845a')",High-level radioactive waste disposed,"('inventory indicator', 'waste')",kilogram
+"('ecoinvent-3.12-biosphere', 'eb53bdf4-5b02-40fa-a1cb-318e207e7eec')","1,1,2-Trichloroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '94ca9e00-5268-4663-a0cd-25026c7c6b53')","1,1-Difluoroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'a97ba30e-898d-4e73-bd62-ec8f636659c2')","Hydrocarbons, aliphatic, alkanes, cyclic","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '80beb02d-bb2b-5663-9389-5c879ac0d684')","2,4-D dimethylamine salt","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f65558fb-61a1-4e48-b4f2-60d62f14b085')","TOC, Total Organic Carbon","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'c20f48e4-af10-56bb-80ea-32374eba86ff')",Potassium soap,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '5124d526-1e07-5283-bb10-b933def7bfde')","1,2-Benzisothiazolin-3-one","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '73b225ab-ddc4-4a38-9ed0-ceedee987424')","TOC, Total Organic Carbon","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '051aaf7a-6c1a-4e86-999f-85d5f0830df6')","Particulate Matter, < 2.5 um","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '76608f33-7127-47f2-9718-383b3efe3b43')","Indeno(1,2,3-cd)pyrene","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '16fcd4f9-0bb8-4b84-8334-3ffb1a17aa74')","1,1,1,2-Tetrafluoroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '9dfca7f3-e1ac-52c6-b325-8451879e2f1d')",Alkylbenzene (c10-c15),"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '41841109-3de3-5ab8-a115-92cb7934a7fa')","2,3,6-Trichlorobenzoic acid","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '0561e8f7-bb2b-45b7-b4ab-e750f6842981')","Chlorinated solvents, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '317c2d23-6bfa-5417-8707-722576dd835e')",2-Ethyl hexyl acrylate,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '41a4e1fe-34ee-54d9-b049-3a60ada1ae3e')","2,4-D dimethylamine salt","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '230d8a0a-517c-43fe-8357-1818dd12997a')","Particulate Matter, < 2.5 um","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '36c96aed-9335-4564-8cdd-46f01a13700c')","NMVOC, non-methane volatile organic compounds","('air', 'lower stratosphere + upper troposphere')",kilogram
+"('ecoinvent-3.12-biosphere', '210d9659-1d9d-5c2f-9727-1b66973fd634')","2,4-Dimethylphenol","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '017e8179-f85d-52d7-9228-18d8b7065681')","Copper chloride oxide, hydrate","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '737c3221-1456-4c6b-8605-6ac00dc88b2e')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '049a1473-3a62-4121-982b-5d15d0f2c683')","Hydrocarbons, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '696e997b-bc1e-44c2-9145-e93163c97c61')",Paraffins,"('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '645f66af-4b28-4b61-82fb-f30012cab42f')","Acidity, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '7a7054c4-bc1e-4ae2-a31e-b7752bdbeb75')","Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'c161d9b4-2237-4053-b549-9e0cfc201e0d')","Oils, non-fossil","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '5ce634de-b810-4533-9efb-719c38fe7c09')",Dissolved solids,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '29190509-6cc8-47e1-bc99-5ff994e39b74')","Xylenes, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '60268f3d-468b-487e-acb1-24d7250cb6b3')","2-Chloro-1,1,1,2-tetrafluoroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'a248847a-fb94-5c3e-bbba-dd3d374576bc')","2,4-DB","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e9bf9e2d-4bd1-4679-86ff-e34f6b750ea0')","Oils, unspecified","('soil', 'industrial')",kilogram
+"('ecoinvent-3.12-biosphere', '0703375d-be4e-5887-b325-6b4d2e85e4d2')","Copper chloride oxide, hydrate","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '6d7eee86-1fc5-5748-9042-b8a5202d61b0')","3,4,5-Trimethylphenyl methylcarbamate","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '18fb2184-d78e-467f-9eac-116bd534739f')","Pesticides, unspecified","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'fb707784-4ee9-5526-bbaf-55d3222766c4')","2,4-D sodium salt","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '5c234628-ab1e-4284-ae2b-f1c2f6883f71')","Xylenes, unspecified","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd9085317-33aa-59e4-beb5-dc0e64015fb8')","Fungicides, unspecified","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'fc121a47-0538-406f-a335-edd1aac9fae6')","1,1,1-Trichloroethane","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'b6b4201e-0561-5992-912f-e729fbf04e41')","2,4-D dimethylamine salt","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '57e407f0-1c6a-5aa1-ac7e-7fd92e90cd1a')","2,4-D sodium salt","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'fc0b5c85-3b49-42c2-a3fd-db7e57b696e3')","COD, Chemical Oxygen Demand","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '0bb7d030-9461-585e-95c4-4ef9feccd2bc')","2,4-D isopropylamine salt","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '9d1e7c56-9293-56da-abbe-964282fccc71')","2,4,5-Trichlorophenol","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'ae8a126c-b807-4e88-88e8-e7f46d098301')","Oils, non-fossil","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'aae8aac7-b81d-41e4-b356-912b369d1c55')","1,4-Butanediol","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'd57c6fb8-b614-5f6b-a8ac-b5fa9dade725')","Pesticides, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '9a891f6c-937c-4226-9702-4a552973ae3f')",Organic carbon,"('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '68ab2496-c441-4102-a3fa-0d71a24106ab')","Fungicides, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'f8ee4881-a003-4e18-aa2a-d9daf97d76f7')","1,1,1-Trichloroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'f88c472f-8e32-5403-949d-89711b592964')","1,3,5-Trioxane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'a650a8cc-29f4-544c-9b50-a92b34e0d316')","2,4,6-Trichlorophenol","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e487512f-d381-5397-8c55-b0fcec3d8515')",Potassium soap,"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'c057d3e5-dc7a-42f2-aa55-74e3bb12df47')","3,4-Dichloro-1-butene","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd3b4558d-6d3f-58f2-94ee-98bfddb7c248')","Insecticides, unspecified","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '25f52995-fc88-44ab-b11c-f93e35020d01')",Ethyl cellulose,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '456b8003-1508-4000-a53c-752e02023445')",Polychlorinated biphenyls,"('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '045f7de9-60d5-4916-a504-5a1002a6e97e')","Xylenes, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '511f392a-dbcb-5f24-811b-246dcc05ee2c')",Tralkoxydim,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '5f4baaf6-055e-491e-9852-258897ab5194')","Hydrocarbons, aliphatic, alkanes, cyclic","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'e863adf6-88ba-54ab-b4a6-947aa3e0e237')","Pesticides, unspecified","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '94abc029-b2da-57a8-8489-281f8c659f0f')","1,2-Dibromoethane","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '9b513ff5-5f93-5bfe-9a74-385c8ccb657c')","1,2-Dichloropropane","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'e61443a5-41b6-4407-a1cd-116bdfb38a67')",Organic carbon,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '050da0cd-2957-45a9-ae7a-ace372083fe5')","2,2-Dichloro-1,1,1-trifluoroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '979e644a-5b00-4232-a774-6ea6d70d17e5')",Phenoxy compounds,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'ba5fc0b6-770b-4da1-9b3f-e3b5087f07cd')",Sulfur oxides,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '21f7d520-f329-4592-8880-949a08773371')","Hydrocarbons, chlorinated","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '66ff7bb5-773e-5417-8017-fed11ad5f2e9')","2,4,5-Trichlorophenol","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'd535f455-4ba9-573f-a2b8-1baf111c2fbc')","2,4-D ester","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '69bb7dd8-43bc-49ff-a67c-0eb8e82558d0')","2,4-D ester","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '4cff006f-c6df-42a8-9dee-cc064f14326e')","Hydrocarbons, aliphatic, unsaturated","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '47c12d99-c2dc-41cf-bad1-cd31c2fe0421')","1,1,2-Trichloro-1,2,2-trifluoroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '453c3ac9-3365-5dbf-8bbf-665d001299ae')",Propoxycarbazone-sodium (prop),"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'b9864274-b746-5457-b5ff-7feb5fafa878')",Kaolin,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'e1615e9d-73cb-416e-9c46-f7f1822e3232')","Insecticides, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'aedea697-930a-4a0e-9e4f-b9c369aa9a33')","BOD5, Biological Oxygen Demand","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'cc17d8d9-e0f2-5b06-a052-916a1ac848cf')",Ioxynil methyl ester,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f84a6dac-bc6e-4efc-bdb0-a0f2a0231d0f')","1,1,1-Trichloroethane","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '10a891e7-350a-4cba-a8c0-6742db7f3777')",Phenoxy compounds,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '03a1f7e6-f18b-4d49-b40b-5f52d1d9fb5c')","Insecticides, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'fa0c2bee-8dd9-4f8a-8489-b1f3b43de958')","1,1,1,2-Tetrafluoroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '49c42751-1b0b-4ab1-8e70-032e991ce6fd')","Hydrocarbons, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'ce6e5657-5e48-472d-b67e-fab246234be6')","Acidity, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '23c39061-9fdb-4753-8aaa-893a8cad4a4e')",Paraffins,"('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'a7f661f4-da39-4571-a48b-a8d61314ce1b')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '416eedbd-a7b4-4693-8031-9bfaa2f20ebc')","1,1-Dichloro-1-fluoroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '485165cd-8858-47a9-8dd8-a1590a98b296')","1,4-Diisopropylbenzene","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e620a933-c348-4e7e-8893-ab0a0f681c7e')","Hydrocarbons, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '9b132374-dce2-4ce0-86aa-53201b30f617')","1,1,2-Trichloro-1,2,2-trifluoroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'b001715e-60e4-4f1d-949d-1acfab65bd8f')","Particulate Matter, > 10 um","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '8489c687-8702-5ed8-803e-5b3825171d5d')","2,4,5-Trichlorophenol","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '31124547-2a31-5bd3-9f05-7afb151b51ab')","Fatty acids, c9-13-neo-","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '651bd1c1-458e-4585-94e1-46409196de89')","Hydrocarbons, aliphatic, unsaturated","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '95b6f6da-49f9-413d-8ff5-5342d6cff588')","1-Chloro-1,1-difluoroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '46e55458-0696-5e94-9a8d-e705e05fc2db')","1,1,2,2-Tetrafluoroethene","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd7acaccb-1e7f-5079-bd8c-e84563794618')",Kaolin,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '618a4952-a3ba-57eb-b3a7-4c9b9c5483bb')","Herbicides, unspecified","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'a5a8cee4-65ed-5e02-a1d1-9f81d88223c8')",Ioxynil methyl ester,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '377e0c47-28cc-4280-b790-0b4601340748')","1,4-Diethylbenzene","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e6137e6e-84a6-4fa1-a5bf-47c8153d7c05')","2,4-D","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '22c559ba-82c7-59d1-89a3-381c20750fed')","Herbicides, unspecified","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '52c71a8c-4002-5f66-909d-904fa365b897')","1,3,5-Trioxane","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '510b0254-255a-5e06-bbef-e0c5ad30e38e')","Copper chloride oxide, hydrate","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '0e6cf9f9-44ff-4395-ad3b-36109a32e6eb')","Xylenes, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'e95f82f8-d8de-4edb-bb45-04c72e8cf8c8')",Phenoxy compounds,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '68e3130c-7c4b-4825-a383-c54410568d5d')","Discarded fish, pelagic, to ocean","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '963c95b1-a3ab-5755-9a35-5689d3c4c501')",Surfactant blend,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'c8214570-8e2d-4ccf-b9d7-aabc17068d4e')","Xylenes, unspecified","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '3150524e-4796-5e29-8454-657dd67d6a25')",Polychlorinated biphenyls,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '7c171c86-2868-5969-8d3b-6b4a49b8014f')",Propoxycarbazone-sodium (prop),"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '5bdb2d24-a721-5ade-9961-c6d76e51bad4')",Kaolin,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '17a98e7f-a8fd-431d-9bb6-6c4bf3fc5517')","Hydrocarbons, aliphatic, alkanes, unspecified","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '383f5952-45f7-4703-854e-41cd7f9cd8da')",Tributyltin compounds,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '9eeb553b-8732-541b-b854-bb39a5d94628')","2,4-D isopropylamine salt","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '5d830756-4153-4cc9-ade4-69f8c19e150f')","Oils, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'b157329c-4179-5491-97c4-649900954ffa')",Amine oxides,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '82c27b2a-69a8-4b1e-ad4e-4de9475630c6')","Oils, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '3fdc4e95-dc17-5f9f-9ddc-251ecd7c66c0')","Hydrocarbons, unspecified","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f9abb851-8731-4c5b-b057-863996a1f94a')","Hydrocarbons, unspecified","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '62ea3b8c-ab73-5ef3-adbb-eba2de153745')","3,4,5-Trimethylphenyl methylcarbamate","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'd069e5a1-c3c0-4513-9fa5-ff3ebe687ea7')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '846febc7-6361-5bd7-b45e-cac37c1ff6f3')",Imazamethabenz,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'a66484c5-a010-44a2-b970-fdb63919b614')",Phenoxy compounds,"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '66020d27-7ae4-4e59-83a3-89214b72c40a')","Particulate Matter, > 10 um","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '8fc441e0-0d97-46b9-b84b-ed2689d9014a')",Dimethenamide,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '71a6ea76-6642-4573-bed2-c1884e6792fd')","2-Chloro-1,1,1,2-tetrafluoroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'd3260d0e-8203-4cbb-a45a-6a13131a5108')","NMVOC, non-methane volatile organic compounds","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '3b30d058-02ef-4ed2-b357-5fc1a45c63e7')","1,2-Dichloro-1,1,2,2-tetrafluoroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'b0820cd6-3c99-51a9-acfe-37a13cbfd9fb')","1,2-Dibromoethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '576d7e08-4dd0-473b-b62f-86cbfda51651')","Disinfectants, unspecified","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'ce6294f5-2ed7-46ee-a967-33e265e34455')","1,1,1-Trichloroethane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'e758fb1c-85dc-452c-b805-f3ec7e56b90d')","Indeno(1,2,3-cd)pyrene","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'e6367875-dd2b-4d12-8d03-94cf2e607815')","2,4-D ester","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '5e86b7ae-1d51-485c-be33-8c12c4ce4d2e')",Kaolin,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'b902d333-ded6-4c87-be52-8fc03fe6dfd4')","Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '1091418f-9742-5fb8-9ba4-4ca193b6335e')","2,6-Dichloro-4-nitroaniline","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '45004cd2-d993-5865-8482-ef19c9697591')",Potassium soap,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '961ccd56-2eee-4f57-bb18-fc4362b49000')","COD, Chemical Oxygen Demand","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd13b5f85-ae72-5ed2-a652-25a46fcc2f2d')",Ioxynil methyl ester,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '99a82f0f-504a-5a91-85c7-d69f6237096a')",Surfactant blend,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '83bafcf1-2f2e-4a32-89a0-f1f16ca10626')","1,4-Butanediol","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '74de982e-1d81-5285-b9b8-49e4e0894ff2')",Ioxynil methyl ester,"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'efc752d5-3ad6-5c66-9aba-5bd4a97c71dc')","2,4-D sodium salt","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '0afcb5dd-e463-57c4-94e0-984407255232')","Pesticides, unspecified","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '87fffc37-334b-5979-b536-94ef84554f93')","N-(3,5-Dichlorophenyl)succinimide","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'ca53777e-d36e-4db0-95ce-009f1d8593b8')","Solids, inorganic","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'fa169021-c377-5a5e-ae28-bb52facab049')","2,4,6-Trichlorophenol","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '5fa05c4f-8766-41ff-9dd1-fa47c0b7ea48')",Chloro-fluoromethane,"('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '85403ceb-612c-494a-bcab-901946278f58')","Oils, unspecified","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'c5de5e4d-85cf-4102-9ff1-5248d8928ba1')","1,4-Butanediol","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '077d87be-0ee0-5caa-94e3-bd7b8c00772f')",Surfactant blend,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', 'e75faf77-8341-4223-8b46-72391fd0f312')","1,1,2-Trichloroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '3d7e26d4-d1a8-5681-8e99-a7bbf25f0e97')","Pesticides, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'f43b2b80-f5a6-4d31-9980-0754305a978d')","1,1,1-Trifluoroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'efff7584-8b17-513a-a406-bc6a778fcf5a')","Herbicides, unspecified","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd21da01e-f96f-4db5-9746-7b70db8a1f2c')","1,4-Butanediol","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '623ae1fb-a694-4327-9c6f-4ea35c536100')","Insecticides, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '10138eaa-d802-5ff1-b9bf-265330c1c26d')",Imazamethabenz,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '5a405a78-45bb-49de-8ecc-48a5d9cf9721')",Mineral oil,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '18282ab8-5b46-4c56-9038-588ed28a4a95')","Hydrocarbons, aliphatic, alkanes, cyclic","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '61505469-d82e-4f73-9ac6-bb6910038c26')","Discarded fish, demersal, to ocean","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'a73d74ed-727d-54c8-a7df-bca4f94ee225')",Dimethenamide,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'b86a8e64-c0a4-5d22-8622-8e0b1aadaa26')","2,3,6-Trichlorobenzoic acid","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'd14eb0da-95fd-46c3-90db-55ca33d78701')","Hydrocarbons, chlorinated","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '91955aba-6ebc-4413-9342-f0298860b4aa')","BOD5, Biological Oxygen Demand","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '49613f39-4f92-5b3d-a5a0-2d447e64bcf5')",Mesosulfuron-methyl (prop),"('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '647ae26f-f2fe-44cb-ac81-39bb7736f28e')","1,1,1,2-Tetrafluoroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'c1b91234-6f24-417b-8309-46111d09c457')",Nitrogen oxides,"('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'b4d5edf7-0584-4e43-8ee7-f78511443b0d')","1,1,2-Trichloroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '4d7c44eb-4910-5a23-be35-3e78bf864d12')","2,4-D","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'f322122f-3059-4cfb-8754-efc82548e7f0')","2,2-Dichloro-1,1,1-trifluoroethane","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '2c194594-65d9-55ce-b752-c45ad148b062')",Calcium polysulphid,"('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'dd038335-2e7d-405f-ab94-16231b804f8e')",Monobutyltin (III),"('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'c308f812-7e5a-483a-ac1f-1f5742a53784')","Hydrocarbons, aromatic","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '400be66e-4383-482a-93e3-c005e96de261')","1-Chloro-1,1-difluoroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'c7842230-e5ef-4ca8-9cb1-244dee3fe548')","Fungicides, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '13d7e871-6e20-4357-a0c1-73b4739947ca')","1,4-Dichloro-2-butene","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'f77c5e36-ee47-4437-b757-03139bb1d6d6')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '9a55ac3c-4807-534b-8928-d3ff42dbb815')","1,2-Benzisothiazolin-3-one","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '9ffcc5df-8eb2-43f1-9915-b1cdcb853162')","Herbicides, unspecified","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '7f5b291b-d600-5a96-aa32-ba5cd286edec')","2,3,6-Trichlorobenzoic acid","('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '2cbc6042-2cee-4668-8017-d7f805d9029e')","2,2-Dichloro-1,1,1-trifluoroethane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '70d467b6-115e-43c5-add2-441de9411348')","BOD5, Biological Oxygen Demand","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '9ff45c94-a822-58de-9e95-f9751f8811b8')","3,4,5-Trimethylphenyl methylcarbamate","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '693921ef-e02d-4072-add0-55aa4631b213')","Suspended solids, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'bdc5534e-85e0-4b6c-bd84-80e50e831190')","Hydrocarbons, aliphatic, alkanes, unspecified","('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'f012d2d5-ebb4-4531-8285-0b98af3dcbd4')","BOD5, Biological Oxygen Demand","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', '5bf255e4-afa5-53fd-8110-ce90d08714aa')","2,4,6-Trichlorophenol","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'a46af3f1-bb74-565e-a078-0ef7aecb96e6')","Pesticides, unspecified","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '3cca7f02-58b0-4b49-9938-e0f8bea03064')","Hydrocarbons, aromatic","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd41ee922-fa80-45e3-a317-3e9b72ee385d')","Oils, non-fossil","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '596712ce-d415-4636-a3cf-acc767b36857')","Hydrocarbons, aromatic","('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', 'b00e7773-84df-56cc-96c1-b09a7a8e0fde')","2,4,5-Trichlorophenol","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '2224e0ae-caa8-519e-90dd-76851b4d7d6e')","2,4,6-Trichlorophenol","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', 'c7a33b9d-69c0-5052-af68-50f342b08706')","4-Chloro-3,5-dimethylphenol","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '3690e095-6902-5f63-a0aa-0a98ed26e9fe')",Tralkoxydim,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'd1d77d54-e19f-4c3d-8fdc-389f78e72515')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'f2bf94c1-3926-5038-a7e5-121385dec63d')","3,4,5-Trimethylphenyl methylcarbamate","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '47948d72-d0c7-54c7-86f9-15616789356d')",Calcium polysulphid,"('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '86b8d6ec-2f99-4f25-a1aa-394807abdb90')","Solids, inorganic","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '053bc905-96bd-52d2-844d-38101708c9ac')","1,3,5-Trioxane","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '5c9ec415-12f1-4390-bcff-3ff0fcd7ba73')","Hydrocarbons, aliphatic, alkanes, cyclic","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '9a1214d8-6d51-5dde-8f55-a7b262712c51')","2,4,5-T","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', '7678cec7-b8e1-439d-8242-99cd452834b1')","Particulate Matter, > 10 um","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'ae0d4a92-45f4-4293-9fdd-2bbe078bc75f')","Solids, inorganic","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '7533d11b-e96e-4a99-80f2-91400a62d650')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil', 'industrial')",kilogram
+"('ecoinvent-3.12-biosphere', 'e6d5b4d2-ac01-541d-ba35-7a9b97b9c417')","2,4-Dimethylphenol","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'fad455a8-a20f-4b6e-8192-0bec95252876')","1,1,1-Trichloroethane","('water', 'ocean')",kilogram
+"('ecoinvent-3.12-biosphere', 'f871af6f-d4d5-524c-bf75-dfddbf250d15')",Potassium soap,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'b8244ec5-9eed-534a-8e7b-9324d0d10a0d')",Polychlorinated biphenyls,"('soil', 'agricultural')",kilogram
+"('ecoinvent-3.12-biosphere', '181b90a4-8213-551e-b44e-c94067da3993')",Surfactant blend,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'a29e40a5-c78a-570f-b9d0-379ae4cd52fe')","2,4-D isopropylamine salt","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '6b783a45-330e-5ac4-8cf8-1e751e8c00da')","2,4-D ester","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '2994a6e1-ae7c-5a05-b0cd-b8ad2170c26e')","2,6-Dichloro-4-nitroaniline","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', 'a2dfe95b-6a18-53cf-bc0f-63abca15d94f')","1,2-Dibromoethane","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'c6b48901-2e98-5091-9005-4bdde53090ed')","2,3,6-Trichlorobenzoic acid","('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', 'eb36ea68-4cfa-5b72-8afd-132949283a6b')","4-Chloro-3,5-dimethylphenol","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '9b7f06e5-0dc7-4c58-8300-034426d069b5')",Terpenes,"('air', 'low population density, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '1eb1b94c-e9d8-47ab-969b-9cca920157d8')","Particulate Matter, > 10 um","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', 'ccb169c3-8aae-4727-89bb-a7dd122946f3')","Particulate Matter, > 2.5 um and < 10um","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '33b587fc-3788-59b5-b739-55751a6fda0c')","Copper chloride oxide, hydrate","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'ee120559-6814-583b-9ef2-86c23a187141')","2,4,5-T","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '017be306-b88a-4d3a-a906-b8734b72b6fb')","Carboxylic acids, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '493b0ae9-70d7-5431-ac22-c96b4fb7ac4f')","1,2-Benzisothiazolin-3-one","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'a1436f30-a1b7-5e80-923a-4bbe43b20999')","2,4,6-Trichlorophenol","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '818cee9e-231c-4b53-8ed2-47a0001802d5')","1,1,1-Trichloroethane","('air', 'urban air close to ground')",kilogram
+"('ecoinvent-3.12-biosphere', '39f4a569-c774-502f-ab05-f74898971140')","1,2-Dichloropropane","('air',)",kilogram
+"('ecoinvent-3.12-biosphere', 'b37294bd-947d-4f35-b9e6-3eb259c05ff5')","Acidity, unspecified","('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '564dde7f-e713-4baf-84aa-7a11ffa7e2cd')","1,4-Butanediol","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '973abc7f-a953-52de-af4d-de2d388a51c7')","2,3,6-Trichlorobenzoic acid","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', '206b98e7-9df1-4aa1-896e-dc5aa93e9844')",Dimethenamide,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '7538ab50-2ef6-4e49-880d-48d5b283a79b')","Oils, unspecified","('soil', 'forestry')",kilogram
+"('ecoinvent-3.12-biosphere', 'b8db7f8d-c4a3-5aea-b95f-f5729d5656fd')","2,4-D dimethylamine salt","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '4d8131df-07d8-475b-ae7c-8fe4b80fb8e0')",Tributyltin compounds,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', 'a028f9da-dc5e-5c37-9961-536d62fc5654')","1,3,5-Trioxane","('water', 'surface water')",kilogram
+"('ecoinvent-3.12-biosphere', '24752b90-cc53-4198-a442-14196853148d')","Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin","('soil',)",kilogram
+"('ecoinvent-3.12-biosphere', '5918ebf5-6a3c-4e54-927c-e51ba32df7d3')",Intermediate and low-level radioactive waste disposed,"('inventory indicator', 'waste')",kilogram
+"('ecoinvent-3.12-biosphere', '13b07693-bf3c-4f08-8e21-a4a6b743106c')",Paraffins,"('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', 'ba6c4cda-47ff-5320-a853-6a50e12be23a')",Imazamethabenz,"('air', 'non-urban air or from high stacks')",kilogram
+"('ecoinvent-3.12-biosphere', '1d8560a8-23e0-57f0-ade2-69103c953de8')",Diphenylether compounds,"('water',)",kilogram
+"('ecoinvent-3.12-biosphere', '0985a2b2-b411-4c95-a955-1aa5bb64bd08')","Xylenes, unspecified","('water', 'ground-, long-term')",kilogram
+"('ecoinvent-3.12-biosphere', '2f885055-6517-4930-a649-dbf008f02910')",Tributyltin compounds,"('water', 'ground-')",kilogram
+"('ecoinvent-3.12-biosphere', '13a88c9e-fffa-489d-a304-b5045d9b1655')","1,4-Diisopropylbenzene","('water',)",kilogram
