@@ -1,8 +1,3 @@
-The text you're seeing is the **old** README content from the `main` branch — your view hasn't pulled the updated version yet. The updated README is committed on the PR branch (`vibe/update-readme-from-docs-1db1b7`), not merged to `main`.
-
-Here is the full updated README content for you to paste directly:
-
----
 
 # Exergy - Ore Grade Decrease Modeling
 
