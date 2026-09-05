@@ -1,0 +1,273 @@
+flow,amount,categories,unit
+Aluminium III,259747.0213405626,"('water', 'ground-, long-term')",kilogram
+Cobalt II,7020.258933845094,"('water', 'ground-, long-term')",kilogram
+Aluminium III,4041.765860250627,"('air',)",kilogram
+Silver I,1085.271520038603,"('water', 'ground-, long-term')",kilogram
+Aluminium III,888.542894823925,"('air', 'low population density, long-term')",kilogram
+Iron ion,603.1820060583702,"('water', 'ground-, long-term')",kilogram
+Molybdenum VI,592.4542858480025,"('water', 'ground-, long-term')",kilogram
+Aluminium III,500.99222077254154,"('water', 'surface water')",kilogram
+Phosphate,496.18632466748426,"('water', 'ground-, long-term')",kilogram
+Copper ion,468.0302821559931,"('water', 'ground-, long-term')",kilogram
+Nickel II,434.7398070711754,"('water', 'ground-, long-term')",kilogram
+Aluminium III,315.70167694016044,"('soil', 'industrial')",kilogram
+Aluminium III,269.3839335603366,"('soil', 'agricultural')",kilogram
+Aluminium III,206.95873786482042,"('water', 'ground-')",kilogram
+Manganese II,184.88180748403758,"('water', 'ground-, long-term')",kilogram
+Iron ion,164.95482210382974,"('water', 'ground-')",kilogram
+Aluminium III,133.30601233702805,"('water', 'ocean')",kilogram
+Aluminium III,113.38958079247617,"('soil',)",kilogram
+Molybdenum VI,80.26410778903502,"('water', 'ground-')",kilogram
+Phosphate,59.199776208923865,"('water', 'ground-')",kilogram
+Zinc II,39.15604595285156,"('water', 'ground-, long-term')",kilogram
+Molybdenum VI,23.313698410591403,"('water', 'surface water')",kilogram
+Cobalt II,12.318509580198377,"('water', 'ground-')",kilogram
+Silver I,8.755269804198043,"('water', 'ground-')",kilogram
+Aluminium III,8.401598923618973,"('air', 'urban air close to ground')",kilogram
+Cobalt II,5.188063670848835,"('air', 'urban air close to ground')",kilogram
+Aluminium III,4.38095251297612,"('air', 'non-urban air or from high stacks')",kilogram
+Silver I,3.7919320959943277,"('air', 'low population density, long-term')",kilogram
+Cobalt II,3.6143413369563655,"('air', 'non-urban air or from high stacks')",kilogram
+Silver I,2.5065625056474374,"('water', 'ocean')",kilogram
+Iron ion,2.0922274296835797,"('soil',)",kilogram
+Cobalt II,2.0426153489099086,"('water', 'surface water')",kilogram
+Iron ion,1.897752864784034,"('air', 'low population density, long-term')",kilogram
+Cobalt II,1.8023302920597868,"('air', 'low population density, long-term')",kilogram
+Molybdenum VI,1.6372962479632494,"('air', 'low population density, long-term')",kilogram
+Silver I,1.5905781528744278,"('water', 'surface water')",kilogram
+Molybdenum VI,1.5131979168824736,"('air',)",kilogram
+Manganese II,1.2361753465390748,"('water', 'ground-')",kilogram
+Iron ion,1.234497904897397,"('soil', 'industrial')",kilogram
+Nickel II,0.9780142580207565,"('air', 'non-urban air or from high stacks')",kilogram
+Nickel II,0.9400697128983208,"('water', 'ground-')",kilogram
+Cobalt II,0.7024750221007984,"('soil', 'agricultural')",kilogram
+Nickel II,0.5925125275605305,"('air', 'urban air close to ground')",kilogram
+Iron ion,0.5828501580137135,"('water', 'surface water')",kilogram
+Iron ion,0.5735903613609682,"('soil', 'agricultural')",kilogram
+Molybdenum VI,0.48298987145652933,"('air', 'urban air close to ground')",kilogram
+Manganese II,0.4740316275480183,"('soil', 'agricultural')",kilogram
+Tin ion,0.3971305642756583,"('water', 'ground-, long-term')",kilogram
+Aluminium III,0.3459777313786653,"('water',)",kilogram
+Antimony ion,0.34545339040421247,"('water', 'ground-, long-term')",kilogram
+Copper ion,0.29465584347062423,"('air', 'non-urban air or from high stacks')",kilogram
+Molybdenum VI,0.29450283487896683,"('air', 'non-urban air or from high stacks')",kilogram
+Cobalt II,0.29155408548448986,"('air',)",kilogram
+Copper ion,0.2849226092648862,"('air',)",kilogram
+Copper ion,0.2827096843960542,"('air', 'low population density, long-term')",kilogram
+Lead II,0.20304543087010107,"('water', 'ground-, long-term')",kilogram
+Silver I,0.18464927176761559,"('soil', 'industrial')",kilogram
+Iron ion,0.18060302509840062,"('water',)",kilogram
+Copper ion,0.1557822137533237,"('air', 'urban air close to ground')",kilogram
+Copper ion,0.14103057650668552,"('water', 'ground-')",kilogram
+Iron ion,0.13228378011845637,"('air',)",kilogram
+Nickel II,0.12526422415444244,"('water', 'surface water')",kilogram
+Lithium I,0.12480198230460177,"('water', 'ocean')",kilogram
+Nickel II,0.12107093240611068,"('air',)",kilogram
+Silver I,0.10630953191352067,"('soil', 'agricultural')",kilogram
+Manganese II,0.09211265493773153,"('water', 'surface water')",kilogram
+Copper ion,0.08943361297240579,"('water', 'surface water')",kilogram
+Zinc II,0.08925297643791623,"('water', 'ground-')",kilogram
+Silver I,0.08700093525216847,"('air', 'urban air close to ground')",kilogram
+Cobalt II,0.08587361107390934,"('soil',)",kilogram
+Chromium VI,0.08578097329492727,"('water', 'ground-, long-term')",kilogram
+Cobalt II,0.08354402827220957,"('water', 'ocean')",kilogram
+Cobalt II,0.08045896744626359,"('soil', 'industrial')",kilogram
+Silver I,0.07982172621355461,"('soil',)",kilogram
+Nickel II,0.07278526608352241,"('water',)",kilogram
+Zinc II,0.07246320381070975,"('air', 'non-urban air or from high stacks')",kilogram
+Copper ion,0.07143386953402679,"('soil', 'agricultural')",kilogram
+Zinc II,0.06867277445234467,"('soil', 'agricultural')",kilogram
+Copper ion,0.06260082175752008,"('water',)",kilogram
+Lithium I,0.06001716998861102,"('water', 'surface water')",kilogram
+Nickel II,0.05957419117417808,"('air', 'low population density, long-term')",kilogram
+Zinc II,0.057355925805397896,"('air', 'urban air close to ground')",kilogram
+Copper ion,-0.05404702783168806,"('water', 'ocean')",kilogram
+Zinc II,0.05283477412339181,"('water', 'surface water')",kilogram
+Molybdenum VI,0.05231604760362959,"('soil', 'agricultural')",kilogram
+Antimony ion,0.05197632140145567,"('water', 'ground-')",kilogram
+Zinc II,0.04754153470987357,"('water', 'ocean')",kilogram
+Iron ion,0.04647783910537156,"('water', 'ocean')",kilogram
+Phosphate,0.03989211132835677,"('water', 'surface water')",kilogram
+Copper ion,0.038278091967935815,"('soil', 'industrial')",kilogram
+Manganese II,0.03711658699954859,"('air', 'low population density, long-term')",kilogram
+Nickel II,0.02711036433531424,"('soil', 'agricultural')",kilogram
+Manganese II,0.023402437518578123,"('soil', 'industrial')",kilogram
+Manganese II,0.019312284182852253,"('air', 'urban air close to ground')",kilogram
+Zinc II,0.01863174912650914,"('soil', 'industrial')",kilogram
+Zinc II,0.017455708560749433,"('air', 'low population density, long-term')",kilogram
+Zinc II,0.016758311669372222,"('air',)",kilogram
+Copper ion,0.014724025167933183,"('soil',)",kilogram
+Zinc II,0.01451021765008939,"('soil',)",kilogram
+Iron ion,0.014420850525439755,"('air', 'urban air close to ground')",kilogram
+Manganese II,0.013865673408310292,"('water', 'ocean')",kilogram
+Antimony ion,0.011479275692407687,"('water', 'surface water')",kilogram
+Manganese II,0.011308129504539953,"('air', 'non-urban air or from high stacks')",kilogram
+Silver I,0.011209384349529259,"('air', 'non-urban air or from high stacks')",kilogram
+Molybdenum VI,0.010028822711931507,"('soil',)",kilogram
+Phosphate,0.00938263519214421,"('water', 'ocean')",kilogram
+Zinc II,0.007664912810899214,"('water',)",kilogram
+Lead II,0.007035070986320818,"('air', 'non-urban air or from high stacks')",kilogram
+Molybdenum VI,0.006706538341525486,"('water',)",kilogram
+Nickel II,-0.0066242413601098156,"('water', 'ocean')",kilogram
+Antimony ion,0.00564153160961548,"('air', 'non-urban air or from high stacks')",kilogram
+Antimony ion,0.005384373242466237,"('air',)",kilogram
+Cobalt II,0.005272617897293709,"('water',)",kilogram
+Nickel II,0.004755796368202952,"('soil', 'industrial')",kilogram
+Lead II,0.003968929345109873,"('water', 'surface water')",kilogram
+Tin ion,0.003850329581629587,"('air', 'non-urban air or from high stacks')",kilogram
+Manganese II,0.0037468880575600477,"('air',)",kilogram
+Nickel II,0.0023796101794495467,"('soil',)",kilogram
+Tin ion,0.002343627307090614,"('air',)",kilogram
+Molybdenum VI,0.001974535743970305,"('soil', 'industrial')",kilogram
+Molybdenum VI,0.0019398367621069228,"('water', 'ocean')",kilogram
+Lead II,0.0018648393294022393,"('air', 'low population density, long-term')",kilogram
+Chromium VI,0.0018246070471138079,"('water', 'ground-')",kilogram
+Iron ion,0.0014370008768219665,"('air', 'non-urban air or from high stacks')",kilogram
+Tin ion,0.0010541196527998709,"('water', 'surface water')",kilogram
+Manganese II,0.0009236429801131243,"('water',)",kilogram
+Lead II,0.0008188724871918533,"('air', 'urban air close to ground')",kilogram
+Manganese II,0.0005880639790207814,"('soil',)",kilogram
+Silver I,0.0005727258559449023,"('air',)",kilogram
+Lead II,0.0005200469379979586,"('air',)",kilogram
+Tin ion,0.00048755852225910995,"('soil', 'industrial')",kilogram
+Tin ion,0.00043942975946924484,"('air', 'low population density, long-term')",kilogram
+Antimony ion,0.0003351787360136778,"('air', 'low population density, long-term')",kilogram
+Lead II,0.0003296994595369673,"('water',)",kilogram
+Tin ion,0.0003207704633316714,"('water', 'ground-')",kilogram
+Phosphorus,0.0002010963864034713,"('soil', 'agricultural')",kilogram
+Lead II,0.0001915872284011293,"('soil', 'agricultural')",kilogram
+Antimony ion,0.00018933435332712162,"('soil', 'industrial')",kilogram
+Chromium III,0.0001791166623329883,"('air', 'non-urban air or from high stacks')",kilogram
+Lead II,0.00017318957965695161,"('soil', 'industrial')",kilogram
+Chromium VI,0.00016545060086249822,"('water', 'surface water')",kilogram
+Copper ion,-0.00013377190711866957,"('soil', 'forestry')",kilogram
+Antimony ion,0.00012229935425638622,"('water', 'ocean')",kilogram
+Chromium VI,9.30735955581796e-05,"('air', 'non-urban air or from high stacks')",kilogram
+Antimony ion,8.655858782687811e-05,"('air', 'urban air close to ground')",kilogram
+Phosphorus,7.536418948470502e-05,"('water', 'surface water')",kilogram
+Lead II,5.8114984971123184e-05,"('water', 'ground-')",kilogram
+Nickel II,5.748494093456206e-05,"('soil', 'forestry')",kilogram
+Chromium VI,4.005671045373322e-05,"('air', 'low population density, long-term')",kilogram
+Lead II,3.776133228539387e-05,"('soil',)",kilogram
+Zinc II,-3.603103728974079e-05,"('soil', 'forestry')",kilogram
+Tin ion,3.0977945227786916e-05,"('soil',)",kilogram
+Phosphorus,3.001856440529266e-05,"('air', 'urban air close to ground')",kilogram
+Phosphorus,2.7616603082607987e-05,"('soil', 'industrial')",kilogram
+Lead II,2.676879189053596e-05,"('water', 'ocean')",kilogram
+Antimony ion,2.478739764102967e-05,"('soil',)",kilogram
+Tin ion,2.1315070490694274e-05,"('soil', 'agricultural')",kilogram
+Silver I,1.5900757249020257e-05,"('water',)",kilogram
+Tin ion,1.470489332128482e-05,"('water',)",kilogram
+Tin ion,1.3602663191426425e-05,"('air', 'urban air close to ground')",kilogram
+Antimony ion,1.1652004990132447e-05,"('soil', 'agricultural')",kilogram
+Chromium III,1.0634641002432216e-05,"('air',)",kilogram
+Chromium III,9.07664146154236e-06,"('water', 'surface water')",kilogram
+Chromium III,8.306743425556553e-06,"('soil', 'agricultural')",kilogram
+Chromium III,6.579579222639066e-06,"('soil', 'industrial')",kilogram
+Chromium VI,6.1748541301893265e-06,"('water',)",kilogram
+Chromium III,5.15170916181741e-06,"('water',)",kilogram
+Chromium III,3.271891212584004e-06,"('air', 'urban air close to ground')",kilogram
+Lithium I,2.6694070041567128e-06,"('soil',)",kilogram
+Lithium I,2.6694070041567128e-06,"('water', 'ground-')",kilogram
+Phosphorus,2.595696460031219e-06,"('air', 'low population density, long-term')",kilogram
+Phosphorus,1.5659144042041962e-06,"('soil',)",kilogram
+Chromium VI,1.406758463173431e-06,"('air', 'urban air close to ground')",kilogram
+Lithium I,-1.3956621335934283e-06,"('water',)",kilogram
+Phosphate,7.630744716159433e-07,"('water',)",kilogram
+Phosphorus,7.114121808258255e-07,"('water',)",kilogram
+Antimony ion,6.235078200122119e-07,"('water',)",kilogram
+Phosphorus,3.8816013668357975e-07,"('water', 'ground-')",kilogram
+Chromium III,3.195681383492184e-07,"('soil',)",kilogram
+Chromium VI,2.4297499719359524e-07,"('air',)",kilogram
+Phosphorus,1.6089333889520323e-07,"('air', 'non-urban air or from high stacks')",kilogram
+Chromium III,1.5901871234039964e-07,"('water', 'ocean')",kilogram
+Glyphosate,1.0140933173215638e-07,"('soil', 'agricultural')",kilogram
+Chromium III,7.99717809380349e-08,"('water', 'ground-')",kilogram
+Uranium,6.135369769289691e-08,"('air', 'urban air close to ground')",kilogram
+Phosphorus,5.8568615806646866e-08,"('water', 'ocean')",kilogram
+Lead II,4.717620831992753e-08,"('soil', 'forestry')",kilogram
+Lithium I,4.077317189983644e-08,"('air', 'urban air close to ground')",kilogram
+Phosphorus,4.036070056300889e-08,"('air',)",kilogram
+Glyphosate,1.9602195555223504e-08,"('soil', 'industrial')",kilogram
+Chromium III,9.267987493886973e-09,"('soil', 'forestry')",kilogram
+Glyphosate,7.3347386712167015e-09,"('air', 'non-urban air or from high stacks')",kilogram
+Copper ion,3.759658271697554e-09,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Zinc II,1.8142892182967338e-09,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Mancozeb,1.7872830682255804e-09,"('soil', 'agricultural')",kilogram
+Uranium,6.231987374081506e-10,"('air', 'non-urban air or from high stacks')",kilogram
+Mancozeb,5.737726578558033e-10,"('air', 'non-urban air or from high stacks')",kilogram
+Glyphosate,3.483604328499622e-10,"('soil', 'forestry')",kilogram
+Chromium III,3.0016521730353236e-10,"('air', 'low population density, long-term')",kilogram
+Lead II,2.7864084425818683e-10,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Acephate,2.2792504023701404e-10,"('soil', 'agricultural')",kilogram
+Sodium dichromate,2.2768895838151193e-10,"('air', 'urban air close to ground')",kilogram
+Chlorpyrifos methyl,1.6865014107224231e-10,"('soil', 'agricultural')",kilogram
+Nickel II,1.5201711885896018e-10,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Chromium VI,1.1271810813970682e-10,"('soil',)",kilogram
+Acephate,6.465067677115418e-11,"('air', 'non-urban air or from high stacks')",kilogram
+Lithium carbonate,5.7221191116487277e-11,"('water',)",kilogram
+Mancozeb,2.2247672120105437e-11,"('soil', 'forestry')",kilogram
+Uranium,1.8444084877435594e-11,"('air',)",kilogram
+Glyphosate,1.5461783054508655e-11,"('water',)",kilogram
+Glyphosate,1.1427771067797407e-11,"('water', 'ground-')",kilogram
+Monocrotophos,9.998392287055824e-12,"('soil', 'agricultural')",kilogram
+Glufosinate ammonium,8.306000535159586e-12,"('soil', 'agricultural')",kilogram
+Sulfosate,5.726706235753962e-12,"('soil', 'agricultural')",kilogram
+Chlorpyrifos,4.417614353967778e-12,"('soil', 'agricultural')",kilogram
+Mancozeb,3.308987565391707e-12,"('water', 'ground-')",kilogram
+Acephate,3.1638072157944678e-12,"('soil', 'forestry')",kilogram
+Dichromate,2.9898942746133415e-12,"('water',)",kilogram
+Ethephon,2.90035998207988e-12,"('soil', 'agricultural')",kilogram
+Fentin hydroxide,1.0955560345580249e-12,"('soil', 'agricultural')",kilogram
+Mancozeb,1.00741496356296e-12,"('water',)",kilogram
+Acephate,9.125659962810304e-13,"('water', 'ground-')",kilogram
+Copper oxychloride,6.757094683773912e-13,"('soil', 'agricultural')",kilogram
+Chlorpyrifos,6.553301288048346e-13,"('air', 'non-urban air or from high stacks')",kilogram
+Copper oxychloride,2.9178434093572565e-13,"('air', 'non-urban air or from high stacks')",kilogram
+Zineb,2.609383741930533e-13,"('soil', 'agricultural')",kilogram
+Glyphosate,1.0345651482937046e-13,"('water', 'surface water')",kilogram
+Acephate,8.326279202241438e-14,"('water',)",kilogram
+Aluminium hydroxide,5.2760553918376236e-14,"('water',)",kilogram
+Chlorpyrifos,4.88558649886872e-14,"('soil', 'forestry')",kilogram
+Phorate,2.8190494936300243e-14,"('soil', 'agricultural')",kilogram
+Malathion,2.657043178540627e-14,"('soil', 'agricultural')",kilogram
+Chromium III,1.0502288748911224e-14,"('air', 'lower stratosphere + upper troposphere')",kilogram
+Lithium hexafluorophosphate,1.0424837966073539e-14,"('water',)",kilogram
+Ethoprop,9.15001211057408e-15,"('soil', 'agricultural')",kilogram
+Copper oxychloride,3.359353570881152e-15,"('soil', 'forestry')",kilogram
+Phosphorus trichloride,1.380254466994367e-15,"('air', 'urban air close to ground')",kilogram
+Phosphorus pentachloride,1.2250570074949495e-15,"('water',)",kilogram
+Copper oxychloride,1.203607483057997e-15,"('water',)",kilogram
+Diazinon,1.0977354468649956e-15,"('soil', 'agricultural')",kilogram
+Ethephon,6.21218735428184e-16,"('air', 'non-urban air or from high stacks')",kilogram
+Dimethoate,6.167316584529439e-16,"('soil', 'agricultural')",kilogram
+Chlorpyrifos,4.104912238081343e-16,"('water',)",kilogram
+Chlorpyrifos,2.830656494583906e-16,"('water', 'ground-')",kilogram
+Phosmet,1.2827428893935852e-16,"('soil', 'agricultural')",kilogram
+Glufosinate,6.61020590036046e-17,"('soil', 'agricultural')",kilogram
+Azinphos-methyl,4.5242792465082674e-17,"('soil', 'agricultural')",kilogram
+Maneb,2.2118219565234247e-17,"('soil', 'agricultural')",kilogram
+Mancozeb,1.2699603875885942e-17,"('water', 'surface water')",kilogram
+Phosphorus pentafluoride,7.870784232843223e-18,"('air',)",kilogram
+Chlorpyrifos methyl,4.786569983336012e-18,"('air', 'non-urban air or from high stacks')",kilogram
+Phosphorus oxychloride,4.664611346468235e-18,"('water',)",kilogram
+Phosphine,-2.0798034217439772e-18,"('air', 'urban air close to ground')",kilogram
+Terbufos,1.565194541154922e-18,"('soil', 'agricultural')",kilogram
+Ethephon,1.4836845931205456e-18,"('soil', 'forestry')",kilogram
+Copper oxide,3.488130532886277e-19,"('soil', 'agricultural')",kilogram
+Tebupirimfos,1.485958651819986e-19,"('soil', 'agricultural')",kilogram
+Ethephon,5.1161537927844844e-20,"('water', 'surface water')",kilogram
+Chlorpyrifos,4.111834519105039e-20,"('water', 'surface water')",kilogram
+Copper oxide,3.787231794979348e-20,"('air', 'non-urban air or from high stacks')",kilogram
+Chlorpyrifos methyl,2.3431327875277718e-20,"('soil', 'forestry')",kilogram
+Glufosinate,-2.758017930348342e-21,"('air', 'non-urban air or from high stacks')",kilogram
+Chlorpyrifos methyl,8.079768213774677e-22,"('water', 'surface water')",kilogram
+Phosphorus trichloride,6.691537382936447e-22,"('air',)",kilogram
+Copper oxide,1.3896313215411667e-22,"('soil', 'forestry')",kilogram
+Copper oxychloride,9.119247057071969e-23,"('water', 'surface water')",kilogram
+Phosphorus trichloride,1.5764121193588114e-23,"('water',)",kilogram
+Glufosinate,-6.58709810314619e-24,"('soil', 'forestry')",kilogram
+Copper oxide,4.791832024195802e-24,"('water', 'surface water')",kilogram
+Glufosinate,-2.2714132523055304e-25,"('water', 'surface water')",kilogram
+Tin ion,-2.518187534617864e-37,"('water', 'ocean')",kilogram
+Ethephon,2.385852935142403e-49,"('water', 'ground-')",kilogram
