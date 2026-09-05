@@ -2,8 +2,14 @@
 # Exergy - Ore Grade Decrease Modeling
 
 ## Background
-This work started by investigating the possibility of measuring the dissipation in LCA using exergy, specifically with the idea of thermodynamic rarity (TheRy), a concept developed by Antonio Valero and Alicia Valero. However, the TheRy model assumes all the dissipated resources go immediately to a concentration of the dead state, which is assumed to take place in a very long time horizon. This makes it difficult to quantify the short term impact of the life cycle of a product on the aspect of resource use accurately.
+This work started by investigating the possibility of measuring the dissipation in LCA using exergy, specifically with the idea of thermodynamic rarity (TheRy) and Exergy Replacement Cost (ERC), a concept developed at the University of Zaragoza. 
 
+The TheRy metric represents the exergy required to refine a metal from the diluted state of earth, Thanatia, to its refined form. 
+In LCA, the input natural resources enter product systems at their mine states and are dissipated at a diluted concentration within a compartment of dissipation [Dewulf et al. (2021)](https://doi.org/10.1016/j.resconrec.2020.104748).
+
+A restorative perspective, is to assign to the product system all the exergy other product system will have to invest in order to recover all the input/dissipated resources of the product system under study.
+
+A marginalist approach will only account for how much exergy will need to be invest because the state of reserve has changed with the performing of the functional unit under study.
 
 Therefore, the new attempt is to describe the impact of gradual resource dissipation of a product system in terms of exergy. To demonstrate the gradual resource dissipation process, the idea of ore-grade decrease is incorporated. The ore-grade-decrease model describes the relationship between the ore grade and the cumulative metal tonnage (CMT) extracted, and this decline is translated into an **Exergy Replacement Cost (ERC)** — the future effort required to compensate the extraction and dissipation of resources by a product system. The full theoretical framework is documented in [`docs/`](docs/).
 
