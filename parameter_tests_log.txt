@@ -15,3 +15,5 @@
 2026-09-05 23:32:00 | code: b2ins | viera: new | focus: natural_resources | xi_source: inputs/valero-constants.csv | ogd: n | filter ogd: same_elements_H-E_LCIA
 2026-09-05 23:33:23 | code: b2ins | viera: new | focus: natural_resources | xi_source: inputs/valero-constants.csv | ogd: n | filter ogd: same_elements_H-E_LCIA
 2026-09-06 00:09:31 | code: b2iins | viera: new | focus: dissipation | xi_source: inputs/valero-constants.csv | ogd: n | filter ogd: same_elements_H-E_LCIA
+2026-09-06 08:58:47 | code: b2ins | viera: new | focus: natural_resources | xi_source: inputs/valero-constants.csv | ogd: n | filter ogd: same_elements_H-E_LCIA
+2026-09-06 08:59:12 | code: b2ins | viera: new | focus: natural_resources | xi_source: inputs/valero-constants.csv | ogd: n | filter ogd: same_elements_H-E_LCIA
