@@ -1,0 +1,57 @@
+compute_flow_compositions_batch_2(focus, biosphere_db)
+│
+├── Step 1: FILTER FLOWS BY FOCUS
+│   │
+│   ├── focus = "natural_resources"
+│   │   └── Select: categories[0] == 'natural resource' AND unit == 'kilogram'
+│   │
+│   └── focus = "dissipation"
+│       └── Select: categories[0] != 'natural resource' AND unit == 'kilogram'
+│
+├── Step 2: COLLECT UNIQUE COMPOUND NAMES
+│   └── clean_chemical_name(flow['name']) → e.g., "Aluminium" (remove comma, Roman numerals)
+│
+├── Step 3: BATCH FETCH FROM PUBCHEM (SAME FOR BOTH FOCUS)
+│   └── Get molecular_formula and molecular_weight for each unique name
+│
+└── Step 4: COMPUTE COMPOSITION PER FLOW
+    │
+    ├── IF focus == "dissipation"
+    │   │
+    │   ├── PubChem lookup ✅ (SAME as natural resources!)
+    │   │
+    │   ├── IF compound (len(parts) > 1)
+    │   │   └── composition = stoichiometric mass fractions
+    │   │
+    │   ├── IF pure element (len(parts) == 1)
+    │   │   └── composition = {'element': 1.0}
+    │   │
+    │   ├── grade_fraction = 1.0 (ALWAYS)
+    │   └── grade_source = "dissipation" (ALWAYS)
+    │
+    └── IF focus == "natural_resources"
+        │
+        ├── Case 1: Multi-element flow (e.g., "Mo 8.2E-3% and Cu 0.22%")
+        │   ├── parse_multi_element_ore_2(flow['name'])
+        │   ├── composition = {'metal': 1.0} (NAMED metal only)
+        │   ├── grade_fraction = parsed from name (e.g., Mo → 0.000082)
+        │   └── grade_source = "parsed_crude_ore_multi"
+        │
+        ├── Case 2: PubChem compound (NOT multi-element)
+        │   │
+        │   ├── PubChem lookup ✅
+        │   │
+        │   ├── IF compound (len(parts) > 1)
+        │   │   ├── composition = stoichiometric mass fractions
+        │   │   └── grade_fraction = parsed from name OR 1.0
+        │   │
+        │   ├── IF pure element (len(parts) == 1)
+        │   │   ├── composition = {'element': 1.0}
+        │   │   └── grade_fraction = parsed from name OR Valero OR 1.0
+        │   │
+        │   └── Grade priority (if NOT multi-element):
+        │       ├── 1. Parsed from name: "0.8% in sulfide" → 0.008
+        │       ├── 2. Valero fallback: (pure element only) → e.g., 0.0058
+        │       └── 3. Default: 1.0
+        │
+        └── Return: (compositions, not_found, non_target_EFs)
