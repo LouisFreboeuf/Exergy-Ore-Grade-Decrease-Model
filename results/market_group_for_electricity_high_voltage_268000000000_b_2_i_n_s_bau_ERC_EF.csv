@@ -1,0 +1,18 @@
+Flow_Key,Flow_Name,Metals,CF2_contributions,Total_CF2
+"('ecoinvent-3.12-biosphere', '2ba5e39b-adb6-4767-a51d-90c1cf32fe98')",Uranium,['U'],[0.0693441716427345],0.0693441716427345
+"('ecoinvent-3.12-biosphere', '361a64cb-ab76-4a72-9ea1-c07d6a20c124')",Silver,['Ag'],[0.036184844680889575],0.036184844680889575
+"('ecoinvent-3.12-biosphere', '47262180-8308-5d4c-9332-c77617e032ef')",Antimony,['Sb'],[3.0653437673979094e-08],3.0653437673979094e-08
+"('ecoinvent-3.12-biosphere', '483ae3c5-4eb0-46e4-b811-a72ad391716b')",Phosphorus,['P'],[3.284104607746095e-08],3.284104607746095e-08
+"('ecoinvent-3.12-biosphere', '53d5ef26-66d8-4536-afa2-2f6b114189ba')",Tin,['Sn'],[2.9922409871418836e-06],2.9922409871418836e-06
+"('ecoinvent-3.12-biosphere', '7d2c1cdd-a64a-5936-a577-5b82db0c0d1b')",Lithium,['Li'],[-4.7327272719381686e-08],-4.7327272719381686e-08
+"('ecoinvent-3.12-biosphere', '8ce3ff02-7a1e-48e3-881e-3248b944f28a')",Iron,['Fe'],[2.877309006100707e-05],2.877309006100707e-05
+"('ecoinvent-3.12-biosphere', '8de8befc-efa2-5d07-a58b-b29ea97a3f41')",Niobium,['Nb'],[-7.061970595278894e-07],-7.061970595278894e-07
+"('ecoinvent-3.12-biosphere', '974213ef-1ba0-40e5-bc7b-52ef099e9e09')",Nickel,['Ni'],[0.00021088749560634014],0.00021088749560634014
+"('ecoinvent-3.12-biosphere', 'a45cd247-3532-4e27-bddc-b519fdb5e08f')",Aluminium,['Al'],[0.00030689159847195906],0.00030689159847195906
+"('ecoinvent-3.12-biosphere', 'a9ac40a0-9bea-4c48-afa7-66aa6eb90624')",Copper,['Cu'],[0.00043275164148373336],0.00043275164148373336
+"('ecoinvent-3.12-biosphere', 'be73218b-18af-492e-96e6-addd309d1e32')",Zinc,['Zn'],[1.5335366607089477e-06],1.5335366607089477e-06
+"('ecoinvent-3.12-biosphere', 'c2586875-bb56-4b1e-84c5-5ff255a1108b')",Manganese,['Mn'],[1.2653961820516988e-06],1.2653961820516988e-06
+"('ecoinvent-3.12-biosphere', 'd0779a5e-6969-4144-954e-ceb81fb83f15')",Cobalt,['Co'],[6.683813711805934e-05],6.683813711805934e-05
+"('ecoinvent-3.12-biosphere', 'e189e2d4-3d3f-4ada-b302-91611784311f')",Chromium,['Cr'],[2.1947720345604145e-06],2.1947720345604145e-06
+"('ecoinvent-3.12-biosphere', 'e5a3dff5-72dc-5287-893c-597dd4a19566')",Molybdenum,['Mo'],[-0.01963859251944738],-0.01963859251944738
+"('ecoinvent-3.12-biosphere', 'fbcb9c7a-eea7-4694-ba6c-568e01d28883')",Lead,['Pb'],[3.8385391617917897e-07],3.8385391617917897e-07

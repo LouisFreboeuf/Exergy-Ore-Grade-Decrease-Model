@@ -5,7 +5,7 @@
 
 This document presents a two-step methodological Life Cycle Impact Assessment framework to translate ore grade decline (OGD) into exergy replacement costs (ERC) for computing the future efforts required to compensate the extraction and dissipation of resources by product systems.
 
-> **Note:** This document describes the **theoretical framework** for the marginalist LCIA method. The **current implementation** in `SurplusEx.ipynb` fully supports **Step 1 (OGD Characterization)** and **Step 2 (ERC Translation)**. The workflow is parameterised to test different scenarios (e.g., Vieira data versions, focus areas, and initial ore grade sources).
+> **Note:** This document describes the **theoretical framework** for the marginalist LCIA method. The **current implementation** in `Cumulative_ERC.ipynb` fully supports **Step 1 (OGD Characterization)** and **Step 2 (ERC Translation)**. The workflow is parameterised to test different scenarios (e.g., Vieira data versions, focus areas, and initial ore grade sources).
 
 ---
 
