@@ -4,3 +4,4 @@
 2026-09-03 15:12:18 | code: b2iins | viera: new | focus: dissipation | xi_source: inputs/valero-constants.csv | ogd: n | filter ogd: same_elements_H-E_LCIA
 2026-09-20 11:54:45 | code: b_2_ii_n_s_bau | vieira: new | focus: dissipation | xi_source: inputs/valero-constants.csv | ogd: metal_focus | filter ogd: same_elements_H-E_LCIA | scenario for elec choosen: 0
 2026-09-28 17:03:26 | code: b_2_ii_n_s_bau | vieira: new | focus: dissipation | xi_source: inputs/valero-constants.csv | ogd: metal_focus | filter ogd: same_elements_H-E_LCIA | scenario for elec choosen: 0
+2026-09-28 17:17:50 | code: b_2_i_n_s_bau | vieira: new | focus: natural_resources | xi_source: inputs/valero-constants.csv | ogd: metal_focus | filter ogd: same_elements_H-E_LCIA | scenario for elec choosen: 0

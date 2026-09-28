@@ -1,0 +1,25 @@
+Flow_Key,Flow_Name,Metals,CF2_contributions,Total_CF2
+"('ecoinvent-3.12-biosphere', '09a68c14-01f6-4dee-ba29-8b7f400b72b5')",Perlite,['Al'],[1.010158907054826e-05],1.010158907054826e-05
+"('ecoinvent-3.12-biosphere', '26296ec9-ff93-41e6-bbbf-6175af04284d')",Feldspar,['Al'],[8.943263179054286e-14],8.943263179054286e-14
+"('ecoinvent-3.12-biosphere', '2ba5e39b-adb6-4767-a51d-90c1cf32fe98')",Uranium,['U'],[0.6836356098373241],0.6836356098373241
+"('ecoinvent-3.12-biosphere', '361a64cb-ab76-4a72-9ea1-c07d6a20c124')",Silver,['Ag'],[0.35208536079590463],0.35208536079590463
+"('ecoinvent-3.12-biosphere', '47262180-8308-5d4c-9332-c77617e032ef')",Antimony,['Sb'],[2.973842286729705e-07],2.973842286729705e-07
+"('ecoinvent-3.12-biosphere', '483ae3c5-4eb0-46e4-b811-a72ad391716b')",Phosphorus,['P'],[3.186086646021949e-07],3.186086646021949e-07
+"('ecoinvent-3.12-biosphere', '5324b57a-96f1-4dc3-9dc5-544881960f4f')",Spodumene,"['Al', 'Li']","[-2.707785552686615e-07, -1.0361515459568728e-06]",-1.3069301012255343e-06
+"('ecoinvent-3.12-biosphere', '53d5ef26-66d8-4536-afa2-2f6b114189ba')",Tin,['Sn'],[2.902943238987754e-05],2.902943238987754e-05
+"('ecoinvent-3.12-biosphere', '7d2c1cdd-a64a-5936-a577-5b82db0c0d1b')",Lithium,['Li'],[-4.591451916895296e-07],-4.591451916895296e-07
+"('ecoinvent-3.12-biosphere', '81ff5c0b-c44f-534e-a55e-8fc017e33dd2')",Kaolinite,['Al'],[-6.995573109577767e-05],-6.995573109577767e-05
+"('ecoinvent-3.12-biosphere', '8ce3ff02-7a1e-48e3-881e-3248b944f28a')",Iron,['Fe'],[0.00027905739910244595],0.00027905739910244595
+"('ecoinvent-3.12-biosphere', '8de8befc-efa2-5d07-a58b-b29ea97a3f41')",Niobium,['Nb'],[-6.851164844261296e-06],-6.851164844261296e-06
+"('ecoinvent-3.12-biosphere', '93806a54-46f5-409c-99c5-4144a1e73b5d')","Clay, bentonite",['Al'],[0.0013264525790832133],0.0013264525790832133
+"('ecoinvent-3.12-biosphere', '974213ef-1ba0-40e5-bc7b-52ef099e9e09')",Nickel,['Ni'],[0.0020450429425983956],0.0020450429425983956
+"('ecoinvent-3.12-biosphere', 'a45cd247-3532-4e27-bddc-b519fdb5e08f')",Aluminium,['Al'],[0.0029770979248033972],0.0029770979248033972
+"('ecoinvent-3.12-biosphere', 'a9ac40a0-9bea-4c48-afa7-66aa6eb90624')",Copper,['Cu'],[0.004199870439566196],0.004199870439566196
+"('ecoinvent-3.12-biosphere', 'be73218b-18af-492e-96e6-addd309d1e32')",Zinc,['Zn'],[1.4877857557274571e-05],1.4877857557274571e-05
+"('ecoinvent-3.12-biosphere', 'c2586875-bb56-4b1e-84c5-5ff255a1108b')",Manganese,['Mn'],[1.2275604725668641e-05],1.2275604725668641e-05
+"('ecoinvent-3.12-biosphere', 'd0779a5e-6969-4144-954e-ceb81fb83f15')",Cobalt,['Co'],[0.00064851970790712],0.00064851970790712
+"('ecoinvent-3.12-biosphere', 'd7cadc9a-f42c-4711-a8e2-0b626c0a4c7a')",Olivine,['Fe'],[7.529017457951605e-12],7.529017457951605e-12
+"('ecoinvent-3.12-biosphere', 'e189e2d4-3d3f-4ada-b302-91611784311f')",Chromium,['Cr'],[2.1288350174852497e-05],2.1288350174852497e-05
+"('ecoinvent-3.12-biosphere', 'e5a3dff5-72dc-5287-893c-597dd4a19566')",Molybdenum,['Mo'],[-0.18879580872748766],-0.18879580872748766
+"('ecoinvent-3.12-biosphere', 'f7519ca9-5ffc-41c3-a33e-806da82cfc0e')","Clay, unspecified",['Al'],[0.01544237834634707],0.01544237834634707
+"('ecoinvent-3.12-biosphere', 'fbcb9c7a-eea7-4694-ba6c-568e01d28883')",Lead,['Pb'],[3.723992576208429e-06],3.723992576208429e-06
