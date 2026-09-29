@@ -5,13 +5,13 @@
 This work started by investigating the possibility of measuring the dissipation in LCA using exergy, specifically with the idea of thermodynamic rarity (TheRy) and Exergy Replacement Cost (ERC), a concept developed at the University of Zaragoza. 
 
 The TheRy metric represents the exergy required to refine a metal from the diluted state of earth, Thanatia, to its refined form. 
-In LCA, the input natural resources enter product systems at their mine states and are dissipated at a diluted concentration within a compartment of dissipation [Dewulf et al. (2021)](https://doi.org/10.1016/j.resconrec.2020.104748).
+In LCA, the input natural resources enter product systems at their mine states and are dissipated at a diluted concentration within a compartment of dissipation because of compromising actions [Dewulf et al. (2021)](https://doi.org/10.1016/j.resconrec.2020.104748).
 
 A restorative perspective, is to assign to the product system all the exergy other product system will have to invest in order to recover all the input/dissipated resources of the product system under study.
 
 A marginalist approach will only account for how much exergy will need to be invest because the state of reserve has changed with the performing of the functional unit under study.
 
-Therefore, the new attempt is to describe the impact of gradual resource dissipation of a product system in terms of exergy. To demonstrate the gradual resource dissipation process, the idea of ore-grade decrease is incorporated. The ore-grade-decrease model describes the relationship between the ore grade and the cumulative metal tonnage (CMT) extracted, and this decline is translated into an **Exergy Replacement Cost (ERC)** — the future effort required to compensate the extraction and dissipation of resources by a product system. The full theoretical framework is documented in [`docs/`](docs/).
+Therefore, the new attempt is to describe the impact of gradual resource dissipation of a product system in terms of exergy. To demonstrate the gradual resource dissipation process, the idea of ore-grade decrease is incorporated. The ore-grade-decrease model describes the relationship between the ore grade and the **Cumulative Metal Extracted (CME)**, and this decline is translated into an **Exergy Replacement Cost (ERC)** — the future effort required to compensate the extraction and dissipation of resources by a product system. The full theoretical framework is documented in [`docs/`](docs/).
 
 ## Setup
 The entire LCIA process in this repository runs on [BrightWay2.5](https://learn.brightway.dev/en/latest/content/chapters/BW25/BW25_introduction.html). Check their documentation on how to install the package. <br>
@@ -19,17 +19,14 @@ Other libraries to be downloaded: `pubchempy`, `mendeleev` (see `requirements.tx
 
 ## Outline
 Current work can be separated into 3 parts:
-1. Modelling ore-grade decrease: this describes the relationship between the ore grade and the cumulative metal tonnage (CMT) that is extracted.
+1. Modelling ore-grade decrease: this describes the relationship between the ore grade and the cumulative metal extracted (CME).
 2. The corresponding exergy burden added to the future generation due to the change in ore concentration, expressed as an Exergy Replacement Cost (ERC).
-3. Taking into account the concept of dissipation by considering the ratio between the dissipated resources versus the amount of extracted resources.
 
 ![Impact Pathway](/readme_img/Impact-Pathway.png?raw=true&v=2) <br>
 
-The image above illustrates clearly the impact pathway of the target indicator. In order to capture accurately the consequence of mineral dissipation on the reduction of ore grade, the two driving forces of the mining activity are identified, namely **retention** and **expansion**.
-* **Retention** represents the amount needed to replenish the dissipated resources from the technosphere.
-* **Expansion** refers to the extra amount that needs to be mined for the development of the society.
+The image above illustrates clearly the impact pathway of the target indicator. In order to capture accurately the consequence of mineral dissipation on the reduction of ore grade.
 
-Take note that this indicator measures the future burden, in terms of exergy, for the retention part of the mining activity. An assumption made here is that the dissipated material will be replaced with the same material during the next life cycle, which means no alternative is considered.
+Take note that this indicator measures the future burden, in terms of exergy. An assumption made here is that the dissipated material will be replaced with the same material during the next life cycle, which means no substitution is considered.
 
 ## LCIA perspectives: Marginalist and Restorative
 Following [`docs/cultural_perspectives.md`](docs/cultural_perspectives.md), the resource-impact formulations in this repository distinguish a **physical counterfactual** dimension that is orthogonal to the temporal/epistemic (Hierarchist–Egalitarian) distinction of ReCiPe:
